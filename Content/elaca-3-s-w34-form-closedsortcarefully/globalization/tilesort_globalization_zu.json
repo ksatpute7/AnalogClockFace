@@ -1,0 +1,19 @@
+{
+	"tilesort_globalization": {
+		"labelOpts": {
+			"ofLabel"				: "ye",
+			"closeToolTip"			: "Vala",
+			"selectedText"			: "OKUKHETHIWE",
+			"correctText"			: "Kuyikho/ kulungile",
+			"incorrectText"			: "Akuyikho/ akulungile",
+            "yesToolTip"            : "Yebo",
+            "noToolTip"             : "Cha",
+			"customCheckAnswer"		: "Bheka impendulo.",
+			"customSolution"		: "Isixazululo",
+			"customRestButton"		: "Phumula",
+			"customTryAgain" 		: "Phinda uzame",
+			"customMyAnswers" 		: "Veza izimpendulo zami",
+			"capacityError" 		: "<b>Phephisa! / Washa khekhe!</b></br> Lendawo igcwele. Ungasusa okuthile ukuze kuvele isikhala."
+		}
+	}
+}

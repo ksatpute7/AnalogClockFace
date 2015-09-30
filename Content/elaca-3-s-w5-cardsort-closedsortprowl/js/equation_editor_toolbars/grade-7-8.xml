@@ -1,0 +1,184 @@
+<!-- This File is to customize the Toolbar -->
+<equationEditor
+    buttonBar="false"
+    quickBar="true"
+    sideBar="true"
+    height="300">
+
+<palettes>
+
+  <quickBar>
+    <!-- button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="equal"/>
+    <button ref="approx"/ -->
+    <button ref="undo"/>
+    <button ref="redo"/>
+    <button ref="clear"/>
+    <button ref="bs"/>
+    <button ref="more"/>
+  </quickBar>
+
+  <sideBar>
+    <palette ref="numbers"/>
+    <palette ref="arithmetic"/>
+    <palette ref="relations"/>
+    <palette ref="geometry"/>
+    <palette ref="exponents"/>
+    <palette ref="groups"/>
+    <palette ref="greek"/>
+    <palette ref="misc"/>
+  </sideBar>
+  
+  <palette id="numbers">
+    <title>Numbers</title>
+    <button ref="zero"/>
+    <button ref="one"/>
+    <button ref="two"/>
+    <button ref="three"/>
+    <button ref="four"/>
+    <button ref="five"/>
+    <button ref="six"/>
+    <button ref="seven"/>
+    <button ref="eight"/>
+    <button ref="nine"/>
+    <button ref="comma"/>
+    <button ref="decimal"/>
+    <button ref="constantpi"/>
+  </palette>
+  
+  <palette id="misc">
+    <title>Misc</title>
+    
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    
+    <button ref="power"/>
+    <button ref="subscript"/>
+    <button ref="sqrt"/>
+    <button ref="cube-root"/>
+    <button ref="equal"/>
+    <button ref="paren"/>
+    <button ref="percent"/>
+    
+    <button ref="plus-minus"/>
+    <button ref="negative"/>
+    <button ref="times-sdot"/>
+    <button ref="divide-slash"/>
+    <button ref="bracket"/>
+    <button ref="abs"/>
+    
+    <button ref="less-than"/>
+    <button ref="greater-than"/>
+    <button ref="less-equal"/>
+    <button ref="greater-equal"/>
+    <button ref="degrees"/>
+    <button ref="constantpi"/>
+    <button ref="compose"/>
+  </palette>
+  
+  <palette id="arithmetic">
+    <title>Operators and Units</title>
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="plus-minus"/>
+    <button ref="negative"/>
+    <button ref="times-sdot"/>
+    <button ref="divide-slash"/>
+    <button ref="dollar"/>
+    <button ref="cent"/>
+    <button ref="degrees"/>
+    <button ref="percent"/>
+  </palette>
+  
+  <palette id="exponents">
+    <title>Exponents</title>
+    <button ref="power"/>
+    <button ref="subscript"/>
+    <!-- <button ref="exp"/>
+    <button ref="ln"/>
+    <button ref="log"/>
+    <button ref="log-base"/>
+	<button ref="fourth-root"/> -->
+  </palette>
+  
+  <palette id="relations">
+    <title>Relations</title>
+    <button ref="equal"/>
+    <button ref="not-equal"/>
+    <button ref="similar"/>
+    <button ref="not-similar"/>
+    <button ref="less-than"/>
+    <button ref="greater-than"/>
+    <button ref="approx"/>
+    <button ref="not-approx"/>
+    <button ref="less-equal"/>
+    <button ref="greater-equal"/>
+    <button ref="congruent"/>
+    <button ref="not-congruent"/>
+    <button ref="therefore"/>
+  </palette>
+  
+  <palette id="geometry">
+    <title>Geometry</title>
+    <button ref="ray"/>
+    <button ref="line"/>
+    <button ref="segment"/>
+    <button ref="arc"/>
+    <button ref="parallel"/>
+    <button ref="perpendicular"/>
+    <button ref="angle"/>
+    <button ref="anglemeasure"/>
+    <button ref="triangle"/>
+    <button ref="parallelogram"/>
+    <button ref="circle"/>
+  </palette>
+  
+  <palette id="greek">
+    <title>Greek</title>
+    <button ref="alpha"/>
+    <button ref="beta"/>
+    <button ref="gamma"/>
+    <button ref="delta"/>
+    <button ref="theta"/>
+    <button ref="pi"/>
+  </palette>
+
+</palettes>
+
+<buttons>
+  <button id="subscript">
+    <label fontStyle="italic">y&lt;sub>x&lt;/sub></label>
+    <tooltip>subscript</tooltip>
+    <template name="subscript"/>
+  </button>
+</buttons>
+
+<templates xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:i="http://math.pearson.com/MathEX">
+
+<template name="C" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:content/> </i:edit>
+</template>
+
+<template name="P" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:present/> </i:edit>
+</template>
+
+</templates>
+
+</equationEditor>

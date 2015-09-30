@@ -1,0 +1,373 @@
+{
+  "bg_img_url": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-images-ip3-mth-3-0-3_bk_zebras-ip3.jpg",
+  "OriginalFileName": "MATH-9780328760886-AC.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "MATH-9780328760886-AC.json",
+  "MathMissionHeader": "Look for and use patterns in the hundred chart to write missing numbers.",
+  "header": {
+    "lesson_id": "385",
+    "lesson_number": "3",
+    "lesson_name": "Beyond the Hundred Chart",
+    "lesson_types": null,
+    "subject": 1,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "0",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "math"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Patterns in the Hundred Chart",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss:",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Patterns you might notice: </p><p><ul><li>How are numbers in columns the same?</li></ul></p><p><ul><li>How are numbers in rows the same?</li></ul></p><p><ul><li>How do numbers change as you move across a row? Down a column?</li></ul></p><p><ul><li>Where are numbers when you count by 10s?</li></ul></p><p><ul><li>Where are numbers when you count by 5s?</li></ul></p><p><ul><li>Where are even numbers?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0e7884c6-299c-4103-b0d6-5998b6b07534",
+          "NaturalKey": "L385:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5eb8014c-299c-4aea-84fa-89c93bfa92b9",
+      "NaturalKey": "L385:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "\"Ask Myself\" Questions",
+      "routines": {
+        "routine": {
+          "routine_id": 2,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "When working by yourself, you should:",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Here are ideas for “ask myself” questions: </p><p><ul><li>What does ____________ mean?</li></ul></p><p><ul><li>What is this problem talking about?</li></ul></p><p><ul><li>What kinds of comparisons is the problem looking at?</li></ul></p><p><ul><li>What are the numbers in the problem and what do they mean?</li></ul></p><p><ul><li>What is the problem asking for?</li></ul></p><p>Here are ideas for what to do if you get stuck: </p><p><ul><li>Look at similar problems you have solved previously.</li></ul></p><p><ul><li>Model the problem using counters or other materials.</li></ul></p><p><ul><li>Sketch a diagram or other representation.</li></ul></p><p><ul><li>Write what you do know.</li></ul></p><p><ul><li>Write down questions to ask later.</li></ul></p><p><ul><li>Check other resources.</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8bf1db6d-299c-4175-9eb4-7f8f2677bc87",
+          "NaturalKey": "L385:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "bb3ace6d-299c-4084-861e-23d9499ca184",
+      "NaturalKey": "L385:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Math Mission",
+      "routines": {
+        "routine": {
+          "routine_id": 3,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Look for and use patterns in the hundred chart to write missing numbers.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 12,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "babaaa24-299c-44bb-b35b-bd20dd7daa81",
+          "NaturalKey": "L385:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "493f042b-299c-43b0-b139-6f381506099a",
+      "NaturalKey": "L385:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Write Missing Numbers",
+      "routines": {
+        "routine": {
+          "routine_id": 4,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Open the number chart and use the drawing layer to write on it. Then you can take a snapshot of the chart and place in your Notebook. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p><ul><li>What questions did you ask yourself before you worked on this problem?</li></ul></p><p><ul><li>How are the numbers after 100 like the numbers before 100?</li></ul></p><p><ul><li>Can you continue the pattern from the hundred chart?</li></ul></p><p><ul><li>What was one of the missing numbers you wrote? How did you know that was the number?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "642a0363-299c-4bd5-9cf7-55a9e9fd8a70",
+          "NaturalKey": "L385:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "96bda235-299c-439e-a67c-a75ddd0e5990",
+      "NaturalKey": "L385:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Prepare a Presentation",
+      "routines": {
+        "routine": {
+          "routine_id": 5,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Explain how you knew which numbers were missing.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task5_step1.png",
+          "challenge_problem_step": true,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "847c2a69-299c-4370-8779-617405e448cc",
+          "NaturalKey": "L385:T5:S1"
+        },
+        {
+          "step_id": 2,
+          "description": null,
+          "toc_description": "Zoe wrote numbers in this number chart. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task5_step2.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task5_step2.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task5_step2.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8e2e76db-299c-45ed-9f11-f31723784a5f",
+          "NaturalKey": "L385:T5:S2"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "59051e30-299c-45fe-8e53-8b853035c1f2",
+      "NaturalKey": "L385:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Make Connections",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "ways of thinking"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>As your classmates present, ask questions such as:</p><p><ul><li>Are there other ways that you can explain your answer?</li></ul></p><p><ul><li>How is your way of finding the missing numbers the same as the ways of other presenters? How is it different?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7b4bbc78-299c-4d34-8837-04c1a4f6c8ec",
+          "NaturalKey": "L385:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ba229d5b-299c-420c-90f9-72d2582c4a24",
+      "NaturalKey": "L385:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "What Is a Good Summary?",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "summary of the math"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "A good summary clearly explains the important mathematics of today&#8217;s lesson.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Check your summary.</p><p><ul><li>Do you explain the pattern in the columns?</li></ul></p><p><ul><li>Do you explain the pattern in the rows?</li></ul></p><p><ul><li>Do you explain what changes happen in the columns and rows?</li></ul></p><p><ul><li>Do you explain how to use the patterns in the hundred chart to help?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1bbdc8cd-299c-4907-99de-ac9323725343",
+          "NaturalKey": "L385:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "189428dd-299c-47ae-872a-6079c138c775",
+      "NaturalKey": "L385:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Reflect On Your Work",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "reflection"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Write a reflection about the ideas discussed in class today. Use the sentence starter below if you find it to be helpful.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson3_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson3_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson3_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ac-studio-articles-teacherguide-te-math-3-0-0-3-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8e17771f-299c-4d78-96f0-818767796c76",
+          "NaturalKey": "L385:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "29d49d79-299c-4fec-89b6-910b3c4ea320",
+      "NaturalKey": "L385:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "fb282318-40f2-4396-800b-43188b827815",
+  "NaturalKey": "L385"
+}

@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245554-ela-9780133245554-ag-studio-images-ip3-ela-3-4-7_bk_cheetahs-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327243-AG.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327243-AG.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4359",
+    "lesson_number": "7",
+    "lesson_name": "Lesson 7",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "7",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": " You will study three more words from <em>Hallie Leaves Home</em>.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "49d0f111-299c-467d-a594-c22148590242",
+          "NaturalKey": "L4359:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ec038514-299c-490a-b88d-6b5ce12867d5",
+      "NaturalKey": "L4359:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Purpose and Word Choice",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss the following questions with your class.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b18a59a1-299c-431c-8192-dda1176c23b6",
+          "NaturalKey": "L4359:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5bd184c3-299c-4cbb-bcf3-6ef2b8ec1c26",
+      "NaturalKey": "L4359:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Fluency: Phrasing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "660c0bb2-299c-486e-adcc-82f0fc5a98fd",
+          "NaturalKey": "L4359:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9a3554ca-299c-4efd-a851-bfe4116773b6",
+      "NaturalKey": "L4359:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Model Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "886b78b8-299c-46da-8e96-9c1519154b2f",
+          "NaturalKey": "L4359:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c8bc1dd7-299c-4964-b29e-ecde9c2fb961",
+      "NaturalKey": "L4359:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Fable Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Continue writing your fable.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6dbb740b-299c-4bc2-a5f0-8c423ff2c644",
+          "NaturalKey": "L4359:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5f6c351e-299c-4c20-9e1b-ad3a5aec69ce",
+      "NaturalKey": "L4359:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Book Club",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "995075a6-299c-46a8-99dc-2f791e654aa7",
+          "NaturalKey": "L4359:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e1c942ae-299c-4320-9d46-d638ba8f1a2c",
+      "NaturalKey": "L4359:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Prefixes",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher introduces more prefixes.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f9f2c206-299c-4895-bac1-a1720a13e812",
+          "NaturalKey": "L4359:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "384aed0f-299c-438e-b159-f1bbab6b4868",
+      "NaturalKey": "L4359:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Word Choice Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share your thinking about this question.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9c5ef906-299c-4ad8-9442-c8009ad17529",
+          "NaturalKey": "L4359:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "50e6f0cd-299c-4f5a-9fb2-4f1f8d2ac21f",
+      "NaturalKey": "L4359:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Your Fable",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson7_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson7_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson7_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0772fb6a-299c-4324-8ab1-988aba39bac8",
+          "NaturalKey": "L4359:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "cae62089-299c-4aba-95ab-7cdfee1ebf25",
+      "NaturalKey": "L4359:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "a69f0714-40f2-4a73-9a64-884168a5c055",
+  "NaturalKey": "L4359"
+}

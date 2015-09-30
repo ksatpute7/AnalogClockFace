@@ -1,0 +1,19 @@
+{
+    "draganddrop_globalization": {
+        "labelOpts": {
+            "checkAnswerText"       : "Lekola Dikarabo",
+            "showCorrectAnswerText" : "Laetša Dikarabo tša go Nepagala ",
+            "showMyAnswerText"      : "Laetša Dikarabo tša Ka",
+            "resetText"             : "Thoma Gape",
+            "resetConfirmationText" : "<p>Na o nyaka go thoma gape?</p>",
+            "closeToolTip"          : "Tswalela",
+            "yesToolTip"            : "Ee",
+            "noToolTip"             : "No",
+            "selectedText"          : "E KGETHILWE",
+         	"correctText"           : "Maleba",
+			"incorrectText"         : "Fošagetše",
+			"turnoffaudio"          : "Badiriši ba sebadi sa sekirini ba palediša modumo dithaeleng tša go gogega",
+			"turnonaudio"           : "Badiriši ba sebadi sa sekirini ba kgontšha modumo dithaeleng tša go gogega"
+        }
+    }
+}

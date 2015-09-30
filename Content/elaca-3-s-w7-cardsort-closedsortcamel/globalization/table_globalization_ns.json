@@ -1,0 +1,20 @@
+{
+    "table_globalization": {
+        "labelOpts": {
+         	"showSolutionText"      : "Laetša Dikarabo tša Ka",
+         	"resetButtonText"       : "Thoma Gape",
+         	"chartItButtonText"     : "E beye tšhateng",
+         	"resetConfirmText"      : "Na o ka rata go thomolla gape?",
+            "closeToolTip"          : "Tswalela",
+            "yesToolTip"            : "Ee",
+            "noToolTip"             : "Aowa",
+            "invalidRange"          : "Boleng ga bo sa na tatelano. Tsenya boleng bja magareng ga {0} le {1}.",
+            "numberTooSmall"        : "Tsenya boleng bja go feta goba go lekana le {0}.",  
+            "numberTooBig"          : "Tsenya boleng bja ka fase ga goba wa go lekana le {0}.",
+            "exceedMaxLen"          : "Palokgolo ya ditlhaka tše dumeletšwego: {0}.",
+            "validDataSample"       : "Fošagalo ya fomete ya data. Mohlala wa data ya maleba: {0}.",
+     		"invalidDateTimeFormat" : "Fošagalo ya letšatšikgwedi goba fošagalo ya tšatšikgwedi/fomete.  Fomete ya maleba ke {0}.",
+            "exceedScormDataLimit"  : "Data ya tafola e ka se kgone go bolokwa ka lebaka la gore data e feta kgaoletšo yeo e laeditšwego."
+        }
+    }
+}

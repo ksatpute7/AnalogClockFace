@@ -1,0 +1,19 @@
+{
+    "draganddrop_globalization": {
+        "labelOpts": {
+            "checkAnswerText"       : "Comprobar respuestas",
+            "showCorrectAnswerText" : "Mostrar las respuestas correctas",
+            "showMyAnswerText"      : "Mostrar mis respuestas",
+            "resetText"             : "Volver a empezar",
+            "resetConfirmationText" : "¿Quieres volver a empezar?",
+            "closeToolTip"          : "Cerrar",
+            "yesToolTip"            : "Sí",
+            "noToolTip"             : "No",
+            "selectedText"          : "SELECCIONADO/A",
+         	"correctText"           : "Correcto",
+			"incorrectText"         : "Incorrecto",
+			"turnoffaudio"          : "Los que usan lector de pantalla, apaguen el sonido en las fichas movibles.",
+			"turnonaudio"           : "Los que usan lector de pantalla, enciendan el sonido en las fichas movibles."
+        }
+    }
+}

@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-al-studio-images-ip3-ela-3-1-12_bk_kidsdancing-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AL.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AL.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4290",
+    "lesson_number": "12",
+    "lesson_name": "Lesson 12",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Homework Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "For homework, you talked to your family about recycling. Share that discussion now. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9ccfbe8d-299c-4981-8913-eeff68fb3dd2",
+          "NaturalKey": "L4290:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2539be20-299c-4d7b-a7ef-e8bc6beb0811",
+      "NaturalKey": "L4290:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Partner Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Your teacher will assign you a reading partner to work with for the next few weeks. Reading partners will change over the course of the year.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "845c2ed8-299c-4c8f-ab5b-d2e3b4ba9379",
+          "NaturalKey": "L4290:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8cd9c96f-299c-4916-8f58-2adb1e0fd1c6",
+      "NaturalKey": "L4290:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Shared Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and follow along as your teacher reads the G, J, and K pages in <em>What is a Community? from A to Z</em>.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d9019d79-299c-444a-be03-78659566fe50",
+          "NaturalKey": "L4290:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6c4a15fb-299c-4e0c-97ce-52764f220795",
+      "NaturalKey": "L4290:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Writing: What is a Community?",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In your Notebook, write down the main points of information from the pages you read in <em>What is a Community? from A to Z</em>. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bcda0771-299c-445b-ac27-0e01376546e7",
+          "NaturalKey": "L4290:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "95a87059-299c-4c3e-924a-c0edf5e56432",
+      "NaturalKey": "L4290:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Community Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about the information about community from your reading. Discuss the following questions with your partner.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e65439e4-299c-4e57-9910-eaf44fdb513f",
+          "NaturalKey": "L4290:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6d07068f-299c-4ba9-8b16-ff9c49106dc3",
+      "NaturalKey": "L4290:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent and Partner Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently until your teacher signals that time is up. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7b4e565b-299c-4098-912b-690eb912104d",
+          "NaturalKey": "L4290:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e45c9c64-299c-442a-98a1-21f2e678103f",
+      "NaturalKey": "L4290:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Whole Group Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share your thoughts on this question.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "40160c22-299c-4ff9-8395-b53dbff35e8d",
+          "NaturalKey": "L4290:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a66f1373-299c-438d-8478-f7ea367e4dec",
+      "NaturalKey": "L4290:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson12_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson12_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson12_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-12-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "23a43162-299c-4286-9165-55756cb44c27",
+          "NaturalKey": "L4290:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "234922e7-299c-4f6f-b6b5-5a4b3ce09ba9",
+      "NaturalKey": "L4290:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "e38cadb3-40f2-44fa-814d-ffc48d3bc66c",
+  "NaturalKey": "L4290"
+}

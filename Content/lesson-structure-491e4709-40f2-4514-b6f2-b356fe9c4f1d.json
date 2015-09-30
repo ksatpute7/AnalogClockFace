@@ -1,0 +1,273 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-4_bk_japanesecanvas-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AD.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AD.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4332",
+    "lesson_number": "4",
+    "lesson_name": "Lesson 4",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Group Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Look at the questions about <em>Chicken Sunday </em>that the class came up with in the last lesson. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "437c4791-299c-43ee-9eb9-bc970961240e",
+          "NaturalKey": "L4332:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a44eb577-299c-46cf-8ede-456c54e60d6d",
+      "NaturalKey": "L4332:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Write Your Own Story",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "It is your turn to write a story!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2bf9497c-299c-4cf6-ba19-99a9d14fb01d",
+          "NaturalKey": "L4332:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "98d8fc7d-299c-4c78-98da-e7b3aa31eb72",
+      "NaturalKey": "L4332:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Sentence Study",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read the following sentences and then tell a partner what is happening in the sentences.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "698e5263-299c-4a8e-98ec-42eb65ba36a3",
+          "NaturalKey": "L4332:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6f9e5c30-299c-494a-bc73-657119193825",
+      "NaturalKey": "L4332:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Vocabulary Review",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In this task, you will work with your teacher and classmates to review your six vocabulary words. Try to use these words in your everyday speech!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b6c054e7-299c-4a47-82ff-f218490cb379",
+          "NaturalKey": "L4332:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7b03249f-299c-4ee7-8f56-855ec36ebcd7",
+      "NaturalKey": "L4332:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Book Club",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ac72cae8-299c-4a8d-847b-35f9a40ad596",
+          "NaturalKey": "L4332:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e39de00f-299c-4dd9-b72c-ae99b0d05d21",
+      "NaturalKey": "L4332:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "19ce9e90-299c-46c0-9e9f-aaf2c01d117e",
+          "NaturalKey": "L4332:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b93b25ce-299c-4590-99ea-ddad7f937f0e",
+      "NaturalKey": "L4332:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson4_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson4_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson4_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2c4bf0b6-299c-4c23-bb2d-30887257d902",
+          "NaturalKey": "L4332:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8ef825f4-299c-4d37-81e2-19c37a878633",
+      "NaturalKey": "L4332:T7"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "491e4709-40f2-4514-b6f2-b356fe9c4f1d",
+  "NaturalKey": "L4332"
+}

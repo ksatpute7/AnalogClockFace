@@ -1,0 +1,20 @@
+{
+    "table_globalization": {
+        "labelOpts": {
+         	"showSolutionText"      : "Khombisa izimpendulo zami",
+         	"resetButtonText"       : "Qala phansi.",
+         	"chartItButtonText"     : "Yenza umbhalo oyimephu",
+         	"resetConfirmText"      : "Ungathanda ukuqala kabusha?",
+            "closeToolTip"          : "Vala",
+            "yesToolTip"            : "Yebo",
+            "noToolTip"             : "Cha",
+            "invalidRange"          : "Inani alihambisani. Faka inani eliphakathi kuka {0} no {1}",
+            "numberTooSmall"        : "Faka inani elingaphezulu noma elilingana no {0}.",  
+            "numberTooBig"          : "Faka inani elingaphansi noma elilingana no {0}.",
+            "exceedMaxLen"          : "Ubuningi bezinhlamvu ezivumelekile: {0}.",
+            "validDataSample"       : "Isimo semininingwane esingesona. Isibonelo semininingwane eyiyo: {0}.",
+     		"invalidDateTimeFormat" : "Usuku lwenyanga olungelona noma usuku lwenyanga/ isimo sesikhathi okungeyikho. Isimo esiyiso u {0}.",
+            "exceedScormDataLimit"  : "Uhlelo lwemininingwane aluzukongiwa ngoba imininingwane ingaphezulu kwenani elibekiwe."
+        }
+    }
+}

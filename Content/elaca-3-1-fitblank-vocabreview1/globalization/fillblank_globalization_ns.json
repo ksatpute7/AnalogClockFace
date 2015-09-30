@@ -1,0 +1,23 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+			"maxLengthText" 			  : "O tlantše botlalokgolo bja  ditlhaka.",
+			"checkAnswerText"			  : "Lekola Karabo",
+			"closeToolTip"     		      : "Tswalela Poledišano",
+			"showCorrectAnswer"			  : "Laetša Dikarabo tša go Nepagala",
+			"showMyAnswer"				  : "Laetša Dikarabo tša Ka",
+			"firstIncorrectText"		  : "Leka gape.",
+			"firstCorrectText"			  : "O šomile botse!",
+			"finalIncorrectText"		  : "Ga se o kgone.",
+			"finalCorrectText"			  : "E nepagetše!",
+			"correctResponseText"		  : "Karabo ya gago e nepagetše!" ,
+			"incorrectResponseText"		  : "Maswabi, ga se e nepagale.",
+			"correctAnswerShown"		  : "Karabo ya go Nepagala e Laeditšwe",
+			"correctAnswer"				  : "Karabo e Nepagetše",
+			"userSelectedCorrectAnswer"	  : "Moithuti o Kgethile ya go Nepagala",
+			"userSelectedIncorrectAnswer" : "Moithuti o Kgethile ya go Fošagala",
+			"disabledAnswer"			  : "Paledišwa",
+            "answerItemAlert" 			  : "Dikarabo tša go nepagala tša dipotšišo tše di laeditšwe gomme ke {AA}, {BB}, {CC}, {DD}, {EE}, {FF}, {GG}, {HH}, {II}, {JJ}, {KK}"
+		}
+	}
+}

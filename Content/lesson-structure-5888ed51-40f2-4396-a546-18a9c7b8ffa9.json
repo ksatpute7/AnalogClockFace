@@ -1,0 +1,448 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-1_bk_japanesecanvas-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AA.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AA.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4329",
+    "lesson_number": "1",
+    "lesson_name": "Lesson 1",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Introduction",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You are beginning a unit called &#8220;Telling Our Stories.&#8221; One of the great things about reading is that it can transport you to so many different places, some real and some imaginary. Stories can also teach you about different parts of the world, different cultures, and different communities. Over the next few weeks, you are going to be reading many different stories, thinking about what makes a good story, and exploring what you can learn about the communities in which they take place.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "55565aa2-299c-405e-943a-d83297f2660d",
+          "NaturalKey": "L4329:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0b0dc281-299c-4029-9c04-a9ee6ce4cb43",
+      "NaturalKey": "L4329:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Crow Boy Read Aloud",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Look at the cover of <em>Crow Boy</em>, and then tell a partner what you think the book might be about.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0bbb37df-299c-4113-aed9-88d5bc763675",
+          "NaturalKey": "L4329:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b10751ce-299c-4972-9555-c736340141e0",
+      "NaturalKey": "L4329:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Crow Boy Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss the story with your classmates.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ceaa9000-299c-47f3-9448-199ac07dac9d",
+          "NaturalKey": "L4329:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "49250580-299c-416a-a43b-e4b2acf17df1",
+      "NaturalKey": "L4329:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Understanding Tone",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In <em>Crow Boy, </em>the feeling of the story changed when the students started thinking of Chibi in a different way. The feeling of a story is also called <em>tone</em>. Authors create the tone of the story by carefully choosing the words they use. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1a8a8f5d-299c-4fb8-a0f9-7e20e64d2995",
+          "NaturalKey": "L4329:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "63dcbbd2-299c-468e-817b-c7727c19c357",
+      "NaturalKey": "L4329:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Crow Boy T-Chart",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Reread <em>Crow Boy. </em><strong></strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "60d2f825-299c-48f5-a537-4f1daf3be8ff",
+          "NaturalKey": "L4329:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a52d1fda-299c-4721-a1ee-a7139b858559",
+      "NaturalKey": "L4329:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Retelling Crow Boy",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d93ed3cf-299c-4908-ac3b-47f9732e6436",
+          "NaturalKey": "L4329:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "181b4ade-299c-4d7c-b7cb-f3370342993d",
+      "NaturalKey": "L4329:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Plot Comparison",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 11,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2530e9ad-299c-4d22-8ca4-784b3d83be12",
+          "NaturalKey": "L4329:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "61517cfc-299c-44f9-91b3-c6c52964d769",
+      "NaturalKey": "L4329:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Quick Write: Different Communities, Same Problem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Talk with a partner about the problem that both Chibi and Anna faced in their schools. Talk about how these characters overcame their problems.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "dffc2fb6-299c-475e-995a-cebd47b9bf63",
+          "NaturalKey": "L4329:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "30a11178-299c-4e00-9651-96f638aa2d28",
+      "NaturalKey": "L4329:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bd93c633-299c-46aa-b398-ab33e18473ff",
+          "NaturalKey": "L4329:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3d416c92-299c-4f96-8c13-6dc8ea30323e",
+      "NaturalKey": "L4329:T9"
+    },
+    {
+      "task_id": 10,
+      "description": "Prefixes",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "What happens when you place a few letters before a word you know? ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task10_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task10_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task10_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "87aaf7fc-299c-471f-9997-f8fd0115f2ff",
+          "NaturalKey": "L4329:T10:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d8cbdcc1-299c-4224-b78b-494a3415f544",
+      "NaturalKey": "L4329:T10"
+    },
+    {
+      "task_id": 11,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about the importance of community in helping people to feel accepted. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task11_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task11_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task11_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4e1fec1d-299c-4b99-849c-4f28ebec8f16",
+          "NaturalKey": "L4329:T11:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "33d3d7b4-299c-4f4b-9c21-fb670ab6c822",
+      "NaturalKey": "L4329:T11"
+    },
+    {
+      "task_id": 12,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson1_task12_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson1_task12_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson1_task12_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d53d3736-299c-4cca-a540-1a6efe844fc1",
+          "NaturalKey": "L4329:T12:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5159aaee-299c-435a-bce3-6a77a96361ed",
+      "NaturalKey": "L4329:T12"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "5888ed51-40f2-4396-a546-18a9c7b8ffa9",
+  "NaturalKey": "L4329"
+}

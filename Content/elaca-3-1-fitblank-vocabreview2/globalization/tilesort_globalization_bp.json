@@ -1,0 +1,22 @@
+{
+	"tilesort_globalization": {
+		"labelOpts": {
+			"ofLabel"			: "de",
+			"closeToolTip"		: "Fechar",
+			"selectedText"		: "Selecionado",
+			"correctText"		: "Correcto",
+			"incorrectText"		: "Incorrecto",
+			"customCheckAnswer"	: "Verificar resposta",
+			"customSolution"	: "Solução",
+			"customRestButton"	: "Pausa/ Descanso ?",
+			"customTryAgain" 	: "Tentar novamente.",
+			"customMyAnswers" 	: "Mostrar minhas respostas",
+			"capacityError" 	: "<b>Ops!</b><br> Esta área está cheia. Você pode remover um item para ganhar espaço.",
+			"closeToolTip"      : "Fechar",
+            "yesToolTip"        : "Sim",
+            "noToolTip"         : "Não",
+            "playalt" 			: "Reproduzir",
+			"pausealt" 			: "Pausar"
+		}
+	}
+}

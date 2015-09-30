@@ -1,0 +1,26 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+			"maxLengthText" : "Has escrito el máximo número de caracteres.",
+			"checkAnswerText": "Comprueba tu respuesta.",
+			"showCorrectAnswer": "Mostrar las respuestas correctas",
+			"showMyAnswer": "Mostrar mis respuestas",
+			"firstIncorrectText": "Inténtalo de nuevo.",
+			"finalIncorrectText": "Casi",
+			"finalCorrectText": "¡Correcto!",
+			"correctResponseText": "¡Tu respuesta es correcta!" ,
+			"incorrectResponseText": "Lo siento, pero es incorrecto.",
+			"correctAnswerShown": "Se muestra la respuesta correcta.",
+			"correctAnswer": "Respuesta correcta",
+			"userSelectedCorrectAnswer": "El estudiante seleccionó Correcto.",
+			"userSelectedIncorrectAnswer": "El estudiante seleccionó Incorrecto.",
+			"disabledAnswer": "No habilitado",
+			"closeToolTip"          : "Cerrar Diálogo",
+            "yesToolTip"            : "Si",
+            "noToolTip"             : "No",
+            "answerItemAlert" : "Las respuestas correctas a estas preguntas han sido resaltadas con color y son {AA}, {BB}, {CC}, {DD}, {EE}, {FF}, {GG}, {HH}, {II}, {JJ} , {KK}",
+            "playalt" : "Iniciar",
+			"pausealt" : "Pausa"
+		}
+	}
+}

@@ -1,0 +1,238 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133335804-2015-images-ip3-elaca-3-i-4_bk_kidsunglasses-ip3.jpg",
+  "OriginalFileName": "ELA-9780133335804-AD.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133335804-AD.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "5950",
+    "lesson_number": "4",
+    "lesson_name": "Lesson 4",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "6",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Share Your Progress",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Your animal report is almost finished!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson4_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson4_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson4_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8a30fc62-299c-4f8a-87c5-d6abe05110ad",
+          "NaturalKey": "L5950:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e9180e17-299c-4259-b77c-fec7326d5eb5",
+      "NaturalKey": "L5950:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Linking Words and Phrases",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Writers use linking words and phrases to connect ideas and move the writing along. Linking words make the piece flow smoothly and help the reader understand how the ideas fit together.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson4_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson4_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson4_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7670f356-299c-4ace-aef8-0f1ca7be8518",
+          "NaturalKey": "L5950:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a37c86a0-299c-4259-a31b-a28f7eac7245",
+      "NaturalKey": "L5950:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Linking Words",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Have you included any linking words in your report?",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson4_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson4_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson4_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "320d7762-299c-44dc-836a-249ef8eca1db",
+          "NaturalKey": "L5950:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ec7f8539-299c-45bd-bdd6-7a4edd688ef2",
+      "NaturalKey": "L5950:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Your Conclusion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Next you are going to draft the closing paragraph of your report.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson4_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson4_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson4_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4c5aeecb-299c-426d-a92a-7ecad0a85ff2",
+          "NaturalKey": "L5950:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "00fe9a97-299c-48c4-91d1-4449f8e4bf9c",
+      "NaturalKey": "L5950:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Group Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Great endings!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson4_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson4_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson4_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7a5cc3f2-299c-490c-84ed-c271f05e64e3",
+          "NaturalKey": "L5950:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "44c1dc63-299c-4b6d-9eeb-47fcb8935149",
+      "NaturalKey": "L5950:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Your Draft",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Come to the next class prepared to share your report with your group.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson4_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson4_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson4_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9b2b4bf4-299c-4a8c-9c5b-1337070bd1ec",
+          "NaturalKey": "L5950:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0464dbb3-299c-44df-a7c7-cddc522ab4f0",
+      "NaturalKey": "L5950:T6"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "58a657e2-40f2-4b11-9cfb-368bd4a5e390",
+  "NaturalKey": "L5950"
+}

@@ -1,0 +1,8 @@
+{
+    "shortAnswer_globalization": {
+        "labelOpts": {
+            "playalt" : "Iniciar",
+			"pausealt" : "Pausa"
+        }
+    }
+}

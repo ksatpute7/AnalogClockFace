@@ -1,0 +1,19 @@
+{
+    "draganddrop_globalization": {
+        "labelOpts": {
+            "checkAnswerText"       : "Bheka izimpendulo.",
+            "showCorrectAnswerText" : "Khombisa izimpendulo okuyizona.",
+            "showMyAnswerText"      : "Khombisa izimpendulo zami.",
+            "resetText"             : "Qala phansi.",
+            "resetConfirmationText" : "<p> Ungathanda ukuqala phansi?</p>",
+            "closeToolTip"          : "Vala",
+            "yesToolTip"            : "Yebo",
+            "noToolTip"             : "Cha",
+            "selectedText"          : "OKUKHETHIWE",
+         	"correctText"           : "Okuyikhona.",
+			"incorrectText"         : "Okungeyikho.",
+			"turnoffaudio"          : "Basebenzisi besihenqo sokufunda susani inhlokomo/ umsindo kumathayili ahudulekayo.",
+			"turnonaudio"           : "Basebenzisi besihenqo sokufunda buyiselani inhlokomo/ umsindo kumathayili ahudulekayo."
+        }
+    }
+}

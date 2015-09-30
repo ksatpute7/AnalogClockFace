@@ -1,0 +1,36 @@
+@font-face{
+	font-family:"GillSansInfant";
+	src: url("gillsansinfant/GillSansInfantW01.eot");
+	src: local('?'),
+		url("gillsansinfant/GillSansInfantW01.woff") format("woff"),
+		url("gillsansinfant/GillSansInfantW01.svg#GillSansInfant") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family:"GillSansInfant";
+	src: url("gillsansinfant/GillSansInfantW01-Bold.eot");
+	src: local('?'),
+		url("gillsansinfant/GillSansInfantW01-Bold.woff") format("woff"),
+		url("gillsansinfant/GillSansInfantW01-Bold.svg#GillSansInfant") format("svg");
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face{
+	font-family:"GillSansInfant";
+	src: url("gillsansinfant/GillSansInfantW01-BoldI.eot");
+	src: local('?'),
+		url("gillsansinfant/GillSansInfantW01-BoldI.woff") format("woff"),
+		url("gillsansinfant/GillSansInfantW01-BoldI.svg#GillSansInfant") format("svg");
+	font-weight: bold;
+	font-style: italic;
+}
+@font-face{
+	font-family:"GillSansInfant";
+	src: url("gillsansinfant/GillSansInfantW01-Itali.eot");
+	src: local('?'),
+		url("gillsansinfant/GillSansInfantW01-Itali.woff") format("woff"),
+		url("gillsansinfant/GillSansInfantW01-Itali.svg#GillSansInfant") format("svg");
+	font-weight: normal;
+	font-style: italic;
+}

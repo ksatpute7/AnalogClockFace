@@ -1,0 +1,203 @@
+{
+  "bg_img_url": "sg-ela-sg-5500000000003-2015-images-ip3-elaca-5-n-2_bk_chalkboard-ip3.jpg",
+  "OriginalFileName": "ELA-5500000000003-AC.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-5500000000003-AC.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "6129",
+    "lesson_number": "3",
+    "lesson_name": "Lesson 3",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 31,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Week 3, Day 1: Spelling Pretest",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You will continue to learn about common spelling patterns. You will have opportunities to explore the spelling patterns through word sorts, building words, and exploring patterns.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson3_task1_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson3_task1_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson3_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "sg-ela-sg-5500000000003-2015-articles-g03-sp-elaca-3-3-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2d8debf5-299c-45dc-9184-18fa74122381",
+          "NaturalKey": "L6129:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "cbae966c-299c-4e32-8a08-df05ec08aa24",
+      "NaturalKey": "L6129:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Week 3, Day 2: Phonics Practice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Play &#8220;Root Word Detective.&#8221;",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson3_task2_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson3_task2_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson3_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "sg-ela-sg-5500000000003-2015-articles-g03-sp-elaca-3-3-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f3babbcc-299c-4186-a665-9e4fc0eebeb7",
+          "NaturalKey": "L6129:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f8a61c96-299c-47a3-b31a-9902cac0ad37",
+      "NaturalKey": "L6129:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Week 3, Day 3: Sort Game",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Play the Sort Game with a partner.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson3_task3_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson3_task3_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson3_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "sg-ela-sg-5500000000003-2015-articles-g03-sp-elaca-3-3-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "84e444cc-299c-4ac0-b2c9-9d490d2f7d74",
+          "NaturalKey": "L6129:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "fbaad80e-299c-4329-95fb-212c21ff19c4",
+      "NaturalKey": "L6129:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Week 3, Day 4: Spelling Practice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson3_task4_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson3_task4_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson3_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "sg-ela-sg-5500000000003-2015-articles-g03-sp-elaca-3-3-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a426f596-299c-4096-89a3-4ff0b039c1ba",
+          "NaturalKey": "L6129:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9d34e903-299c-4d3b-bbcf-de685812cacb",
+      "NaturalKey": "L6129:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Week 3, Day 5: Spelling Test",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today you will work with a partner to give and take your spelling test. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson3_task5_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson3_task5_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson3_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "sg-ela-sg-5500000000003-2015-articles-g03-sp-elaca-3-3-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a654b7cc-299c-4bf9-bc1f-adb46f7accd3",
+          "NaturalKey": "L6129:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "af193bf3-299c-4266-b67a-93c5423fc3d4",
+      "NaturalKey": "L6129:T5"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "2fc235e9-40f2-4286-8f58-aadcd921db7c",
+  "NaturalKey": "L6129"
+}

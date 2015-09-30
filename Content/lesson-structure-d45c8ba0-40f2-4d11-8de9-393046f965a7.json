@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-ap-studio-images-ip3-ela-3-1-16_bk_thaiparade-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AP.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AP.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4294",
+    "lesson_number": "16",
+    "lesson_name": "Lesson 16",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher discusses new vocabulary words.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d228d316-299c-404d-a86b-34e02f95a5bc",
+          "NaturalKey": "L4294:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6758e95c-299c-40be-8428-afc5f9842109",
+      "NaturalKey": "L4294:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Conjunctions",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You will now learn about a group of words called conjunctions. <em>Conjunctions</em> have a very important job; they allow a writer to combine ideas to make his or her intended meaning clear to the reader. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "36904a3f-299c-4cef-ad8c-559b791d817c",
+          "NaturalKey": "L4294:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "67e08fb0-299c-47fd-b401-11e9a480dcb9",
+      "NaturalKey": "L4294:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Practice With Conjunctions",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now, work with a partner to combine the following pairs of sentences, using a different conjunction each time. Remember, you may change the order of the sentences to stress the most important sentence of the pair.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "45906110-299c-4df0-b59d-5c4e3c56c7dc",
+          "NaturalKey": "L4294:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d6eefadc-299c-4545-9f27-e275bab21b8d",
+      "NaturalKey": "L4294:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Revision Strategies",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "What word do you see within the word <em>revision</em>? ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7defdc62-299c-46eb-9b3d-6ee2caa2e729",
+          "NaturalKey": "L4294:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d73ff9e9-299c-4acc-9a3e-58627ba39aa7",
+      "NaturalKey": "L4294:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Report Revision",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about some revisions you might want to make in your interview report. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c07505c6-299c-4402-9f95-70e2e5649679",
+          "NaturalKey": "L4294:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d11b3977-299c-4b82-a33b-ddbd8689a4dc",
+      "NaturalKey": "L4294:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently for 30 minutes. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6aa3eb32-299c-4af3-9d61-b2f899246e17",
+          "NaturalKey": "L4294:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2a2e7978-299c-42bc-b616-f6778a948f78",
+      "NaturalKey": "L4294:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Revision Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as several of your classmates read their interview reports before and after revisions were made.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fdbd6d28-299c-4775-898e-1a57f31c09aa",
+          "NaturalKey": "L4294:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8606451b-299c-4566-9da9-fedd2aedcf6b",
+      "NaturalKey": "L4294:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson16_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson16_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson16_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-16-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "073470fd-299c-4e80-8b25-f6c2c5beb762",
+          "NaturalKey": "L4294:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "18dcd65b-299c-44b0-9926-507bbdd6d60b",
+      "NaturalKey": "L4294:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "d45c8ba0-40f2-4d11-8de9-393046f965a7",
+  "NaturalKey": "L4294"
+}

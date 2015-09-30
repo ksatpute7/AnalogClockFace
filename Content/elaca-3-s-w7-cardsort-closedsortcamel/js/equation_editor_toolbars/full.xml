@@ -1,0 +1,73 @@
+<equationEditor
+    buttonBar="false"
+    quickBar="true"
+    sideBar="auto"
+    height="300">
+
+<buttonBars>
+
+  <buttonBar id="home" more="more">
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="equal"/>
+    <button ref="paren"/>
+  </buttonBar>
+
+</buttonBars>
+
+<palettes>
+
+  <quickBar>
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="equal"/>
+    <button ref="approx"/>
+    <button ref="undo"/>
+    <button ref="redo"/>
+    <button ref="clear"/>
+    <button ref="bs"/>
+    <button ref="more"/>
+  </quickBar>
+
+  <sideBar>
+    <palette ref="numbers"/>
+    <palette ref="arithmetic"/>
+    <palette ref="exponents"/>
+    <palette ref="relations"/>
+    <palette ref="groups"/>
+    <palette ref="sets"/>
+    <palette ref="geometry"/>
+    <palette ref="trigonometry"/>
+    <palette ref="hyperbolic"/>
+    <palette ref="statistics"/>
+    <palette ref="greek"/>
+  </sideBar>
+
+</palettes>
+
+<templates xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:i="http://math.pearson.com/MathEX">
+
+<template name="C" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:content/> </i:edit>
+</template>
+
+<template name="P" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:present/> </i:edit>
+</template>
+
+</templates>
+
+</equationEditor>

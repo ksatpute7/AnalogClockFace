@@ -1,0 +1,896 @@
+{
+  "id": "s0",
+  "pages": [
+    {
+      "id": "p0",
+      "gadgets": {
+        "r2-g7": {
+          "class": "TileSort",
+          "feedbackType": "instantFeedback",
+          "randomize": true,
+          "numberOfTries": 2,
+          "column": [
+            {
+              "progressBar": false,
+              "columnsText": [
+                {
+                  "dropId": "A",
+                  "dropText": {
+                    "value": "\u003cp\u003e\u003cstrong\u003e3\u003c/strong\u003e\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dropId": "B",
+                  "dropText": {
+                    "value": "\u003cp\u003e\u003cstrong\u003e4\u003c/strong\u003e\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dropId": "C",
+                  "dropText": {
+                    "value": "\u003cp\u003e\u003cstrong\u003e5\u003c/strong\u003e\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                }
+              ],
+              "tilesText": [
+                {
+                  "dragId": "A",
+                  "dragText": {
+                    "value": "\u003cp\u003ecarefully\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "A",
+                  "dragText": {
+                    "value": "\u003cp\u003eunprepared\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "A",
+                  "dragText": {
+                    "value": "\u003cp\u003eleadership\u003c/p\u003e",
+                    "audioComponent": {
+                      "type": "hover"
+                    }
+                  }
+                },
+                {
+                  "dragId": "A",
+                  "dragText": {
+                    "value": "\u003cp\u003eoncoming\u003c/p\u003e",
+                    "audioComponent": {
+                      "type": "hover"
+                    }
+                  }
+                },
+                {
+                  "dragId": "A",
+                  "dragText": {
+                    "value": "\u003cp\u003eownership\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "A",
+                  "dragText": {
+                    "value": "\u003cp\u003ereappeared\u003c/p\u003e",
+                    "audioComponent": {
+                      "type": "hover"
+                    }
+                  }
+                },
+                {
+                  "dragId": "B",
+                  "dragText": {
+                    "value": "\u003cp\u003eimpossibly\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "B",
+                  "dragText": {
+                    "value": "\u003cp\u003emisbehaving\u003c/p\u003e",
+                    "audioComponent": {
+                      "type": "hover"
+                    }
+                  }
+                },
+                {
+                  "dragId": "B",
+                  "dragText": {
+                    "value": "\u003cp\u003eoverdoing\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "B",
+                  "dragText": {
+                    "value": "\u003cp\u003eremarkable\u003c/p\u003e",
+                    "audioComponent": {
+                      "type": "hover"
+                    }
+                  }
+                },
+                {
+                  "dragId": "B",
+                  "dragText": {
+                    "value": "\u003cp\u003eunbearably\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "C",
+                  "dragText": {
+                    "value": "\u003cp\u003eunacceptable\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                },
+                {
+                  "dragId": "C",
+                  "dragText": {
+                    "value": "\u003cp\u003euncomfortable\u003c/p\u003e",
+                    "audioComponent": {}
+                  }
+                }
+              ]
+            }
+          ],
+          "feedback": {
+            "showGraphicalTreatment": false,
+            "attempts_response_text": {
+              "audioComponent": {}
+            },
+            "first_correct_text": {
+              "audioComponent": {},
+              "imageComponent": {}
+            },
+            "final_incorrect_text": {
+              "audioComponent": {},
+              "imageComponent": {}
+            }
+          },
+          "buttons": {}
+        },
+        "g_title": {
+          "class": "StyledText",
+          "value": "\u003cp\u003ePage Layout\u003c/p\u003e",
+          "audioComponent": {}
+        },
+        "r1-g1": {
+          "class": "Button",
+          "audioComponent": {},
+          "button": {
+            "buttonImage": [
+              {
+                "baseSrc": "auth/asset/ela-tilesort-btn-info-default.png",
+                "overSrc": "auth/asset/ela-tilesort-btn-info-over.png",
+                "downSrc": "auth/asset/ela-tilesort-btn-info-down.png",
+                "disabledSrc": "auth/asset/ela-tilesort-btn-info-disabled.png"
+              }
+            ]
+          },
+          "content": [
+            {
+              "title": "\u003cp\u003eInstructions\u003c/p\u003e",
+              "titleAudio": {},
+              "mainBody": "\u003cp\u003eSort the words by the number of syllables.\u003c/p\u003e",
+              "mainBodyAudio": {},
+              "leftBodyAudio": {},
+              "rightBodyAudio": {},
+              "mainImageAudio": {},
+              "leftImageAudio": {},
+              "rightImageAudio": {},
+              "video": {
+                "autoPlay": false,
+                "playOnlyOnce": false,
+                "disableClickToPlayPause": false,
+                "toggleControls": false,
+                "controls": false,
+                "caption": false,
+                "volumebar": false,
+                "showStopPointToggle": false,
+                "showCC": false
+              },
+              "mainBodyTop": false,
+              "mainImgTop": true,
+              "videoTop": false
+            }
+          ],
+          "windowProps": {
+            "windowType": "tooltip",
+            "width": "600",
+            "height": "400"
+          },
+          "ttposition": "SW",
+          "draggable": true,
+          "popupposition": "CENTER"
+        },
+        "page_title": {
+          "class": "StyledText",
+          "value": "\u003cp\u003eClosed Sort: Week 34\u003c/p\u003e",
+          "audioComponent": {}
+        }
+      },
+      "name": "Fluid_Layout",
+      "class": "page",
+      "collapsed": [
+        "r2-g1",
+        "r2-g2",
+        "r2-g3",
+        "r2-g4",
+        "r2-g5",
+        "r2-g6",
+        "r3",
+        "r3-c1-g0",
+        "r3-c2-g1",
+        "r3-c2-g0",
+        "r3-c2-g2",
+        "r2-g0"
+      ]
+    },
+    {
+      "id": "p1",
+      "gadgets": {
+        "r2-g7": {
+          "class": "TileSort",
+          "numberOfTries": 2,
+          "progressBar": true,
+          "randomize": true,
+          "correctAudio": "",
+          "inCorrectAudio": "",
+          "tilesText": [
+            {
+              "dragId": "A",
+              "dragText": {
+                "value": "\u003cp\u003eApple\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "A",
+              "dragText": {
+                "value": "\u003cp\u003eArm\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "A",
+              "dragText": {
+                "value": "\u003cp\u003eAcademy\u003c/p\u003e",
+                "audioComponent": {
+                  "src": "",
+                  "type": "hover"
+                }
+              }
+            },
+            {
+              "dragId": "B",
+              "dragText": {
+                "value": "\u003cp\u003eBat\u003c/p\u003e",
+                "audioComponent": {
+                  "src": "",
+                  "type": "hover"
+                }
+              }
+            },
+            {
+              "dragId": "B",
+              "dragText": {
+                "value": "\u003cp\u003eBalloon\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "B",
+              "dragText": {
+                "value": "\u003cp\u003eBall\u003c/p\u003e",
+                "audioComponent": {
+                  "src": "",
+                  "type": "hover"
+                }
+              }
+            },
+            {
+              "dragId": "C",
+              "dragText": {
+                "value": "\u003cp\u003eCat\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "C",
+              "dragText": {
+                "value": "\u003cp\u003eCar\u003c/p\u003e",
+                "audioComponent": {
+                  "src": "",
+                  "type": "hover"
+                }
+              }
+            },
+            {
+              "dragId": "C",
+              "dragText": {
+                "value": "\u003cp\u003eCity\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "D",
+              "dragText": {
+                "value": "\u003cp\u003eDog\u003c/p\u003e",
+                "audioComponent": {
+                  "src": "",
+                  "type": "hover"
+                }
+              }
+            },
+            {
+              "dragId": "D",
+              "dragText": {
+                "value": "\u003cp\u003eDoor\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "D",
+              "dragText": {
+                "value": "\u003cp\u003eDuck\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "E",
+              "dragText": {
+                "value": "\u003cp\u003eEar\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "E",
+              "dragText": {
+                "value": "\u003cp\u003eEagle\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "E",
+              "dragText": {
+                "value": "\u003cp\u003eEat\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            }
+          ],
+          "tilesImage": [
+            {
+              "dragId": "A",
+              "dragImage": {
+                "src": "auth/asset/samples/bear.png",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "B",
+              "dragImage": {
+                "src": "auth/asset/samples/fish.png",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "C",
+              "dragImage": {
+                "src": "auth/asset/samples/lion.png",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dragId": "D",
+              "dragImage": {
+                "src": "auth/asset/samples/oh.png",
+                "audioComponent": {}
+              }
+            }
+          ],
+          "columnsText": [
+            {
+              "dropId": "A",
+              "dropText": {
+                "value": "\u003cp\u003eA\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dropId": "B",
+              "dropText": {
+                "value": "\u003cp\u003eB\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dropId": "C",
+              "dropText": {
+                "value": "\u003cp\u003eC\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dropId": "D",
+              "dropText": {
+                "value": "\u003cp\u003eD\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            },
+            {
+              "dropId": "E",
+              "dropText": {
+                "value": "\u003cp\u003eE\u003c/p\u003e",
+                "audioComponent": {}
+              }
+            }
+          ],
+          "scoreText": "\u003cp\u003eYou got XX out of YY correct.\u003c/p\u003e",
+          "scoreTextAudio": {
+            "src": "",
+            "type": "hover"
+          }
+        },
+        "r2-g3": {
+          "imageLabels": [
+            {
+              "labelImage": {
+                "title": "Dolphin",
+                "audioComponent": {},
+                "src": "auth/asset/samples/dolphin.png"
+              },
+              "labelY": 11,
+              "labelX": 145
+            }
+          ],
+          "image": {
+            "title": "Venn Diagram illustrating what makes a human.",
+            "src": "auth/asset/samples/go_background.png"
+          },
+          "class": "GraphicOrganizer",
+          "groups": [
+            {
+              "scorm": {
+                "interactions": [
+                  {
+                    "objectives": [
+                      {
+                        "completionThreshold": 0.5,
+                        "score": {
+                          "max": 4
+                        }
+                      }
+                    ],
+                    "description": "Graphic Org This is the Interaction description"
+                  }
+                ]
+              },
+              "groupName": "Dolphin",
+              "shortanswer": [
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 130,
+                  "top": 109
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 94,
+                  "top": 191
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 94,
+                  "top": 281
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 130,
+                  "top": 369
+                }
+              ]
+            },
+            {
+              "scorm": {
+                "interactions": [
+                  {
+                    "objectives": [
+                      {
+                        "completionThreshold": 0.5,
+                        "score": {
+                          "max": 3
+                        }
+                      }
+                    ],
+                    "description": "Graphic Org This is the Interaction description"
+                  }
+                ]
+              },
+              "groupName": "Both",
+              "shortanswer": [
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 164,
+                  "left": 396,
+                  "top": 162
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "placeholder": "this would be a hint",
+                  "width": 164,
+                  "left": 396,
+                  "top": 242
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 164,
+                  "left": 396,
+                  "top": 317
+                }
+              ]
+            },
+            {
+              "scorm": {
+                "interactions": [
+                  {
+                    "objectives": [
+                      {
+                        "completionThreshold": 0.5,
+                        "score": {
+                          "max": 4
+                        }
+                      }
+                    ],
+                    "description": "Graphic Org This is the Interaction description"
+                  }
+                ]
+              },
+              "groupName": "Human",
+              "shortanswer": [
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 582,
+                  "top": 109
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 618,
+                  "top": 191
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 618,
+                  "top": 281
+                },
+                {
+                  "height": 46,
+                  "maxLength": 250,
+                  "width": 248,
+                  "left": 582,
+                  "top": 369
+                }
+              ]
+            }
+          ],
+          "textLabels": [
+            {
+              "labelText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003eBoth\u003c/p\u003e"
+              },
+              "labelY": 110,
+              "labelX": 452
+            },
+            {
+              "labelText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003eHumans\u003c/p\u003e"
+              },
+              "labelY": 41,
+              "labelX": 597
+            }
+          ]
+        },
+        "r2-g2": {
+          "class": "DragAndDrop",
+          "dragAndDropVersion": "instant",
+          "hideTargetBackground": false,
+          "cloning": false,
+          "backgroundTitle": "this is a drag and drop activity",
+          "finalInCorrectAudio": {},
+          "numberOfTries": 2,
+          "firstCorrectAudio": {},
+          "resetConfirmTextAudio": {},
+          "tileHeight": 64,
+          "scoreTextAudio": {},
+          "textLabels": [
+            {
+              "labelText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003eLabelText\u003c/p\u003e"
+              },
+              "labelY": 1,
+              "labelX": 406
+            }
+          ],
+          "randomize": false,
+          "hideBackground": false,
+          "firstInCorrectAudio": {},
+          "finalInCorrect": "\u003cp\u003eNot Quite.\u003c/p\u003e",
+          "firstCorrect": "\u003cp\u003eGood Job.\u003c/p\u003e",
+          "droppables": [
+            {
+              "title": "Target 1",
+              "droppableX": "550",
+              "dropId": "1",
+              "droppableY": "0"
+            },
+            {
+              "title": "Target 2",
+              "droppableX": "550",
+              "dropId": "2",
+              "droppableY": "70"
+            },
+            {
+              "title": "Target 3",
+              "droppableX": "550",
+              "dropId": "3",
+              "droppableY": "140"
+            },
+            {
+              "title": "Target 4",
+              "droppableX": "550",
+              "dropId": "4",
+              "droppableY": "210"
+            },
+            {
+              "title": "Target 5",
+              "droppableX": "550",
+              "dropId": "5",
+              "droppableY": "280"
+            }
+          ],
+          "finalCorrectAudio": {},
+          "feedBackPopUp": true,
+          "finalCorrect": "\u003cp\u003eWay to go.\u003c/p\u003e",
+          "tileWidth": 406,
+          "firstInCorrect": "\u003cp\u003eTry Again.\u003c/p\u003e",
+          "dragAndDropBackground": "auth/asset/samples/base_layer.png",
+          "draggableText": [
+            {
+              "draggableY": 0,
+              "dragText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003ePut on warm clothes and shoes to go outside.\u003c/p\u003e"
+              },
+              "draggableX": 0,
+              "dragId": "1"
+            },
+            {
+              "draggableY": "70",
+              "dragText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003eMake three snowballs--one small, one medium, and one large.\u003c/p\u003e"
+              },
+              "draggableX": "0",
+              "dragId": "2"
+            },
+            {
+              "draggableY": "140",
+              "dragText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003ePut the medium snowball on top of the large snowball\u003c/p\u003e"
+              },
+              "draggableX": "0",
+              "dragId": "3"
+            },
+            {
+              "draggableY": "210",
+              "dragText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003ePut the small snowball on top of the medium snowball.\u003c/p\u003e"
+              },
+              "draggableX": "0",
+              "dragId": "4"
+            },
+            {
+              "draggableY": "280",
+              "dragText": {
+                "audioComponent": {},
+                "value": "\u003cp\u003eAdd sticks for arms and other items for eyes and a nose.\u003c/p\u003e"
+              },
+              "draggableX": "0",
+              "dragId": "5"
+            }
+          ],
+          "scoreText": ""
+        },
+        "r2-g5": {
+          "class": "ShortAnswer",
+          "textarea": {
+            "canHighlight": true,
+            "height": 100,
+            "maxLength": 10,
+            "placeholder": "A little hint"
+          },
+          "richtext": {
+            "paragraph": [
+              {
+                "audioComponent": {},
+                "value": "\u003cp\u003e\u003ca title\u003d\"My Link\" href\u003d\"http://www.apple.com\" target\u003d\"_blank\"\u003e\u003cstrong\u003eLorem Ipsum Dolar\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e"
+              }
+            ]
+          }
+        },
+        "g_title": {
+          "class": "StyledText",
+          "value": "\u003cp\u003eFullscreen\u003c/p\u003e",
+          "audioComponent": {}
+        },
+        "r2-g4": {
+          "paragraph": [
+            {
+              "audioComponent": {},
+              "value": "\u003cp\u003eA dog is a, \u003cinput type\u003d\"text\" /\u003eA cat is a, \u003cinput type\u003d\"text\" /\u003eA horse is a, \u003cinput type\u003d\"text\" /\u003eA pig is a, \u003cinput type\u003d\"text\" /\u003e\u003c/p\u003e"
+            }
+          ],
+          "numberOfTries": 2,
+          "class": "FillBlank",
+          "shouldValidateMax": false,
+          "attempts_response_text": {
+            "audioComponent": {}
+          },
+          "showFeedback": true,
+          "allCorrectFeedback": {
+            "final_correct_text": {
+              "audioComponent": {}
+            }
+          },
+          "correct_response_text": {
+            "audioComponent": {}
+          },
+          "multiFeedback": {
+            "final_incorrect_text": {
+              "audioComponent": {}
+            },
+            "first_incorrect_text": {
+              "audioComponent": {}
+            },
+            "attempts_response_text": {
+              "audioComponent": {}
+            },
+            "final_correct_text": {
+              "audioComponent": {}
+            }
+          },
+          "button": {},
+          "incorrect_response_text": {
+            "audioComponent": {}
+          },
+          "inputAttributes": [
+            {
+              "maxLength": 20,
+              "placeholder": "has 4 legs",
+              "case_sensitive": true,
+              "correct_response": "dog|puppy|animal"
+            },
+            {
+              "maxLength": 5,
+              "case_sensitive": false,
+              "correct_response": "cat|kitten|animal"
+            },
+            {
+              "maxLength": 30,
+              "case_sensitive": false,
+              "correct_response": "horse|animal"
+            },
+            {
+              "maxLength": 20,
+              "case_sensitive": false,
+              "correct_response": "pig| animal"
+            }
+          ]
+        },
+        "r2-g1": {
+          "class": "Image",
+          "title": "Image Title",
+          "audioComponent": {},
+          "src": "auth/asset/samples/imgPlaceHolder_768.jpg"
+        },
+        "r2-g0": {
+          "class": "RichText",
+          "highlightingEnabled": true,
+          "paragraph": [
+            {
+              "audioComponent": {},
+              "value": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003c/p\u003e"
+            }
+          ]
+        },
+        "r1-g1": {
+          "content": [
+            {
+              "mainBodyTop": false,
+              "mainImgTop": true,
+              "videoTop": false,
+              "video": {
+                "poster": "auth/asset/samples/p1.jpg",
+                "local": [
+                  {
+                    "src": "auth/asset/samples/video2.mp4"
+                  }
+                ]
+              },
+              "title": "\u003cp\u003eTitle amet, consectetur adipisicing elit, sed do tempor incididunt ut labore et\u003c/p\u003e",
+              "titleAudio": {},
+              "mainBody": "\u003cp\u003eMain Body consectetur adipisicing elit, sed do temporconsectetur adipisicing elit, sed do tempor consectetur adipisicing elit, sed do tempor \u003c/p\u003e",
+              "mainBodyAudio": {},
+              "mainImage": "auth/asset/samples/colorblock32.jpg",
+              "mainImageTitle": "Main Image Title",
+              "mainImageAudio": {},
+              "rightBody": "\u003cp\u003eRight body - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore et Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore et\u003c/p\u003e",
+              "rightBodyAudio": {},
+              "rightImage": "auth/asset/samples/colorblock32.jpg",
+              "rightImageTitle": "Right Image Title",
+              "rightImageAudio": {},
+              "leftBody": "\u003cp\u003eLeft body - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore etit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore etit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore et\u003c/p\u003e",
+              "leftBodyAudio": {},
+              "leftImage": "auth/asset/samples/puppy-sm.png",
+              "leftImageTitle": "Left Image Title",
+              "leftImageAudio": {}
+            }
+          ],
+          "windowProps": {
+            "windowType": "popup",
+            "height": "400",
+            "width": "600"
+          },
+          "button": {
+            "buttonText": [
+              {
+                "buttonTitle": "Button"
+              }
+            ]
+          },
+          "class": "Button",
+          "popupposition": "center",
+          "draggable": true,
+          "popupClosesBy": "click"
+        },
+        "page_title": {
+          "class": "StyledText",
+          "highlightingEnabled": true,
+          "audioComponent": {},
+          "value": "\u003cp\u003eLorem ipsum dolor sit amet.\u003c/p\u003e"
+        }
+      },
+      "name": "Fluid_Layout",
+      "class": "page",
+      "collapsed": []
+    }
+  ],
+  "type": "main"
+}

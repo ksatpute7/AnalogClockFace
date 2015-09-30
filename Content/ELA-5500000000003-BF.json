@@ -1,0 +1,203 @@
+{
+  "bg_img_url": "",
+  "OriginalFileName": "ELA-5500000000003-BF.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-5500000000003-BF.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "6231",
+    "lesson_number": "32",
+    "lesson_name": "Lesson 32",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 31,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Week 32, Day 1: Spelling Pretest",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You will continue to learn about common spelling patterns. You will have opportunities to explore the spelling patterns through word sorts, building words, and exploring patterns.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson32_task1_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson32_task1_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson32_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3dd2842e-299c-46e3-9d50-f13eaa139d30",
+          "NaturalKey": "L6231:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "df1d4180-299c-439b-b568-7bb5ca47dd3c",
+      "NaturalKey": "L6231:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Week 32, Day 2: Open Sort",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today, you will continue to work with words that have a schwa sound.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson32_task2_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson32_task2_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson32_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fd8261fb-299c-4bb4-8ee2-c4fc7a73fe0e",
+          "NaturalKey": "L6231:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "99d857e4-299c-4dde-8874-ff33c5a0b5d7",
+      "NaturalKey": "L6231:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Week 32, Day 3: Closed Sort",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Review the spelling pattern for this week with your teacher.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson32_task3_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson32_task3_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson32_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ec0c4063-299c-40cb-a6a4-8e38757ac09b",
+          "NaturalKey": "L6231:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "fc402c9b-299c-43c7-8ead-f77775a055f6",
+      "NaturalKey": "L6231:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Week 32, Day 4: Spelling Practice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Practice for the spelling test by using the &#8220;See, Say, Cover, Write, Check&#8221; method. Your teacher will review the steps in this method.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson32_task4_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson32_task4_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson32_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9761cbf0-299c-41ea-a51c-97bb1b08b032",
+          "NaturalKey": "L6231:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e231f8c2-299c-4c0d-940c-c57002862c2c",
+      "NaturalKey": "L6231:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Week 32, Day 5: Spelling Test",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today, you will work with a partner to give and take your spelling test.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson32_task5_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson32_task5_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson32_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "87e9dd73-299c-4943-8ef6-25fdbd624291",
+          "NaturalKey": "L6231:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f59bf7c6-299c-42a5-a880-d5c0d1c301e0",
+      "NaturalKey": "L6231:T5"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "bcea708d-40f2-47c4-a376-3b556f4b80ce",
+  "NaturalKey": "L6231"
+}

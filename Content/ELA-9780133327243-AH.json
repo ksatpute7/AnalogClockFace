@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245554-ela-9780133245554-ah-studio-images-ip3-ela-3-4-8_bk_deers-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327243-AH.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327243-AH.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4360",
+    "lesson_number": "8",
+    "lesson_name": "Lesson 8",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "7",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "\"The Lion and the Mouse\" Video",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have been discussing traits that belong to different communities. You have also discussed fables and the roles animals play in these stories.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ee4ba969-299c-415e-b1b5-19fa03d13ccb",
+          "NaturalKey": "L4360:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ca6afeb5-299c-464b-a24a-083c634275ea",
+      "NaturalKey": "L4360:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Video Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss with your partner some reasons you think fables are important in communities. Use evidence from the video to support your thinking. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "576c8749-299c-443c-9e64-e199445288c0",
+          "NaturalKey": "L4360:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e9c396b1-299c-476e-ae8d-6730fd8c91d1",
+      "NaturalKey": "L4360:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Fable Closings",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "A <em>closing</em> is when the reader learns the moral or lesson of the fable. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "14643492-299c-41b2-b128-32284051ce7a",
+          "NaturalKey": "L4360:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "588359c8-299c-47d8-84eb-d9f7d98c43f7",
+      "NaturalKey": "L4360:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Response Groups",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d70ff3f2-299c-4a4b-8740-6d3643b79a2d",
+          "NaturalKey": "L4360:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "13ba13d5-299c-4abc-8253-6d09d0c13c8d",
+      "NaturalKey": "L4360:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Polish Your Fable",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d9798e97-299c-42aa-921a-c68d4f7767ae",
+          "NaturalKey": "L4360:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "15845d40-299c-4d86-bfe1-4b1de847d0c1",
+      "NaturalKey": "L4360:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f45d3b16-299c-4429-982d-a4c773666d34",
+          "NaturalKey": "L4360:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5f3f9966-299c-43a5-adee-6c9a211697e4",
+      "NaturalKey": "L4360:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Possessives",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher tells you about possessive nouns.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d5495d6b-299c-45a1-bc34-8649c1e8dcc2",
+          "NaturalKey": "L4360:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c5adfa66-299c-4307-a3ad-e6c15e8678c0",
+      "NaturalKey": "L4360:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Author's Chair",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1cf329ea-299c-4cd2-8811-8a96d8ef2b32",
+          "NaturalKey": "L4360:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d1df6d97-299c-4ed4-aea2-395268fbb13f",
+      "NaturalKey": "L4360:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Your Fable",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson8_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson8_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson8_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8cc22939-299c-4669-998a-cee8b664cec8",
+          "NaturalKey": "L4360:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a9207d02-299c-4f6f-a86b-b00440721382",
+      "NaturalKey": "L4360:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "f89b952d-40f2-4ba0-ad36-fb61be014b7d",
+  "NaturalKey": "L4360"
+}

@@ -1,0 +1,238 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-aj-studio-images-ip3-ela-3-1-10_bk_marchingband-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AJ.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AJ.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4288",
+    "lesson_number": "10",
+    "lesson_name": "Lesson 10",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Informational Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "OPENING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Write a brief response to the following question.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson10_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson10_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson10_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-10-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3d54209d-299c-4fea-a740-8365a1b74dd3",
+          "NaturalKey": "L4288:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "18f9b3d3-299c-4f7a-b31f-9aebac6e675d",
+      "NaturalKey": "L4288:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Benchmark (Cold Write): Informational",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will write your informational piece. Remember that an <em>informational</em> piece is a text that gives facts and information about a topic. It can also be writing that explains something.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson10_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson10_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson10_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-10-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "dbaddf81-299c-435e-82f0-0847a302b0e7",
+          "NaturalKey": "L4288:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7b3ec4d7-299c-4cc5-9562-4a84b4d9452b",
+      "NaturalKey": "L4288:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have talked about how the author&#8217;s word choice affects the meaning of the story. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson10_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson10_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson10_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-10-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "36d4f733-299c-42e2-98b1-7beb800fcf13",
+          "NaturalKey": "L4288:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e33c4407-299c-4b11-b5fa-7ae7ed7abd30",
+      "NaturalKey": "L4288:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently for 25 minutes. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson10_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson10_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson10_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-10-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "056e9b95-299c-4b6a-93c4-1b8bd97f3e74",
+          "NaturalKey": "L4288:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c9b5abae-299c-4708-91e5-d4f5418ae070",
+      "NaturalKey": "L4288:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Group Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with your small group and discuss your Independent Reading. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson10_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson10_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson10_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-10-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f6aaeda3-299c-4ac1-a777-1ca61ca3faca",
+          "NaturalKey": "L4288:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "03a40210-299c-4130-82fc-459796360cf5",
+      "NaturalKey": "L4288:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson10_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson10_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson10_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-10-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "cfe2b4bc-299c-439a-b6f2-63ab625a6ab6",
+          "NaturalKey": "L4288:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d6100763-299c-4780-a9d8-948ccff02dbc",
+      "NaturalKey": "L4288:T6"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "181c5289-40f2-4c52-a948-88a631620dd0",
+  "NaturalKey": "L4288"
+}

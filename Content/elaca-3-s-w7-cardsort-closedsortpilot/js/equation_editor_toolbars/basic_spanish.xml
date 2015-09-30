@@ -1,0 +1,1518 @@
+<equationEditor>
+
+<buttons>
+
+    <button id="edit">
+        <label icon="ee-icon-list-alt"/>
+        <tooltip>Edit</tooltip>
+    </button>
+    <button id="numbers">
+        <label>123</label>
+        <tooltip>Numbers</tooltip>
+    </button>
+    <button id="letters">
+        <label fontStyle="italic">abc</label>
+        <tooltip>Letters</tooltip>
+    </button>
+    <button id="other">
+        <label>???</label>
+        <tooltip>Other</tooltip>
+    </button>
+    <button id="arithmetic">
+        <label>&#x00F7;</label>
+        <tooltip>Arithmetic</tooltip>
+    </button>
+    <button id="exponents">
+        <label fontStyle="italic">y&lt;sup>x&lt;/sup></label>
+        <tooltip>Exponents</tooltip>
+    </button>
+    <button id="relations">
+        <label>&#x223C;</label>
+        <tooltip>Relations</tooltip>
+    </button>
+    <button id="groups">
+        <label fontSize="80%">[&#x00B7;]</label>
+        <tooltip>Groups</tooltip>
+    </button>
+    <button id="sets">
+        <label>&#x222A;</label>
+        <tooltip>Sets</tooltip>
+    </button>
+    <button id="geometry">
+        <label fontSize="110%" fontWeight="normal">&#x2220;</label>
+        <tooltip>Geometry</tooltip>
+    </button>
+    <button id="trigonometry">
+        <label fontSize="80%">sin</label>
+        <tooltip>Trigonometry</tooltip>
+    </button>
+    <button id="hyperbolic">
+        <label fontSize="80%">sinh</label>
+        <tooltip>Hyperbolic</tooltip>
+    </button>
+    <button id="statistics">
+        <label fontStyle="italic">&#x03BC;</label>
+        <tooltip>Statistics</tooltip>
+    </button>
+    <button id="greek">
+        <label>&#x03B1;</label>
+        <tooltip>Greek</tooltip>
+    </button>
+    <button id="greek-lower">
+        <label>&#x03B1;</label>
+        <tooltip>Greek lower case</tooltip>
+    </button>
+    <button id="greek-upper">
+        <label>&#x03A9;</label>
+        <tooltip>Greek upper case</tooltip>
+    </button>
+    <button id="greek-symbols">
+        <label>&#x03D0;</label>
+        <tooltip>Greek symbols</tooltip>
+    </button>
+
+    <button id="up">
+        <label>&#x2191;</label>
+        <tooltip>up</tooltip>
+        <template name="up"/>
+    </button>
+    <button id="left">
+        <label>&#x2190;</label>
+        <tooltip>left</tooltip>
+        <template name="left"/>
+    </button>
+    <button id="right">
+        <label>&#x2192;</label>
+        <tooltip>right</tooltip>
+        <template name="right"/>
+    </button>
+    <button id="down">
+        <label>&#x2193;</label>
+        <tooltip>down</tooltip>
+        <template name="down"/>
+    </button>
+
+    <button id="a">
+        <label fontStyle="italic">a</label>
+        <tooltip>a</tooltip>
+        <template char="a"/>
+    </button>
+    <button id="b">
+        <label fontStyle="italic">b</label>
+        <tooltip>b</tooltip>
+        <template char="b"/>
+    </button>
+    <button id="c">
+        <label fontStyle="italic">c</label>
+        <tooltip>c</tooltip>
+        <template char="c"/>
+    </button>
+    <button id="d">
+        <label fontStyle="italic">d</label>
+        <tooltip>d</tooltip>
+        <template char="d"/>
+    </button>
+    <button id="e">
+        <label fontStyle="italic">e</label>
+        <tooltip>e</tooltip>
+        <template char="e"/>
+    </button>
+    <button id="f">
+        <label fontStyle="italic">f</label>
+        <tooltip>f</tooltip>
+        <template char="f"/>
+    </button>
+    <button id="g">
+        <label fontStyle="italic">g</label>
+        <tooltip>g</tooltip>
+        <template char="g"/>
+    </button>
+    <button id="h">
+        <label fontStyle="italic">h</label>
+        <tooltip>h</tooltip>
+        <template char="h"/>
+    </button>
+    <button id="i">
+        <label fontStyle="italic">i</label>
+        <tooltip>i</tooltip>
+        <template char="i"/>
+    </button>
+    <button id="j">
+        <label fontStyle="italic">j</label>
+        <tooltip>j</tooltip>
+        <template char="j"/>
+    </button>
+    <button id="k">
+        <label fontStyle="italic">k</label>
+        <tooltip>k</tooltip>
+        <template char="k"/>
+    </button>
+    <button id="l">
+        <label fontStyle="italic">l</label>
+        <tooltip>l</tooltip>
+        <template char="l"/>
+    </button>
+    <button id="m">
+        <label fontStyle="italic">m</label>
+        <tooltip>m</tooltip>
+        <template char="m"/>
+    </button>
+    <button id="n">
+        <label fontStyle="italic">n</label>
+        <tooltip>n</tooltip>
+        <template char="n"/>
+    </button>
+    <button id="o">
+        <label fontStyle="italic">o</label>
+        <tooltip>o</tooltip>
+        <template char="o"/>
+    </button>
+    <button id="p">
+        <label fontStyle="italic">p</label>
+        <tooltip>p</tooltip>
+        <template char="p"/>
+    </button>
+    <button id="q">
+        <label fontStyle="italic">q</label>
+        <tooltip>q</tooltip>
+        <template char="q"/>
+    </button>
+    <button id="r">
+        <label fontStyle="italic">r</label>
+        <tooltip>r</tooltip>
+        <template char="r"/>
+    </button>
+    <button id="s">
+        <label fontStyle="italic">s</label>
+        <tooltip>s</tooltip>
+        <template char="s"/>
+    </button>
+    <button id="t">
+        <label fontStyle="italic">t</label>
+        <tooltip>t</tooltip>
+        <template char="t"/>
+    </button>
+    <button id="u">
+        <label fontStyle="italic">u</label>
+        <tooltip>u</tooltip>
+        <template char="u"/>
+    </button>
+    <button id="v">
+        <label fontStyle="italic">v</label>
+        <tooltip>v</tooltip>
+        <template char="v"/>
+    </button>
+    <button id="w">
+        <label fontStyle="italic">w</label>
+        <tooltip>w</tooltip>
+        <template char="w"/>
+    </button>
+    <button id="x">
+        <label fontStyle="italic">x</label>
+        <tooltip>x</tooltip>
+        <template char="x"/>
+    </button>
+    <button id="y">
+        <label fontStyle="italic">y</label>
+        <tooltip>y</tooltip>
+        <template char="y"/>
+    </button>
+    <button id="z">
+        <label fontStyle="italic">z</label>
+        <tooltip>z</tooltip>
+        <template char="z"/>
+    </button>
+    <button id=";">
+        <label fontStyle="italic">;</label>
+        <tooltip>;</tooltip>
+        <template char=";"/>
+    </button>
+    <button id=",">
+        <label fontStyle="italic">,</label>
+        <tooltip>,</tooltip>
+        <template char=","/>
+    </button>
+    <button id=".">
+        <label fontStyle="italic">.</label>
+        <tooltip>.</tooltip>
+        <template char="."/>
+    </button>
+    <button id="/">
+        <label fontStyle="italic">/</label>
+        <tooltip>/</tooltip>
+        <template char="/"/>
+    </button>
+
+    <button id="more">
+        <label class="btn-inverse" icon="ee-icon-caret-down ee-icon-list-alt"/>
+        <tooltip>more symbols</tooltip>
+        <template name="more"/>
+    </button>
+
+    <button id="cut">
+        <label>&#x2702;</label>
+        <tooltip>cut</tooltip>
+        <template name="cut"/>
+    </button>
+    <button id="copy">
+        <label>&#x29C9;</label>
+        <tooltip>copy</tooltip>
+        <template name="copy"/>
+    </button>
+    <button id="paste">
+        <label>&#x25F2;</label>
+        <tooltip>paste</tooltip>
+        <template name="paste"/>
+    </button>
+    <button id="delete">
+        <label icon="ee-icon-remove" fontColor="#FF4040"/>
+        <tooltip>delete</tooltip>
+        <template name="delete"/>
+    </button>
+    <button id="bs">
+        <label class="btn-medium" icon="ee-icon-erase"/>
+        <tooltip>backspace</tooltip>
+        <template name="bs"/>
+    </button>
+    <button id="undo">
+        <label class="btn-medium" icon="ee-icon-undo"/>
+        <tooltip>undo</tooltip>
+        <template name="undo"/>
+    </button>
+    <button id="redo">
+        <label class="btn-medium" icon="ee-icon-redo"/>
+        <tooltip>redo</tooltip>
+        <template name="redo"/>
+    </button> 
+    <button id="reset">
+        <label class="btn-medium" icon="ee-icon-refresh"/>
+        <tooltip>reset</tooltip>
+        <template name="reset"/>
+    </button>
+    <button id="clear">
+        <label class="btn-medium" icon="ee-icon-refresh"/>
+        <tooltip>clear all</tooltip>
+        <template name="clear"/>
+    </button>
+
+    <button id="zero">
+        <label>0</label>
+        <tooltip>zero</tooltip>
+        <template char="0"/>
+    </button>
+    <button id="one">
+        <label>1</label>
+        <tooltip>one</tooltip>
+        <template char="1"/>
+    </button>
+    <button id="two">
+        <label>2</label>
+        <tooltip>two</tooltip>
+        <template char="2"/>
+    </button>
+    <button id="three">
+        <label>3</label>
+        <tooltip>three</tooltip>
+        <template char="3"/>
+    </button>
+    <button id="four">
+        <label>4</label>
+        <tooltip>four</tooltip>
+        <template char="4"/>
+    </button>
+    <button id="five">
+        <label>5</label>
+        <tooltip>five</tooltip>
+        <template char="5"/>
+    </button>
+    <button id="six">
+        <label>6</label>
+        <tooltip>six</tooltip>
+        <template char="6"/>
+    </button>
+    <button id="seven">
+        <label>7</label>
+        <tooltip>seven</tooltip>
+        <template char="7"/>
+    </button>
+    <button id="eight">
+        <label>8</label>
+        <tooltip>eight</tooltip>
+        <template char="8"/>
+    </button>
+    <button id="nine">
+        <label>9</label>
+        <tooltip>nine</tooltip>
+        <template char="9"/>
+    </button>
+    <button id="comma">
+        <label>,</label>
+        <tooltip>comma</tooltip>
+        <template char=","/>
+    </button>
+    <button id="decimal">
+        <label>.</label>
+        <tooltip>decimal point</tooltip>
+        <template char="."/>
+    </button>
+
+    <button id="exponentiale">
+        <label fontStyle="italic">e</label>
+        <tooltip>exponential e</tooltip>
+        <template name="exponentiale"/>
+    </button>
+    <button id="imaginaryi">
+        <label fontStyle="italic">i</label>
+        <tooltip>imaginary i</tooltip>
+        <template name="imaginaryi"/>
+    </button>
+    <button id="constantpi">
+        <label fontStyle="italic">&#x03C0;</label>
+        <tooltip>constant pi</tooltip>
+        <template name="constantpi"/>
+    </button>
+    <button id="infinity">
+        <label>&#x221E;</label>
+        <tooltip>infinity</tooltip>
+        <template name="infinity"/>
+    </button>
+    <button id="indeterminant">
+        <label>?</label>
+        <tooltip>unknown number</tooltip>
+        <template name="indeterminant"/>
+    </button>
+
+    <button id="plus">
+        <label>&#x002B;</label>
+        <tooltip>plus sign</tooltip>
+        <template name="nary-plus"/>
+    </button>
+    <button id="minus">
+        <label>&#x2212;</label>
+        <tooltip>minus sign</tooltip>
+        <template name="nary-minus"/>
+    </button>
+    <button id="positive">
+        <label>&lt;sup>+&lt;/sup></label>
+        <tooltip>positive sign</tooltip>
+        <template name="positive"/>
+    </button>
+    <button id="negative">
+        <label>&lt;sup>&#x2212;&lt;/sup></label>
+        <tooltip>negative sign</tooltip>
+        <template name="negative"/>
+    </button>
+    <button id="plus-minus">
+        <label>&#x00B1;</label>
+        <tooltip>plus-minus sign</tooltip>
+        <template name="plus-minus"/>
+    </button>
+    <button id="minus-plus">
+        <label>&#x2213;</label>
+        <tooltip>minus-plus sign</tooltip>
+        <template name="minus-plus"/>
+    </button>
+    <button id="times">
+        <label fontWeight="normal">&#x2612;</label>
+        <tooltip>times</tooltip>
+        <template name="times"/>
+    </button>
+    <button id="times-sign">
+        <label>&#x00D7;</label>
+        <tooltip>times sign</tooltip>
+        <template name="times-sign"/>
+    </button>
+    <button id="times-sdot">
+        <label>&#x00B7;</label>
+        <tooltip>times dot</tooltip>
+        <template name="times-sdot"/>
+    </button>
+    <button id="times-ast">
+        <label>&#x2217;</label>
+        <tooltip>times asterisk</tooltip>
+        <template name="times-ast"/>
+    </button>
+    <button id="divide">
+        <label icon="ee-icon-frac"/>
+        <tooltip>fraction</tooltip>
+        <template name="divide"/>
+    </button>
+    <button id="divide-sign">
+        <label>&#x00F7;</label>
+        <tooltip>division sign</tooltip>
+        <template name="divide-sign"/>
+    </button>
+    <button id="divide-slash">
+        <label>&#x2044;</label>
+        <tooltip>division slash</tooltip>
+        <template name="divide-slash"/>
+    </button>
+    <button id="mxf">
+        <label icon="ee-icon-mxf"/>
+        <tooltip>mixed number</tooltip>
+        <template name="mxf"/>
+    </button>
+    <button id="percent">
+        <label>&#x0025;</label>
+        <tooltip>percent sign</tooltip>
+        <template name="percent"/>
+    </button>
+    <button id="dollar">
+        <label>&#x0024;</label>
+        <tooltip>dollar sign</tooltip>
+        <template name="dollar"/>
+    </button>
+    <button id="cent">
+        <label>&#x00A2;</label>
+        <tooltip>cent sign</tooltip>
+        <template name="cent"/>
+    </button>
+    <button id="degrees">
+        <label>&#x00B0;</label>
+        <tooltip>degree sign</tooltip>
+        <template name="degrees"/>
+    </button>
+
+    <button id="square">
+        <label>&lt;span style="font-style: italic">x&lt;/span>&lt;sup>2&lt;/sup></label>
+        <tooltip>square</tooltip>
+        <template name="square"/>
+    </button>
+    <button id="cube">
+        <label>&lt;span style="font-style: italic">x&lt;/span>&lt;sup>3&lt;/sup></label>
+        <tooltip>cube</tooltip>
+        <template name="cube"/>
+    </button>
+    <button id="fourth">
+        <label>&lt;span style="font-style: italic">x&lt;/span>&lt;sup>4&lt;/sup></label>
+        <tooltip>fourth</tooltip>
+        <template name="fourth"/>
+    </button>
+    <button id="power">
+        <label fontStyle="italic">y&lt;sup>x&lt;/sup></label>
+        <tooltip>power</tooltip>
+        <template name="power"/>
+    </button>
+    <button id="sqrt">
+        <label icon="ee-icon-sqrt"/>
+        <tooltip>square root</tooltip>
+        <template name="sqrt"/>
+    </button>
+    <button id="root">
+        <label icon="ee-icon-root"/>
+        <tooltip>general root</tooltip>
+        <template name="root"/>
+    </button>
+    <button id="cube-root">
+        <label icon="ee-icon-rt-3"/>
+        <tooltip>cube root</tooltip>
+        <template name="cube-root"/>
+    </button>
+    <button id="fourth-root">
+        <label icon="ee-icon-rt-4"/>
+        <tooltip>fourth root</tooltip>
+        <template name="fourth-root"/>
+    </button>
+    <button id="exp">
+        <label fontStyle="italic">e&lt;sup>x&lt;/sup></label>
+        <tooltip>exponential</tooltip>
+        <template name="exp"/>
+    </button>
+    <button id="ln">
+        <label>ln</label>
+        <tooltip>natural logarithm</tooltip>
+        <template name="ln"/>
+    </button>
+    <button id="log">
+        <label>log</label>
+        <tooltip>common logarithm</tooltip>
+        <template name="log"/>
+    </button>
+    <button id="log-base">
+        <label>log&lt;sub>&lt;i>b&lt;/i>&lt;/sub></label>
+        <tooltip>general logarithm</tooltip>
+        <template name="log-base"/>
+    </button>
+
+    <button id="mean0">
+        <label fontStyle="italic">&#x03BC;</label>
+        <tooltip>mean</tooltip>
+        <template name="mean0"/>
+    </button>
+    <button id="sdev0">
+        <label fontStyle="italic">&#x03C3;</label>
+        <tooltip>standard deviation</tooltip>
+        <template name="sdev0"/>
+    </button>
+    <button id="xbar">
+        <label>&lt;span style="display: inline-block; line-height: 0.6em; border-top: 1px solid; font-style: italic;">x&lt;/span></label>
+        <tooltip>mean of x</tooltip>
+        <template name="xbar"/>
+    </button>
+    <button id="ybar">
+        <label>&lt;span style="display: inline-block; line-height: 0.6em; border-top: 1px solid; font-style: italic;">y&lt;/span></label>
+        <tooltip>mean of y</tooltip>
+        <template name="ybar"/>
+    </button>
+    <button id="sum1">
+        <label>&#x03A3;</label>
+        <tooltip>summation</tooltip>
+        <template name="sum1"/>
+    </button>
+
+    <button id="mean">
+        <label>&lt;span style="display: inline-block; line-height: 0.6em; border-top: 1px solid; font-style: italic;">x&lt;/span></label>
+        <tooltip>mean</tooltip>
+        <template name="mean"/>
+    </button>
+    <button id="sdev">
+        <label fontStyle="italic">&#x03C3;x</label>
+        <tooltip>standard deviation</tooltip>
+        <template name="sdev"/>
+    </button>
+    <button id="variance">
+        <label fontStyle="italic">&#x03C3;&lt;sup>2&lt;/sup>x</label>
+        <tooltip>variance</tooltip>
+        <template name="variance"/>
+    </button>
+    <button id="factorial">
+        <label>&lt;i>x&lt;/i>!</label>
+        <tooltip>factorial</tooltip>
+        <template name="factorial"/>
+    </button>
+    <button id="superscript">
+        <label fontStyle="italic">x&lt;sup>i&lt;/sup></label>
+        <tooltip>superscript</tooltip>
+        <template name="superscript"/>
+    </button>
+    <button id="subscript">
+        <label fontStyle="italic">x&lt;sub>i&lt;/sub></label>
+        <tooltip>subscript</tooltip>
+        <template name="subscript"/>
+    </button>
+
+    <button id="equal">
+        <label>&#x003D;</label>
+        <tooltip>equal</tooltip>
+        <template name="equal"/>
+    </button>
+    <button id="not-equal">
+        <label>&#x2260;</label>
+        <tooltip>not equal</tooltip>
+        <template name="not-equal"/>
+    </button>
+    <button id="less-than">
+        <label>&amp;#x003C;</label>
+        <tooltip>less than</tooltip>
+        <template name="less-than"/>
+    </button>
+    <button id="greater-than">
+        <label>&#x003E;</label>
+        <tooltip>greater than</tooltip>
+        <template name="greater-than"/>
+    </button>
+    <button id="less-equal">
+        <label>&#x2264;</label>
+        <tooltip>less than or equal</tooltip>
+        <template name="less-equal"/>
+    </button>
+    <button id="greater-equal">
+        <label>&#x2265;</label>
+        <tooltip>greater than or equal</tooltip>
+        <template name="greater-equal"/>
+    </button>
+
+    <button id="similar">
+        <label>&#x223C;</label>
+        <tooltip>similar</tooltip>
+        <template name="similar"/>
+    </button>
+    <button id="not-similar">
+        <label>&#x2241;</label>
+        <tooltip>not similar</tooltip>
+        <template name="not-similar"/>
+    </button>
+    <button id="similar-equal">
+        <label>&#x2243;</label>
+        <tooltip>similar or equal</tooltip>
+        <template name="similar-equal"/>
+    </button>
+    <button id="not-similar-equal">
+        <label>&#x2244;</label>
+        <tooltip>not similar or equal</tooltip>
+        <template name="not-similar-equal"/>
+    </button>
+    <button id="approx">
+        <label>&#x2248;</label>
+        <tooltip>approximately equal</tooltip>
+        <template name="approx"/>
+    </button>
+    <button id="not-approx">
+        <label>&#x2249;</label>
+        <tooltip>not approximately equal</tooltip>
+        <template name="not-approx"/>
+    </button>
+    <button id="equivalent">
+        <label>&#x2261;</label>
+        <tooltip>equivalent</tooltip>
+        <template name="equivalent"/>
+    </button>
+    <button id="not-equivalent">
+        <label>&#x2262;</label>
+        <tooltip>not equivalent</tooltip>
+        <template name="not-equivalent"/>
+    </button>
+    <button id="congruent">
+        <label>&#x2245;</label>
+        <tooltip>congruent</tooltip>
+        <template name="congruent"/>
+    </button>
+    <button id="not-congruent">
+        <label>&#x2247;</label>
+        <tooltip>not congruent</tooltip>
+        <template name="not-congruent"/>
+    </button>
+
+    <button id="prec">
+        <label>&#x227A;</label>
+        <tooltip>precedes</tooltip>
+        <template name="prec"/>
+    </button>
+    <button id="succ">
+        <label>&#x227B;</label>
+        <tooltip>succeeds</tooltip>
+        <template name="succ"/>
+    </button>
+    <button id="doteq">
+        <label>&#x2250;</label>
+        <tooltip>dot equal</tooltip>
+        <template name="doteq"/>
+    </button>
+    <button id="ratio">
+        <label>:</label>
+        <tooltip>ratio</tooltip>
+        <template name="ratio"/>
+    </button>
+    <button id="propto">
+        <label>&#x221D;</label>
+        <tooltip>proportional to</tooltip>
+        <template name="propto"/>
+    </button>
+    <button id="preceq">
+        <label>&#x2AAF;</label>
+        <tooltip>precedes or equal</tooltip>
+        <template name="preceq"/>
+    </button>
+    <button id="succeq">
+        <label>&#x2AB0;</label>
+        <tooltip>succeeds or equal</tooltip>
+        <template name="succeq"/>
+    </button>
+    <button id="therefore">
+        <label>&#x2234;</label>
+        <tooltip>therefore</tooltip>
+        <template name="therefore"/>
+    </button>
+    <button id="because">
+        <label>&#x2235;</label>
+        <tooltip>because</tooltip>
+        <template name="because"/>
+    </button>
+    <button id="ll">
+        <label>&#x226A;</label>
+        <tooltip>much less than</tooltip>
+        <template name="ll"/>
+    </button>
+    <button id="gg">
+        <label>&#x226B;</label>
+        <tooltip>much greater than</tooltip>
+        <template name="gg"/>
+    </button>
+    <button id="compose">
+        <label fontWeight="normal">&#x2218;</label>
+        <tooltip>compose</tooltip>
+        <template name="compose"/>
+    </button>
+
+    <button id="paren">
+        <label fontSize="80%">(&#x00B7;)</label>
+        <tooltip>parenthesis</tooltip>
+        <template name="paren"/>
+    </button>
+    <button id="bracket">
+        <label fontSize="80%">[&#x00B7;]</label>
+        <tooltip>bracket</tooltip>
+        <template name="bracket"/>
+    </button>
+    <button id="brace">
+        <label fontSize="80%">{&#x00B7;}</label>
+        <tooltip>brace</tooltip>
+        <template name="brace"/>
+    </button>
+    <button id="abs">
+        <label fontSize="80%">&#x2223;&#x00B7;&#x2223;</label>
+        <tooltip>absolute value</tooltip>
+        <template name="abs"/>
+    </button>
+    <button id="floor">
+        <label>&#x230A;&#x00B7;&#x230B;</label>
+        <tooltip>floor</tooltip>
+        <template name="floor"/>
+    </button>
+    <button id="ceiling">
+        <label>&#x2308;&#x00B7;&#x2309;</label>
+        <tooltip>ceiling</tooltip>
+        <template name="ceiling"/>
+    </button>
+
+    <button id="open-interval">
+        <label fontSize="80%">(&#x00B7;,&#x00B7;)</label>
+        <tooltip>open interval</tooltip>
+        <template name="open"/>
+    </button>
+    <button id="closed-interval">
+        <label fontSize="80%">[&#x00B7;,&#x00B7;]</label>
+        <tooltip>closed interval</tooltip>
+        <template name="closed"/>
+    </button>
+    <button id="open-closed">
+        <label fontSize="80%">(&#x00B7;,&#x00B7;]</label>
+        <tooltip>open-closed interval</tooltip>
+        <template name="open-closed"/>
+    </button>
+    <button id="closed-open">
+        <label fontSize="80%">[&#x00B7;,&#x00B7;)</label>
+        <tooltip>closed-open interval</tooltip>
+        <template name="closed-open"/>
+    </button>
+
+    <button id="union">
+        <label>&#x222A;</label>
+        <tooltip>union</tooltip>
+        <template name="union"/>
+    </button>
+    <button id="intersection">
+        <label>&#x2229;</label>
+        <tooltip>intersection</tooltip>
+        <template name="intersection"/>
+    </button>
+    <button id="member">
+        <label>&#x2208;</label>
+        <tooltip>member</tooltip>
+        <template name="member"/>
+    </button>
+    <button id="not-member">
+        <label>&#x2209;</label>
+        <tooltip>not member</tooltip>
+        <template name="not-member"/>
+    </button>
+    <button id="proper-subset">
+        <label>&#x2282;</label>
+        <tooltip>proper subset</tooltip>
+        <template name="proper-subset"/>
+    </button>
+    <button id="proper-superset">
+        <label>&#x2283;</label>
+        <tooltip>proper superset</tooltip>
+        <template name="proper-superset"/>
+    </button>
+    <button id="not-proper-subset">
+        <label>&#x2284;</label>
+        <tooltip>not proper subset</tooltip>
+        <template name="not-proper-subset"/>
+    </button>
+    <button id="not-proper-superset">
+        <label>&#x2285;</label>
+        <tooltip>not proper superset</tooltip>
+        <template name="not-proper-superset"/>
+    </button>
+    <button id="subset-equal">
+        <label>&#x2286;</label>
+        <tooltip>subset or equal</tooltip>
+        <template name="subset-equal"/>
+    </button>
+    <button id="superset-equal">
+        <label>&#x2287;</label>
+        <tooltip>superset or equal</tooltip>
+        <template name="superset-equal"/>
+    </button>
+    <button id="not-subset-equal">
+        <label>&#x2288;</label>
+        <tooltip>not subset or equal</tooltip>
+        <template name="not-subset-equal"/>
+    </button>
+    <button id="not-superset-equal">
+        <label>&#x2289;</label>
+        <tooltip>not superset or equal</tooltip>
+        <template name="not-superset-equal"/>
+    </button>
+    <button id="naturalnumbers">
+        <label>&#x2115;</label>
+        <tooltip>natural numbers</tooltip>
+        <template name="naturalnumbers"/>
+    </button>
+    <button id="integers">
+        <label>&#x2124;</label>
+        <tooltip>integers</tooltip>
+        <template name="integers"/>
+    </button>
+    <button id="rationals">
+        <label>&#x211A;</label>
+        <tooltip>rational numbers</tooltip>
+        <template name="rationals"/>
+    </button>
+    <button id="reals">
+        <label>&#x211D;</label>
+        <tooltip>real numbers</tooltip>
+        <template name="reals"/>
+    </button>
+    <button id="complexes">
+        <label>&#x2102;</label>
+        <tooltip>complex numbers</tooltip>
+        <template name="complexes"/>
+    </button>
+    <button id="emptyset">
+        <label>&#x2205;</label>
+        <tooltip>empty set</tooltip>
+        <template name="emptyset"/>
+    </button>
+
+    <button id="ray">
+        <label valign="100%">&#x2192;</label>
+        <tooltip>ray</tooltip>
+        <template name="ray"/>
+    </button>
+    <button id="line">
+        <label valign="100%">&#x2194;</label>
+        <tooltip>line</tooltip>
+        <template name="line"/>
+    </button>
+    <button id="segment">
+        <label valign="100%">&#x2212;</label>
+        <tooltip>line segment</tooltip>
+        <template name="segment"/>
+    </button>
+    <button id="arc">
+        <label fontWeight="normal">&#x2040;</label>
+        <tooltip>arc</tooltip>
+        <template name="arc"/>
+    </button>
+
+    <button id="parallel">
+        <label fontSize="110%" fontWeight="normal">&#x2225;</label>
+        <tooltip>parallel</tooltip>
+        <template name="parallel"/>
+    </button>
+    <button id="not-parallel">
+        <label fontSize="110%" fontWeight="normal">&#x2226;</label>
+        <tooltip>not parallel</tooltip>
+        <template name="not-parallel"/>
+    </button>
+    <button id="perpendicular">
+        <label fontSize="110%" fontWeight="normal">&#x22A5;</label>
+        <tooltip>perpendicular</tooltip>
+        <template name="perpendicular"/>
+    </button>
+    <button id="not-perpendicular">
+        <label fontSize="110%" fontWeight="normal">&lt;span style="padding-left: 0.5em">&#x22A5;&#x0338;&lt;/span></label>
+        <tooltip>not perpendicular</tooltip>
+        <template name="not-perpendicular"/>
+    </button>
+
+    <button id="angle">
+        <label fontSize="110%" fontWeight="normal">&#x2220;</label>
+        <tooltip>angle</tooltip>
+        <template name="angle"/>
+    </button>
+    <button id="rightangle">
+        <label fontSize="110%" fontWeight="normal">&#x221F;</label>
+        <tooltip>right angle</tooltip>
+        <template name="rightangle"/>
+    </button>
+    <button id="measuredangle">
+        <label fontSize="110%" fontWeight="normal">&#x2221;</label>
+        <tooltip>measured angle</tooltip>
+        <template name="measuredangle"/>
+    </button>
+    <button id="sphericalangle">
+        <label fontSize="110%" fontWeight="normal">&#x2222;</label>
+        <tooltip>spherical angle</tooltip>
+        <template name="sphericalangle"/>
+    </button>
+
+    <button id="anglemeasure">
+        <label fontWeight="normal">&lt;span style="font-size: 80%; vertical-align: 20%">m&lt;/span>&#x2220;</label>
+        <tooltip>angle measure</tooltip>
+        <template name="anglemeasure"/>
+    </button>
+    <button id="triangle">
+        <label fontSize="110%" fontWeight="normal">&#x25B3;</label>
+        <tooltip>triangle</tooltip>
+        <template name="triangle"/>
+    </button>
+    <button id="parallelogram">
+        <label fontSize="150%" fontWeight="normal">&#x25B1;</label>
+        <tooltip>parallelogram</tooltip>
+        <template name="parallelogram"/>
+    </button>
+    <button id="circle">
+        <label fontSize="110%" fontWeight="normal">&#x2299;</label>
+        <tooltip>circle</tooltip>
+        <template name="circle"/>
+    </button>
+
+    <button id="sin">
+        <label fontSize="80%">sin</label>
+        <tooltip>sine</tooltip>
+        <template name="sin"/>
+    </button>
+    <button id="cos">
+        <label fontSize="80%">cos</label>
+        <tooltip>cosine</tooltip>
+        <template name="cos"/>
+    </button>
+    <button id="tan">
+        <label fontSize="80%">tan</label>
+        <tooltip>tangent</tooltip>
+        <template name="tan"/>
+    </button>
+    <button id="sec">
+        <label fontSize="80%">sec</label>
+        <tooltip>secant</tooltip>
+        <template name="sec"/>
+    </button>
+    <button id="csc">
+        <label fontSize="80%">csc</label>
+        <tooltip>cosecant</tooltip>
+        <template name="csc"/>
+    </button>
+    <button id="cot">
+        <label fontSize="80%">cot</label>
+        <tooltip>cotangent</tooltip>
+        <template name="cot"/>
+    </button>
+
+    <button id="arcsin">
+        <label fontSize="80%">sin&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse sine</tooltip>
+        <template name="arcsin"/>
+    </button>
+    <button id="arccos">
+        <label fontSize="80%">cos&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse cosine</tooltip>
+        <template name="arccos"/>
+    </button>
+    <button id="arctan">
+        <label fontSize="80%">tan&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse tangent</tooltip>
+        <template name="arctan"/>
+    </button>
+    <button id="arcsec">
+        <label fontSize="80%">sec&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse secant</tooltip>
+        <template name="arcsec"/>
+    </button>
+    <button id="arccsc">
+        <label fontSize="80%">csc&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse cosecant</tooltip>
+        <template name="arccsc"/>
+    </button>
+    <button id="arccot">
+        <label fontSize="80%">cot&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse cotangent</tooltip>
+        <template name="arccot"/>
+    </button>
+
+    <button id="sinh">
+        <label fontSize="80%">sinh</label>
+        <tooltip>hyperbolic sine</tooltip>
+        <template name="sinh"/>
+    </button>
+    <button id="cosh">
+        <label fontSize="80%">cosh</label>
+        <tooltip>hyperbolic cosine</tooltip>
+        <template name="cosh"/>
+    </button>
+    <button id="tanh">
+        <label fontSize="80%">tanh</label>
+        <tooltip>hyperbolic tangent</tooltip>
+        <template name="tanh"/>
+    </button>
+    <button id="sech">
+        <label fontSize="80%">sech</label>
+        <tooltip>hyperbolic secant</tooltip>
+        <template name="sech"/>
+    </button>
+    <button id="csch">
+        <label fontSize="80%">csch</label>
+        <tooltip>hyperbolic cosecant</tooltip>
+        <template name="csch"/>
+    </button>
+    <button id="coth">
+        <label fontSize="80%">coth</label>
+        <tooltip>hyperbolic cotangent</tooltip>
+        <template name="coth"/>
+    </button>
+
+    <button id="arcsinh">
+        <label fontSize="60%">sinh&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse hyperbolic sine</tooltip>
+        <template name="arcsinh"/>
+    </button>
+    <button id="arccosh">
+        <label fontSize="60%">cosh&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse hyperbolic cosine</tooltip>
+        <template name="arccosh"/>
+    </button>
+    <button id="arctanh">
+        <label fontSize="60%">tanh&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse hyperbolic tangent</tooltip>
+        <template name="arctanh"/>
+    </button>
+    <button id="arcsech">
+        <label fontSize="60%">sech&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse hyperbolic secant</tooltip>
+        <template name="arcsech"/>
+    </button>
+    <button id="arccsch">
+        <label fontSize="60%">csch&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse hyperbolic cosecant</tooltip>
+        <template name="arccsch"/>
+    </button>
+    <button id="arccoth">
+        <label fontSize="60%">coth&lt;sup>-1&lt;/sup></label>
+        <tooltip>inverse hyperbolic cotangent</tooltip>
+        <template name="arccoth"/>
+    </button>
+
+    <button id="Alpha">
+        <label>&#x0391;</label>
+        <tooltip>alpha</tooltip>
+        <template name="Alpha"/>
+    </button>
+    <button id="Beta">
+        <label>&#x0392;</label>
+        <tooltip>beta</tooltip>
+        <template name="Beta"/>
+    </button>
+    <button id="Gamma">
+        <label>&#x0393;</label>
+        <tooltip>gamma</tooltip>
+        <template name="Gamma"/>
+    </button>
+    <button id="Delta">
+        <label>&#x0394;</label>
+        <tooltip>delta</tooltip>
+        <template name="Delta"/>
+    </button>
+    <button id="Epsilon">
+        <label>&#x0395;</label>
+        <tooltip>epsilon</tooltip>
+        <template name="Epsilon"/>
+    </button>
+    <button id="Zeta">
+        <label>&#x0396;</label>
+        <tooltip>zeta</tooltip>
+        <template name="Zeta"/>
+    </button>
+    <button id="Eta">
+        <label>&#x0397;</label>
+        <tooltip>eta</tooltip>
+        <template name="Eta"/>
+    </button>
+    <button id="Theta">
+        <label>&#x0398;</label>
+        <tooltip>theta</tooltip>
+        <template name="Theta"/>
+    </button>
+    <button id="Iota">
+        <label>&#x0399;</label>
+        <tooltip>iota</tooltip>
+        <template name="Iota"/>
+    </button>
+    <button id="Kappa">
+        <label>&#x039A;</label>
+        <tooltip>kappa</tooltip>
+        <template name="Kappa"/>
+    </button>
+    <button id="Lambda">
+        <label>&#x039B;</label>
+        <tooltip>lambda</tooltip>
+        <template name="Lambda"/>
+    </button>
+    <button id="Mu">
+        <label>&#x039C;</label>
+        <tooltip>mu</tooltip>
+        <template name="Mu"/>
+    </button>
+    <button id="Nu">
+        <label>&#x039D;</label>
+        <tooltip>nu</tooltip>
+        <template name="Nu"/>
+    </button>
+    <button id="Xi">
+        <label>&#x039E;</label>
+        <tooltip>xi</tooltip>
+        <template name="Xi"/>
+    </button>
+    <button id="Omicron">
+        <label>&#x039F;</label>
+        <tooltip>omicron</tooltip>
+        <template name="Omicron"/>
+    </button>
+    <button id="Pi">
+        <label>&#x03A0;</label>
+        <tooltip>pi</tooltip>
+        <template name="Pi"/>
+    </button>
+    <button id="Rho">
+        <label>&#x03A1;</label>
+        <tooltip>rho</tooltip>
+        <template name="Rho"/>
+    </button>
+    <button id="Sigma">
+        <label>&#x03A3;</label>
+        <tooltip>sigma</tooltip>
+        <template name="Sigma"/>
+    </button>
+    <button id="Tau">
+        <label>&#x03A4;</label>
+        <tooltip>tau</tooltip>
+        <template name="Tau"/>
+    </button>
+    <button id="Upsilon">
+        <label>&#x03A5;</label>
+        <tooltip>upsilon</tooltip>
+        <template name="Upsilon"/>
+    </button>
+    <button id="Phi">
+        <label>&#x03A6;</label>
+        <tooltip>phi</tooltip>
+        <template name="Phi"/>
+    </button>
+    <button id="Chi">
+        <label>&#x03A7;</label>
+        <tooltip>chi</tooltip>
+        <template name="Chi"/>
+    </button>
+    <button id="Psi">
+        <label>&#x03A8;</label>
+        <tooltip>psi</tooltip>
+        <template name="Psi"/>
+    </button>
+    <button id="Omega">
+        <label>&#x03A9;</label>
+        <tooltip>omega</tooltip>
+        <template name="Omega"/>
+    </button>
+
+    <button id="alpha">
+        <label>&#x03B1;</label>
+        <tooltip>alpha</tooltip>
+        <template name="alpha"/>
+    </button>
+    <button id="beta">
+        <label>&#x03B2;</label>
+        <tooltip>beta</tooltip>
+        <template name="beta"/>
+    </button>
+    <button id="gamma">
+        <label>&#x03B3;</label>
+        <tooltip>gamma</tooltip>
+        <template name="gamma"/>
+    </button>
+    <button id="delta">
+        <label>&#x03B4;</label>
+        <tooltip>delta</tooltip>
+        <template name="delta"/>
+    </button>
+    <button id="epsilon">
+        <label>&#x03B5;</label>
+        <tooltip>epsilon</tooltip>
+        <template name="epsilon"/>
+    </button>
+    <button id="zeta">
+        <label>&#x03B6;</label>
+        <tooltip>zeta</tooltip>
+        <template name="zeta"/>
+    </button>
+    <button id="eta">
+        <label>&#x03B7;</label>
+        <tooltip>eta</tooltip>
+        <template name="eta"/>
+    </button>
+    <button id="theta">
+        <label>&#x03B8;</label>
+        <tooltip>theta</tooltip>
+        <template name="theta"/>
+    </button>
+    <button id="iota">
+        <label>&#x03B9;</label>
+        <tooltip>iota</tooltip>
+        <template name="iota"/>
+    </button>
+    <button id="kappa">
+        <label>&#x03BA;</label>
+        <tooltip>kappa</tooltip>
+        <template name="kappa"/>
+    </button>
+    <button id="lambda">
+        <label>&#x03BB;</label>
+        <tooltip>lambda</tooltip>
+        <template name="lambda"/>
+    </button>
+    <button id="mu">
+        <label>&#x03BC;</label>
+        <tooltip>mu</tooltip>
+        <template name="mu"/>
+    </button>
+    <button id="nu">
+        <label>&#x03BD;</label>
+        <tooltip>nu</tooltip>
+        <template name="nu"/>
+    </button>
+    <button id="xi">
+        <label>&#x03BE;</label>
+        <tooltip>xi</tooltip>
+        <template name="xi"/>
+    </button>
+    <button id="omicron">
+        <label>&#x03BF;</label>
+        <tooltip>omicron</tooltip>
+        <template name="omicron"/>
+    </button>
+    <button id="pi">
+        <label>&#x03C0;</label>
+        <tooltip>pi</tooltip>
+        <template name="pi"/>
+    </button>
+    <button id="rho">
+        <label>&#x03C1;</label>
+        <tooltip>rho</tooltip>
+        <template name="rho"/>
+    </button>
+    <button id="sigma">
+        <label>&#x03C3;</label>
+        <tooltip>sigma</tooltip>
+        <template name="sigma"/>
+    </button>
+    <button id="tau">
+        <label>&#x03C4;</label>
+        <tooltip>tau</tooltip>
+        <template name="tau"/>
+    </button>
+    <button id="upsilon">
+        <label>&#x03C5;</label>
+        <tooltip>upsilon</tooltip>
+        <template name="upsilon"/>
+    </button>
+    <button id="phi">
+        <label>&#x03C6;</label>
+        <tooltip>phi</tooltip>
+        <template name="phi"/>
+    </button>
+    <button id="chi">
+        <label>&#x03C7;</label>
+        <tooltip>chi</tooltip>
+        <template name="chi"/>
+    </button>
+    <button id="psi">
+        <label>&#x03C8;</label>
+        <tooltip>psi</tooltip>
+        <template name="psi"/>
+    </button>
+    <button id="omega">
+        <label>&#x03C9;</label>
+        <tooltip>omega</tooltip>
+        <template name="omega"/>
+    </button>
+
+    <button id="alt-beta">
+        <label>&#x03D0;</label>
+        <tooltip>beta symbol</tooltip>
+        <template name="alt-beta"/>
+    </button>
+    <button id="alt-theta">
+        <label>&#x03D1;</label>
+        <tooltip>theta symbol</tooltip>
+        <template name="alt-theta"/>
+    </button>
+    <button id="alt-phi">
+        <label>&#x03D5;</label>
+        <tooltip>phi symbol</tooltip>
+        <template name="alt-phi"/>
+    </button>
+    <button id="alt-pi">
+        <label>&#x03D6;</label>
+        <tooltip>pi symbol</tooltip>
+        <template name="alt-pi"/>
+    </button>
+    <button id="alt-kappa">
+        <label>&#x03F0;</label>
+        <tooltip>kappa symbol</tooltip>
+        <template name="alt-kappa"/>
+    </button>
+    <button id="alt-rho">
+        <label>&#x03F1;</label>
+        <tooltip>rho symbol</tooltip>
+        <template name="alt-rho"/>
+    </button>
+    <button id="alt-epsilon">
+        <label>&#x03F5;</label>
+        <tooltip>epsilon symbol</tooltip>
+        <template name="alt-epsilon"/>
+    </button>
+
+    <button id="text-mode">
+        <label class="btn-medium">[&#x0391;]</label>
+        <tooltip>text mode</tooltip>
+        <template name="ctrl-M"/>
+    </button>
+
+    <button id="math-mode">
+        <label class="btn-medium">[&#x03C0;]</label>
+        <tooltip>math mode</tooltip>
+        <template name="ctrl-m"/>
+    </button>
+
+    <button id="inline-mode">
+        <label fontWeight="normal">$</label>
+        <tooltip>inline math mode</tooltip>
+        <template name="ctrl-m"/>
+    </button>
+
+    <button id="display-mode">
+        <label fontWeight="normal">$$</label>
+        <tooltip>display math mode</tooltip>
+        <template name="ctrl-alt-m"/>
+    </button>
+
+    <button id="paragraph">
+        <label fontWeight="normal">&#x00B6;</label>
+        <tooltip>paragraph</tooltip>
+        <template name="ctrl-{"/>
+    </button>
+
+    <button id="break">
+        <label fontWeight="normal">&#x21A9;</label>
+        <tooltip>line break</tooltip>
+        <template name="shift-enter"/>
+    </button>
+
+    <button id="div">
+        <label fontWeight="normal">div</label>
+        <tooltip>vertical container (div)</tooltip>
+        <template name="ctrl-("/>
+    </button>
+
+    <button id="span">
+        <label fontWeight="normal">span</label>
+        <tooltip>horizontal container (span)</tooltip>
+        <template name="ctrl-["/>
+    </button>
+
+    <button id="bold">
+        <label fontWeight="bold">B</label>
+        <tooltip>bold</tooltip>
+        <template name="ctrl-b"/>
+    </button>
+
+    <button id="italic">
+        <label fontWeight="normal" fontStyle="italic">I</label>
+        <tooltip>italic</tooltip>
+        <template name="ctrl-i"/>
+    </button>
+
+    <button id="underline">
+        <label fontWeight="normal">&lt;u>U&lt;/u></label>
+        <tooltip>underline</tooltip>
+        <template name="ctrl-u"/>
+    </button>
+
+    <button id="strike">
+        <label fontWeight="normal">&lt;s>S&lt;/s></label>
+        <tooltip>strike through</tooltip>
+        <template name="ctrl-s"/>
+    </button>
+
+    <button id="typewriter">
+        <label fontWeight="normal">TT</label>
+        <tooltip>typewriter</tooltip>
+        <template name="ctrl-t"/>
+    </button>
+
+    <button id="big">
+        <label fontWeight="normal">[A]</label>
+        <tooltip>larger font size</tooltip>
+        <template name="big"/>
+    </button>
+
+    <button id="small">
+        <label fontWeight="normal">[A]</label>
+        <tooltip>smaller font size</tooltip>
+        <template name="small"/>
+    </button>
+
+    <button id="align-left">
+        <label>&#x2190;</label>
+        <tooltip>left align</tooltip>
+        <template name="align-left"/>
+    </button>
+
+    <button id="align-center">
+        <label>&#x2194;</label>
+        <tooltip>center</tooltip>
+        <template name="align-center"/>
+    </button>
+
+    <button id="align-right">
+        <label>&#x2192;</label>
+        <tooltip>right align</tooltip>
+        <template name="align-right"/>
+    </button>
+
+    <button id="align-justify">
+        <label>&#x21C4;</label>
+        <tooltip>justify</tooltip>
+        <template name="align-justify"/>
+    </button>
+
+    <button id="h1">
+        <label fontWeight="bold">H1</label>
+        <tooltip>heading level one</tooltip>
+        <template name="ctrl-1"/>
+    </button>
+
+    <button id="h2">
+        <label fontWeight="bold">h2</label>
+        <tooltip>heading level two</tooltip>
+        <template name="ctrl-2"/>
+    </button>
+
+    <button id="h3">
+        <label fontStyle="italic">h3</label>
+        <tooltip>heading level three</tooltip>
+        <template name="ctrl-3"/>
+    </button>
+
+    <button id="h4">
+        <label fontWeight="bold">h4</label>
+        <tooltip>heading level four</tooltip>
+        <template name="ctrl-4"/>
+    </button>
+
+    <button id="h5">
+        <label fontStyle="italic">h5</label>
+        <tooltip>heading level five</tooltip>
+        <template name="ctrl-5"/>
+    </button>
+
+    <button id="h6">
+        <label fontWeight="bold">h6</label>
+        <tooltip>heading level six</tooltip>
+        <template name="ctrl-6"/>
+    </button>
+
+</buttons>
+
+</equationEditor>

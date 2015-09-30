@@ -1,0 +1,19 @@
+{
+    "draganddrop_globalization": {
+        "labelOpts": {
+            "checkAnswerText"       : "Khangela impendulo",
+            "showCorrectAnswerText" : "Bonisa iimpendulo zam ezichanekileyo",
+            "showMyAnswerText"      : "Bonisa iimpendulo zam",
+            "resetText"             : "Qala okutsha",
+            "resetConfirmationText" : "<p>Ungathanda ukuqala okutsha?",
+            "closeToolTip"          : "Vala",
+            "yesToolTip"            : "Ewe",
+            "noToolTip"             : "Hayi",
+            "selectedText"          : "Okukhethiweyo",
+         	"correctText"           : "impendulo echanekileyo",
+			"incorrectText"         : "impendulo engachanekanga",
+			"turnoffaudio"          : "Umfundi weskrini uvala okumanyelwayo",
+			"turnonaudio"           : "Umfundi weskrini ucofa okumanyelwayo"
+        }
+    }
+}

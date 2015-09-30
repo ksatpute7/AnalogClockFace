@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-7_bk_japanesecanvas-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AG.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AG.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4335",
+    "lesson_number": "7",
+    "lesson_name": "Lesson 7",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Partner Share",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ea14a4a0-299c-4267-bfab-89d69f8d3f13",
+          "NaturalKey": "L4335:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1f9ba38a-299c-4294-ba23-6411a1588b3e",
+      "NaturalKey": "L4335:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Written Rephrasing of Chicken Sunday",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will work on rephrasing part of <em>Chicken Sunday.</em> Listen as your teacher instructs you in this important skill.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9cb9b8c4-299c-4db1-98ff-f9220cd642ce",
+          "NaturalKey": "L4335:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ea58babb-299c-4c60-80ca-b2ee3b1561e2",
+      "NaturalKey": "L4335:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Editing Your Story",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "55247d33-299c-41ef-a84a-39a895ce5427",
+          "NaturalKey": "L4335:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "66e1094f-299c-4a55-9095-84cf6ae42c1e",
+      "NaturalKey": "L4335:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Vocabulary Work",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher discusses these three vocabulary words from &#8220;Grandmother Spider Steals the Sun.&#8221; ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "dcb450f7-299c-4b30-aafb-43bc39dd84cc",
+          "NaturalKey": "L4335:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "78b6d8c3-299c-416b-90dd-ce9c791ab6a8",
+      "NaturalKey": "L4335:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Book Club",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "70933b11-299c-4c4e-9469-25e6284025bc",
+          "NaturalKey": "L4335:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "39bc8aa5-299c-4a8a-902f-613b1d61e560",
+      "NaturalKey": "L4335:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Coordinating Conjunctions",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now your teacher will show you how to use seven short words to make your writing more interesting.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fca3bedc-299c-4e48-9f9a-1c20b125e1bf",
+          "NaturalKey": "L4335:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3273a5e2-299c-4e5a-ad8b-932fbe07705d",
+      "NaturalKey": "L4335:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Author's Chair",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share your realistic fiction story with a partner. Then listen as some students read their work in the Author&#8217;s Chair. Offer them positive comments.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6d862c45-299c-4109-8cb3-a65269a21833",
+          "NaturalKey": "L4335:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3703a682-299c-46dd-9a8b-1b76d51b724b",
+      "NaturalKey": "L4335:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Homework",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson7_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson7_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson7_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f3c320a2-299c-4742-b846-861de7e7288b",
+          "NaturalKey": "L4335:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c2ac7f8e-299c-4610-92e1-6fc83536302f",
+      "NaturalKey": "L4335:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "0fc2a0fb-40f2-4d88-a005-f3a09024110b",
+  "NaturalKey": "L4335"
+}

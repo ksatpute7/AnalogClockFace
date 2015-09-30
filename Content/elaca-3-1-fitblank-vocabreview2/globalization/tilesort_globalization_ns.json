@@ -1,0 +1,19 @@
+{
+	"tilesort_globalization": {
+		"labelOpts": {
+			"ofLabel"				: "ya",
+			"closeToolTip"			: "Tswalela",
+			"selectedText"			: "E KGETHILWE",
+			"correctText"			: "Nepagetše",
+			"incorrectText"			: "Fošagetše",
+            "yesToolTip"            : "Ee",
+            "noToolTip"             : "Aowa",
+			"customCheckAnswer"		: "Lekola Karabo",
+			"customSolution"		: "Tharollo",
+			"customRestButton"		: "Khutša",
+			"customTryAgain" 		: "Leka Gape",
+			"customMyAnswers" 		: "Laetša Dikarabo Tša Ka",
+			"capacityError" 		: "<b>Aowi!</b></br> Lefelo le le tletše. O ka tloša sengwe go dira sekgoba."
+		}
+	}
+}

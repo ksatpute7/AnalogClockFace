@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-5_bk_japanesecanvas-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AE.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AE.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4333",
+    "lesson_number": "5",
+    "lesson_name": "Lesson 5",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "The Writing Process",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Authors work hard to get their stories just right! ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "86af057f-299c-4b5f-a0d2-b65e3c41cd33",
+          "NaturalKey": "L4333:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "724fc4e4-299c-4353-8f0c-6614fc954607",
+      "NaturalKey": "L4333:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Response Group Meetings",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with two other students to get feedback on your realistic fiction story and give feedback to your group members. Use the Response Group Checklist for Narrative to guide your group discussion.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f9daa0b6-299c-4c80-8105-8bd5fb62c561",
+          "NaturalKey": "L4333:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5e62b54b-299c-4630-8db3-450d9bba6733",
+      "NaturalKey": "L4333:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Introduction to Storytelling",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today, you are going to hear a story told by a storyteller. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4ae9cd8e-299c-47c2-93e8-775b85a1a78b",
+          "NaturalKey": "L4333:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b224394c-299c-41c2-afd4-ce254af55add",
+      "NaturalKey": "L4333:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Anansi the Spider",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with your partner to listen to the story a second time. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3dcd20e8-299c-49aa-bf30-d0d1e5aae05e",
+          "NaturalKey": "L4333:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7754bab8-299c-4c2b-80e1-3b83699dec33",
+      "NaturalKey": "L4333:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "What Makes a Great Story?",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about the story of Anansi the Spider. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "dfec8f9e-299c-4118-aa4a-0782917b651b",
+          "NaturalKey": "L4333:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "04f3bcbc-299c-48ef-8e3c-5616864b5cc6",
+      "NaturalKey": "L4333:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4054ee1c-299c-4f77-a69d-31d26f3df310",
+          "NaturalKey": "L4333:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5d17eb87-299c-4521-b77d-2f5659779b6a",
+      "NaturalKey": "L4333:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Vocabulary Games",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Time to play a vocabulary game! Choose either Blob Busters or &nbsp;What&#8217;s the Word? from More to Explore.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6a56aefe-299c-4b8e-9bbe-a04df80b68c4",
+          "NaturalKey": "L4333:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2d35d9db-299c-4f0f-8861-9b180b21e727",
+      "NaturalKey": "L4333:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Your Reading Log",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with a partner and share your Reading Log. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fe6972a0-299c-4ccf-949e-b51bafdc703a",
+          "NaturalKey": "L4333:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e4cf229e-299c-4f65-84a5-9004a9aea112",
+      "NaturalKey": "L4333:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Using Response Group Feedback",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson5_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson5_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson5_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6978ee02-299c-4762-84a8-93410c7f5a77",
+          "NaturalKey": "L4333:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "39e6f314-299c-40a6-ad79-d31026bde4ed",
+      "NaturalKey": "L4333:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "1539fce4-40f2-4b63-928b-755287a44bdf",
+  "NaturalKey": "L4333"
+}

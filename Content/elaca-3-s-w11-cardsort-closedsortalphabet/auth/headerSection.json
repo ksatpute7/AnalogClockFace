@@ -1,0 +1,28 @@
+{
+	"id": "s1",
+	"type": "header",
+	"pages": [
+		{
+			"id": "h0",
+			"class": "header",
+			"name": "Section_Header",
+			"collapsed": [],
+			"gadgets": {
+				"h-logo" : {
+					"class": "Image",
+					"src": "auth/asset/samples/header_logo.png"
+				}
+			}
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+

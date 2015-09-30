@@ -1,0 +1,20 @@
+{
+    "table_globalization": {
+        "labelOpts": {
+         	"showSolutionText"      : "Bonisa iimpendulo zam",
+         	"resetButtonText"       : "Qala",
+         	"chartItButtonText"     : "Yila itshati",
+         	"resetConfirmText"      : "Ungathanda ukuqala ?",
+            "closeToolTip"          : "Vala",
+            "yesToolTip"            : "Ewe",
+            "noToolTip"             : "Hayi",
+            "invalidRange"          : "Ixabiso lidlule kumlinganiselo. Cofa u{0}okanye{1}",
+            "numberTooSmall"        : "Cofa ixabiso {0} okanye ngaphezulu",  
+            "numberTooBig"          : "Cofa ixabiso {0} okanye ngaphantsi",
+            "exceedMaxLen"          : "Udlule kumlinganiselo weempawu",
+            "validDataSample"       : "Uyilo nkcukaca olutenxileyo",
+     		"invalidDateTimeFormat" : "iinkcukaca zexesha ezitenxileyo",
+            "exceedScormDataLimit"  : "Inkcukaca azinakugcinwa ngenxa yobukhulu/iinkcukaca zidlule umlinganiselo"
+        }
+    }
+}

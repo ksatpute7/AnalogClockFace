@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-ab-studio-images-ip3-ela-3-1-2_bk_paintingwall-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AB.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AB.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4280",
+    "lesson_number": "2",
+    "lesson_name": "Lesson 2",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Ways We Choose Books",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "OPENING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss the following question with your class.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8d5a7743-299c-40b5-85d1-1226368dfa69",
+          "NaturalKey": "L4280:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1592cd7f-299c-4e8f-afcd-71e5909e601c",
+      "NaturalKey": "L4280:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "The Five-Finger Rule",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher shares one strategy for choosing a just-right book. This strategy is called the Five-Finger Rule. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ad7919a2-299c-4e87-8915-e3e53c375d14",
+          "NaturalKey": "L4280:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f2a53672-299c-473c-a82d-6955a020653f",
+      "NaturalKey": "L4280:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Independent Reading Expectations",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Independent Reading is an important part of your day. You will be expected to read for about 30 minutes a day. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a01dc145-299c-4144-8404-685b2a312ec6",
+          "NaturalKey": "L4280:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5227fbae-299c-49ef-a122-4308a566c3c9",
+      "NaturalKey": "L4280:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now that you have an idea about what is expected of you and strategies for choosing books, select one or two books and begin reading. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b906dc84-299c-4c3c-bafb-b3a8d327d31e",
+          "NaturalKey": "L4280:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "79c816db-299c-4d6e-8197-4addc95bcb0b",
+      "NaturalKey": "L4280:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Partner Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with a partner and tell what book you chose and why. Then discuss the following. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "955701cc-299c-483d-a1bc-1a7af9d4e6ce",
+          "NaturalKey": "L4280:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8e4deb8e-299c-4e6c-891b-5a16daf33bf4",
+      "NaturalKey": "L4280:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Setting Reading Goals",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think back to last year when you were a second grader. What were the reading goals you set for yourself in second grade? Turn and Talk with a partner about your goals.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "251c4b87-299c-4fbb-b9f8-2a019e359f9f",
+          "NaturalKey": "L4280:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0da3941f-299c-4ea0-ba34-e54f980e511f",
+      "NaturalKey": "L4280:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about what you learned today about choosing books and reading. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "21f74e4c-299c-4f56-b3c6-c66eb1319112",
+          "NaturalKey": "L4280:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "45f59b73-299c-41dd-8a2c-d19cca6d3a29",
+      "NaturalKey": "L4280:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read for at least 20 minutes. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson2_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson2_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson2_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-2-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "48e1055f-299c-4c40-bacd-dc310bc36205",
+          "NaturalKey": "L4280:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "de03e34e-299c-4797-8c19-a3e584e37c84",
+      "NaturalKey": "L4280:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "14775bd3-40f2-4641-9c99-246969e0b642",
+  "NaturalKey": "L4280"
+}

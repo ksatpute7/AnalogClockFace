@@ -1,0 +1,19 @@
+{
+  "product": "psoc_us",
+  "useGoogleAnalytics": true,
+  "googleAnalytics": "UA-39644731-1",
+  "base": "1.4.11",
+  "dynamicLoad": {
+    "js": [
+      "js/jquery.min.js",
+      "js/SCOBot.min.js",
+      "js/jquery_ui.min.js",
+      "js/jquery.jplayer.min.js",
+      "js/sco.js"
+    ],
+    "css": []
+  },
+  "productVersion": "1.4.11a",
+  "hasParmContent": false,
+  "timeLastBuild": 1425659572189
+}

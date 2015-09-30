@@ -1,0 +1,28 @@
+.part h1 {
+  color: #333333;
+}
+.part h2 {
+  color: #333333;
+}
+.title {
+  color: #333333;
+}
+.introduction h1 {
+  color: #333333;
+}
+.introduction .feature h1 {
+  color: #333333;
+}
+.introduction section section h1 {
+  color: #333333;
+}
+.level1 .label,
+.level1 .number {
+  color: #333333;
+}
+.level1 section section h1 {
+  color: #333333;
+}
+.level2 section h1 {
+  color: #333333;
+}

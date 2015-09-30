@@ -1,0 +1,238 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-at-studio-images-ip3-ela-3-1-20_bk_streetdancers-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AT.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AT.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4298",
+    "lesson_number": "20",
+    "lesson_name": "Lesson 20",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Vocabulary Review",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "OPENING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson20_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson20_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson20_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-20-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "47e42a6a-299c-4b2c-bce8-6ca7bf2cc0a2",
+          "NaturalKey": "L4298:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "75e21b51-299c-4d14-9315-9e801d7c2539",
+      "NaturalKey": "L4298:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Final Interview Report",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have worked hard to do a report on a member of your school community. You revised and edited with an audience in mind and now you will add the finishing touches. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson20_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson20_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson20_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-20-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "86227127-299c-43cb-a8a3-66bbccde51ea",
+          "NaturalKey": "L4298:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "563f565e-299c-49c5-afd5-cbb136f5cfd1",
+      "NaturalKey": "L4298:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Interview Report Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson20_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson20_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson20_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-20-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bacd9aad-299c-45d8-9053-030ce5ceab3f",
+          "NaturalKey": "L4298:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "05e45304-299c-4425-b742-c990819fcb61",
+      "NaturalKey": "L4298:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Here are today&#8217;s tasks for Independent Reading: ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson20_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson20_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson20_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-20-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8ab46a2e-299c-42ae-a951-be46fa4c69ac",
+          "NaturalKey": "L4298:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b52d93b6-299c-4c38-97d2-521a026e83c0",
+      "NaturalKey": "L4298:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Community Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Reflect on this question and discuss with your class. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson20_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson20_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson20_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-20-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5cd21e85-299c-4b92-9ff7-b83e6a2959ca",
+          "NaturalKey": "L4298:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1102426b-299c-487a-81df-f1299e3f1164",
+      "NaturalKey": "L4298:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson20_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson20_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson20_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-20-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3f7705ba-299c-41ab-8806-b5aecddfcc55",
+          "NaturalKey": "L4298:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "bdbde385-299c-4275-8a68-53f6a667b799",
+      "NaturalKey": "L4298:T6"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "c0f61b2f-40f2-450d-9a65-03450cd186f2",
+  "NaturalKey": "L4298"
+}

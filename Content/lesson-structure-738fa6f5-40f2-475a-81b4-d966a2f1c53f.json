@@ -1,0 +1,413 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245530-ela-9780133245530-al-studio-images-ip3-ela-3-2-12_bk_deliverspeech-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327229-AL.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327229-AL.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4320",
+    "lesson_number": "13",
+    "lesson_name": "Lesson 13",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Plan Your Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "What would you do if you were in charge of the world? ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "af34ca4c-299c-4667-9ff0-afe862f5c174",
+          "NaturalKey": "L4320:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "512aeec6-299c-4ef7-a8a0-494e07fe12df",
+      "NaturalKey": "L4320:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Write Your Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share your opinions through poetry!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5ef083ee-299c-45d4-8039-2191bb1abd57",
+          "NaturalKey": "L4320:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9e540906-299c-41ef-9920-0207ca4f6b8a",
+      "NaturalKey": "L4320:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Poem Response Group",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher reviews the Response Group Checklist. Then sit with your Response Group and share your poem.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d0104620-299c-44fb-bcc0-c119adb313f2",
+          "NaturalKey": "L4320:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0e622a6d-299c-4dbb-bf5f-9df88d2a63ca",
+      "NaturalKey": "L4320:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Why Do Authors Revise?",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher explains why authors revise their work.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9b920d2c-299c-4ec9-89c4-9d303420fb02",
+          "NaturalKey": "L4320:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "07bb2574-299c-4586-974f-d20df4c1d51b",
+      "NaturalKey": "L4320:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Teacher’s Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Here is a sample poem that needs some revisions!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "705cbaea-299c-485a-89a8-409d5aa5fd7e",
+          "NaturalKey": "L4320:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1a018146-299c-4eae-b27e-d3aef41c3bce",
+      "NaturalKey": "L4320:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Final Revisions to Your Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about the strategies you used to help your teacher make revisions and the other poetry strategies you learned from your teacher and from Judith Viorst.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e2c95cfe-299c-4c64-8c68-c29dd6df6458",
+          "NaturalKey": "L4320:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "969555f8-299c-423f-b60f-89dc17f4c423",
+      "NaturalKey": "L4320:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read for 30 minutes.<em></em>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7e430a91-299c-46b7-989e-bfeb91f507f7",
+          "NaturalKey": "L4320:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1fa213d5-299c-4c1d-917d-5f81c0ef4a33",
+      "NaturalKey": "L4320:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will work on defining two more vocabulary words. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b29b8856-299c-4e53-8988-b3cb725984fe",
+          "NaturalKey": "L4320:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c65f8135-299c-4d74-8711-94f29573f098",
+      "NaturalKey": "L4320:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Pronoun-Antecedent Agreement",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a6605de6-299c-4a14-88d0-891abe9120c1",
+          "NaturalKey": "L4320:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "4273ebc3-299c-48a1-b396-834fe57d30b0",
+      "NaturalKey": "L4320:T9"
+    },
+    {
+      "task_id": 10,
+      "description": "Poetry in the Community",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Poetry is one way to share your thoughts and ideas with others.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task10_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task10_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task10_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fab84e31-299c-424c-a29b-a496119be62f",
+          "NaturalKey": "L4320:T10:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ba5c5a4f-299c-43ee-b5ec-a354553a5187",
+      "NaturalKey": "L4320:T10"
+    },
+    {
+      "task_id": 11,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson13_task11_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson13_task11_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson13_task11_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "56852a9b-299c-48f9-8a94-4c0e6e22dac9",
+          "NaturalKey": "L4320:T11:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ad814671-299c-4a05-86c6-81f753a18722",
+      "NaturalKey": "L4320:T11"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "738fa6f5-40f2-475a-81b4-d966a2f1c53f",
+  "NaturalKey": "L4320"
+}

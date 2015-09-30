@@ -1,0 +1,21 @@
+{
+  "scoTotals": {
+    "totalInteractions": 3,
+    "totalObjectives": 3,
+    "scoreMin": 0.0,
+    "scoreMax": 11.0
+  },
+  "title": "elaca-3-S-W7-cardsort-ClosedSortCAMEL",
+  "sections": [
+    {
+      "sectionName": "section",
+      "sectiontype": "main"
+    },
+    {
+      "sectionName": "headerSection",
+      "sectiontype": "header"
+    }
+  ],
+  "theme": "default_theme",
+  "class": "sco"
+}

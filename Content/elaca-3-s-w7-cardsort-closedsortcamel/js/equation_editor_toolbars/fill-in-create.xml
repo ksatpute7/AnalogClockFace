@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equationEditor xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:i="http://math.pearson.com/MathEX">
+
+<layouts>
+  <layout name="input" uri="csymbol:basic">
+    <apply> <csymbol cd="basic">input</csymbol> <i:args/> </apply>
+    <mrow>
+      <mpadded height="0.75em"/>
+      <mstyle mathbackground="lime">
+        <mphantom>
+          <mpadded height="0.55em" width="0.55em">
+            <mi mathvariant="normal">xx</mi>
+          </mpadded>
+        </mphantom>
+      </mstyle>
+    </mrow>
+  </layout>
+</layouts>
+
+<templates>
+  <template name="symbol" phase="pre" selector="%symbol"
+            uri="http://math.pearson.com/MathEX">
+    <i:this/>
+    <i:cursor> <i:none/> </i:cursor>
+  </template>
+  <template name=" " selector="%math %outfix %exist">
+    <i:this/>
+    <apply> <times/> <i:this/> <ci>&amp;#x2009;</ci> </apply>
+  </template>
+  <template name="xspace" selector="%math %outfix %exist">
+    <i:this/>
+    <apply> <times/> <i:this/> <ci>&amp;#x2009;</ci> </apply>
+  </template>
+  <template name="input" selector="%math">
+    <i:this/>
+    <apply>
+      <csymbol cd="basic">input</csymbol>
+      <i:next/>
+    </apply>
+  </template>
+</templates>
+
+<palettes>
+  <quickBar>
+    <button ref="undo"/>
+    <button ref="redo"/>
+    <button ref="clear"/>
+    <button ref="bs"/>
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="equal"/>
+    <button ref="approx"/>
+    <button ref="xspace"/>
+    <button ref="input"/>
+  </quickBar>
+</palettes>
+
+<buttons>
+  <button id="xspace">
+    <label fontSize="200%"><![CDATA[&#x2423;]]></label>
+    <tooltip>space</tooltip>
+    <template name="xspace"/>
+  </button>
+  <button id="input">
+    <label fontColor="#00FF00" fontWeight="normal"><![CDATA[&#x220E;]]></label>
+    <tooltip>input</tooltip>
+    <template name="input"/>
+  </button>
+</buttons>
+
+</equationEditor>

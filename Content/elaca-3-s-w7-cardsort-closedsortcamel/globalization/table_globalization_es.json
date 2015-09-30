@@ -1,0 +1,21 @@
+{
+    "table_globalization": {
+        "labelOpts": {
+         	"showSolutionText"      : "Mostrar mis respuestas",
+         	"resetButtonText"       : "Start Over",
+         	"chartItButtonText"     : "Chart It",
+         	"resetConfirmText"      : "¿Quieres volver a empezar?",
+            "closeToolTip"          : "Cerrar",
+            "yesToolTip"            : "Sí",
+            "noToolTip"             : "No",
+            "invalidRange"          : "Value is out of range. Enter a value between {0} and {1}.",
+            "numberTooSmall"        : "Enter a value greater than or equal to {0}.",  
+            "numberTooBig"          : "Enter a value less than or equal to {0}.",
+            "exceedMaxLen"          : "Número máximo de caracteres: {0}.",
+            "validDataSample"       : "Invalid data format. Example valid data: {0}.",
+     		"invalidDateTimeFormat" : "Fecha inválida o formato inválido de fecha/hora. El formato válido es {0}.",
+            "exceedScormDataLimit"  : "Los datos de la tabla no se pueden salvar porque exceden el límite especificado."
+
+        }
+    }
+}

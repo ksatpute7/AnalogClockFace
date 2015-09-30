@@ -1,0 +1,23 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+		"maxLengthText"				: "Jy het die maksimum aantal letters getik.",
+		"checkAnswerText"			: "Sien antwoord na.",
+		"closeToolTip"				: "Sluit kassie.",
+		"showCorrectAnswer"			: "Wys regte antwoorde.",
+		"showMyAnswer"				: "Wys my antwoorde.",
+		"firstIncorrectText"		: "Probeer weer.",
+		"firstCorrectText"			: "Mooi so!",
+		"finalIncorrectText"		: "Nog nie heeltemal nie.",
+		"finalCorrectText"			: "Dis reg!",
+		"correctResponseText"		: "Jou antwoord is korrek!",
+		"incorrectResponseText"		: "Jammer, dis nie reg nie.",
+		"correctAnswerShown"		: "Regte antwoord wys",
+		"correctAnswer"				: "Regte antwoord.",
+		"userSelectedCorrectAnswer"	: "Leerder se keuse korrek.",
+		"userSelectedIncorrectAnswer"	: "Leerder se keuse verkeerd",
+		"disabledAnswer"				: "Afgeskakel",
+		"answerItemAlert"				: "Die regte antwoorde op hierdie vraag is belig en is {AA}, {BB}, {CC}, {DD}, {EE}, {FF}, {GG}, {HH}, {II}, {JJ}, {KK}"
+		}
+	}
+}

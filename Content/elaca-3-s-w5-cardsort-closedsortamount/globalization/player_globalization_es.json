@@ -1,0 +1,41 @@
+{
+    "player_globalization": {
+        "labelOpts": {
+        	"utilSkipLinkText" : "Los que usan el lector de pantalla hacen clic aquí para acceder a la actividad alternativa.",
+        	"utilDlinkText" : "Los que usan el lector de pantalla hacen clic aquí para acceder a texto más descriptivo.",
+            "nextButtonHover"  : "Siguiente",
+            "previousButtonHover"  : "Anterior",
+            "of"             : "de",
+            "printToolTip" : "Imprimir",
+			"aboutText" : "Acerca de:\nVersión del producto: {PV} \nVersión base del producto:{BV}\nIdentificación: {ID}",
+			"defaultSubmitHeaderButtonTooltip" : "Vuelve a las páginas de esta lección o/y entrega tu trabajo.",
+			"altSubmitHeaderButtonTooltip" : "Entregar tu trabajo.",
+			"browseModeSubmitHeaderButtonTooltip" : "Tu progreso",
+			"cancelButtonLabel" : "Cancelar",
+			"headerTitle" : "Tu progreso",
+			"listTitle" : "Número de página",
+			"closeButtonHover" : "Cerrar",
+			"confirmFinishTitle" : "",
+			"confirmFinishMessage" : "¿Estás seguro(a) de que ya quieres<br>entregar tu trabajo?",
+			"finalConfirmationMessage" : "Ya has entregado tu trabajo.",
+			"footerMessage" : "Ya has entregado tu trabajo. Ningún nuevo cambio se salvará.",
+			"finishButtonLabel" : "Ya acabé",
+			"cancelButtonLabel" : "Cancelar",
+			"exitButtonLabel" : "Salir",
+			"submitButtonLabel" : "Enviar",
+			"reviewModeMessage" : "Ya has entregado tu trabajo. Ningún nuevo cambio se salvará.",
+			"goToPagePhrase" : "Pasa a la página",
+			"pageNotDone" : "todavía no has terminado ésta.",
+			"pageIsDone" : "ya has terminado ésta.",
+			"describedByAccesibleContent" : "Puedes ir de una página a otra usando el número de página en esta lección.",
+			"submitFooterAccessibleContent" : "To turn in your work, click the turn in button, or cancel to close this window.",
+			"submitSkipPageLinksContent" : "Los que usan el lector de pantalla hacen clic aquí para pasar a la navegación local.",
+			"mdSubmitHeaderButtonTooltip" : "Terminar",
+			"mdConfirmExitMessage" : "¿Estás seguro(a) de que ya puedes salir de esta lección?",
+			"mdFooterExitMessage" : "ES: This lesson has been exited.<br />Please close the browser window.",
+			"mdConfirmSubmitMessage" : "¿Estás seguro(a) de que ya quieres entregar tu trabajo?",
+			"mdFooterSubmitMessage" : "Ya has entregado tu trabajo."	
+			
+        }
+    }
+}

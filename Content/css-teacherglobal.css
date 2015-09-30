@@ -1,0 +1,329 @@
+@font-face {
+  font-family: 'cambriamath-win';
+  src: url('fonts/cambriamath-win.eot') format('truetype');
+}
+@font-face {
+  font-family: 'cambriamath-win';
+  src: url('fonts/cambriamath-win.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-bold';
+  src: url('fonts/gillsans-bold.eot') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-bold';
+  src: url('fonts/gillsans-bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-book';
+  src: url('fonts/gillsans-book.eot') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-book';
+  src: url('fonts/gillsans-book.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-infant';
+  src: url('fonts/gillsans-infant.eot') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-infant';
+  src: url('fonts/gillsans-infant.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-italic';
+  src: url('fonts/gillsans-italic.eot') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-italic';
+  src: url('fonts/gillsans-italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-light';
+  src: url('fonts/gillsans-light.eot') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-light';
+  src: url('fonts/gillsans-light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-regular';
+  src: url('fonts/gillsans-regular.eot') format('truetype');
+}
+@font-face {
+  font-family: 'gillsans-regular';
+  src: url('fonts/gillsans-regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'helveticaneue-roman';
+  src: url('fonts/helveticaneue-roman.otf') format('truetype');
+}
+@font-face {
+  font-family: 'minionpro-bold';
+  src: url('fonts/minionpro-bold.otf') format('truetype');
+}
+@font-face {
+  font-family: 'minionpro-regular';
+  src: url('fonts/minionpro-regular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Minion Pro';
+  src: url('fonts/minionpro-regular.otf') format('truetype');
+}
+body {
+  font-size: 16px;
+  font-family: gillsans-book, sans-serif;
+  color: #333333;
+}
+.ell {
+  color: #d10000;
+}
+.swd {
+  color: #3267ff;
+}
+.toclevel1 a {
+  cursor: default;
+  text-decoration: none;
+  color: #333333;
+  font-weight: bold;
+  pointer-events: none;
+}
+.pageref {
+  display: none;
+}
+.marginalia {
+  display: none;
+}
+.leadin {
+  font-family: gillsans-bold, sans-serif;
+}
+ul.nomark {
+  list-style-type: none;
+  padding: 0px;
+}
+ol.tocentrylist {
+  list-style: none;
+  padding: 0rem;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  pointer-events: none;
+  cursor: default;
+  word-wrap:break-word;
+}
+p {
+  font-size: 1rem;
+  line-height: 1.375rem;
+}
+p,
+blockquote,
+ul,
+fieldset,
+form,
+ol,
+dl,
+dir,
+.menu {
+  display: block;
+  margin: .67rem 0;
+  font-size: 1rem;
+}
+h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+ul {
+  padding: 0 0 0 1.250rem;
+  list-style-position: outside;
+}
+ul li ul {
+  padding: 0 0 0 0;
+}
+ol {
+  padding: 0 0 0 1.250rem;
+  list-style-position: outside;
+}
+ol li {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0;
+}
+ol p {
+  margin: 0px;
+}
+.bodymatter ol {
+  padding: 0;
+  counter-reset: list;
+}
+.bodymatter ol li {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0;
+  list-style: none;
+}
+.bodymatter ol li p {
+  padding: 0 0 0 2rem;
+}
+.bodymatter ol li:before {
+  content: counter(list, decimal) ") ";
+  counter-increment: list;
+  padding: 0 1rem 0 0;
+  float: left;
+  font-weight: bold;
+}
+.bodymatter ol p {
+  margin: 0px;
+}
+dl dt {
+  float: left;
+  padding: 0 5px 0 0;
+}
+dl dd {
+  margin: 0px;
+}
+section {
+  display: block;
+  padding: 1.250rem 0 0 0;
+}
+img {
+  max-width: 100%;
+}
+span.inlineequation img {
+  vertical-align: -20%;
+}
+.part h1 {
+  font-size: 1.5rem;
+  line-height: 1.625rem;
+}
+.part h2 {
+  font-size: 2rem;
+  line-height: 2rem;
+  padding: 0rem;
+  margin: .75rem 0 0 0;
+}
+.part h2 span.label {
+  clear: left;
+  display: block;
+  font-size: 1.5rem;
+  margin: .5rem 0 0 0;
+}
+.toc hgroup {
+  margin: 2rem 0 1.75rem;
+}
+.introduction h1 {
+  margin: 0 0 .5rem;
+}
+.introduction > hgroup {
+}
+.introduction .feature > hgroup h1 {
+  line-height: 2rem;
+}
+.introduction .feature h1 {
+  margin: 0px;
+  padding: 0px;
+  border-bottom: none;
+  font-size: 1.8rem;
+}
+.introduction .feature .listgroup h1 {
+  font-size: 1.2rem;
+}
+.introduction section h1 {
+  padding: 0 0 10px 0;
+  margin: 0;
+  border-bottom: solid 1px #999999;
+  font-size: 1rem;
+}
+.introduction section section h1 {
+  border-bottom: none;
+  margin: 0px;
+  padding: 0px;
+}
+.level1 section h1 {
+  padding: 0 0 10px 0;
+  border-bottom: solid 1px #999999;
+  font-size: 1rem;
+}
+.level1 section section h1 {
+  border-bottom: none;
+}
+.level2 h1 {
+  padding: 0 0 10px 0;
+  border-bottom: solid 1px #999999;
+  font-size: 1rem;
+}
+.level2 section h1 {
+  border-bottom: none;
+  padding: 0;
+}
+
+.source {
+  margin: 1.875rem 0;
+}
+
+/*
+ ELL/SWD styling
+*/
+
+/* Styling the leadins */
+.leadin_lc_1 {
+    color:  #d10000;
+    border-bottom: 1px solid #d10000; 
+}
+
+.leadin_lc_2 {
+    color:  #3267ff;
+    display: block;
+    border-bottom: 1px solid #3267ff; 
+}
+
+.leadin_lc_1, .leadin_lc_2 {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+
+/* Inject the arrow / bullet point before the the leadin*/
+
+.leadin_lc_1:before {
+    content: "► ";
+    color:  #d10000;
+}
+
+.leadin_lc_2:before {
+    content: "► ";
+    color:  #3267ff;
+}
+
+/* Color the rest of the ELL/SWD section the same as the leadin*/
+.leadin_lc_1 ~ *{
+    color:  #d10000;
+}
+
+.leadin_lc_2 ~ *{
+    color:  #3267ff;
+}
+
+.ell ~ *{
+  color: #d10000;
+}
+.swd ~ *{
+  color: #3267ff;
+}
+
+/*
+ END of ELL/SWD styling
+*/
+
+.Opening {
+   font-size: 24px;
+}
+
+.emphasis {
+    font-style: italic;
+}
+
+.strong {
+    font-weight: bold;
+}

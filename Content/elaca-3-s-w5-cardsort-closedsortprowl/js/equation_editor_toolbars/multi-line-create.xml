@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equationEditor xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:i="http://math.pearson.com/MathEX">
+
+<layouts>
+
+<!-- Multi-line equation container -->
+<layout name="eqnarray" uri="csymbol:basic">
+  <apply> <csymbol cd="basic">eqnarray</csymbol> <i:args/> </apply>
+  <!-- <mrow> <mo>[</mo> <i:matrix> <i:args/> </i:matrix> </mrow> -->
+  <i:matrix> <i:args/> </i:matrix>
+</layout>
+
+<!-- Single-line equation container -->
+<layout name="eqn" uri="csymbol:basic">
+  <apply> <csymbol cd="basic">eqn</csymbol> <i:args/> </apply>
+  <i:rowvector> <i:args/> </i:rowvector>
+</layout>
+
+<!-- Hanging equation phantom -->
+<layout name="eqnspace" uri="csymbol:basic">
+  <apply> <csymbol cd="basic">eqnspace</csymbol> <i:args/> </apply>
+  <mphantom> <mpadded width="0"> <mn>0</mn> </mpadded> </mphantom>
+</layout>
+
+</layouts>
+
+<templates>
+
+<!-- (eqnarray open) -->
+
+<template name="eqnarray" selector="%math">
+  <i:this/>
+  <apply>
+    <csymbol cd="basic">eqnarray</csymbol>
+    <apply>
+      <csymbol cd="basic">eqn</csymbol>
+      <i:this/>
+    </apply>
+  </apply>
+</template>
+
+<template name="{" ctrl="true" alt="true" selector="%math">
+  <i:this/>
+  <apply>
+    <csymbol cd="basic">eqnarray</csymbol>
+    <apply>
+      <csymbol cd="basic">eqn</csymbol>
+      <i:this/>
+    </apply>
+  </apply>
+</template>
+
+<template name="enter" phase="pre" selector="%math">
+  <i:this/>
+  <i:cursor> <i:root/> </i:cursor>
+</template>
+
+<template name="enter" selector="%math">
+  <i:this/>
+  <apply>
+    <csymbol cd="basic">eqnarray</csymbol>
+    <apply>
+      <csymbol cd="basic">eqn</csymbol>
+      <i:this/>
+    </apply>
+    <apply>
+      <csymbol cd="basic">eqn</csymbol>
+      <i:box/>
+    </apply>
+  </apply>
+</template>
+
+<!-- (eqnarray close) -->
+
+<template name="}" ctrl="true" alt="true" selector="%math">
+  <i:this/>
+  <apply>
+    <csymbol cd="basic">eqnarray</csymbol>
+    <i:close/>
+  </apply>
+</template>
+
+<!-- Fixes for navigation operations -->
+
+<template name="home" phase="pre" selector="%array >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="end" phase="pre" selector="%array >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="home">
+  <i:this/>
+  <i:cursor> <i:sibling/> <i:home/> </i:cursor>
+</template>
+
+<template name="end">
+  <i:this/>
+  <i:cursor> <i:sibling/> <i:end/> </i:cursor>
+</template>
+
+<template name="up" ctrl="true" phase="pre" selector="%token">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array insert col left) (disabled) -->
+
+<template name="insert" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:insert/> <i:col/> <i:left/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="insert" phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="insert" shift="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:insert/> <i:col/> <i:left/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="insert" shift="true" phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array delete col right) (disabled) -->
+
+<template name="delete" shift="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:delete/> <i:col/> <i:right/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="delete" shift="true" phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array delete col left) (disabled) -->
+
+<template name="bs" shift="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:delete/> <i:col/> <i:left/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="bs" shift="true" phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array insert elt left) (disabled) -->
+
+<template name="insert" ctrl="true" shift="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:insert/> <i:elt/> <i:left/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="insert" ctrl="true" shift="true"
+    phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array delete elt right) (disabled) -->
+
+<template name="delete" ctrl="true" shift="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:delete/> <i:elt/> <i:right/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="delete" ctrl="true" shift="true"
+    phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array delete elt left) (disabled) -->
+
+<template name="bs" ctrl="true" shift="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:delete/> <i:elt/> <i:left/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="bs" ctrl="true" shift="true"
+    phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array insert col wrap) (disabled) -->
+
+<template name="," selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:insert/> <i:col/> <i:wrap/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="," phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array insert col right) (disabled) -->
+
+<template name="," ctrl="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:insert/> <i:col/> <i:right/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="," ctrl="true" phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (array insert elt right) (disabled) -->
+
+<template name="," ctrl="true" alt="true" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:insert/> <i:elt/> <i:right/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="," ctrl="true" alt="true" phase="pre" selector="eqnarray >">
+  <i:this/>
+  <!-- <i:array> <i:cursor/> <i:elt/> </i:array> -->
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="," ctrl="true" alt="true" selector="eqnarray %nary">
+  <i:this/>
+  <i:nary> <i:insert/> <i:right/> </i:nary>
+</template>
+
+<template name="," ctrl="true" alt="true" phase="pre" selector="eqnarray %nary > %token">
+  <i:this/>
+  <i:cursor> <i:out/> </i:cursor>
+</template>
+
+<!-- (align toggle) (on) -->
+
+<template name="align" selector="eqnarray eq >">
+  <i:this/>
+  <apply> <eq class="align"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray lt >">
+  <i:this/>
+  <apply> <lt class="align"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray gt >">
+  <i:this/>
+  <apply> <gt class="align"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray leq >">
+  <i:this/>
+  <apply> <leq class="align"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray geq >">
+  <i:this/>
+  <apply> <geq class="align"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray neq >">
+  <i:this/>
+  <apply> <neq class="align"/> <i:attrib/> </apply>
+</template>
+
+<!-- (align toggle) (off) -->
+
+<template name="align" selector="eqnarray eq.align >">
+  <i:this/>
+  <apply> <eq class="@"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray lt.align >">
+  <i:this/>
+  <apply> <lt class="@"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray gt.align >">
+  <i:this/>
+  <apply> <gt class="@"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray leq.align >">
+  <i:this/>
+  <apply> <leq class="@"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray geq.align >">
+  <i:this/>
+  <apply> <geq class="@"/> <i:attrib/> </apply>
+</template>
+
+<template name="align" selector="eqnarray neq.align >">
+  <i:this/>
+  <apply> <neq class="@"/> <i:attrib/> </apply>
+</template>
+
+<!-- (eq align) -->
+
+<template name="eq" selector="eqnarray >">
+  <i:this/>
+  <apply> <eq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="equal" selector="eqnarray >">
+  <i:this/>
+  <apply> <eq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="=" selector="eqnarray >">
+  <i:this/>
+  <apply> <eq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<!-- (lt align) -->
+
+<template name="lt" selector="eqnarray >">
+  <i:this/>
+  <apply> <lt class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="less-than" selector="eqnarray >">
+  <i:this/>
+  <apply> <lt class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="&lt;" selector="eqnarray >">
+  <i:this/>
+  <apply> <lt class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<!-- (gt align) -->
+
+<template name="gt" selector="eqnarray >">
+  <i:this/>
+  <apply> <gt class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="greater-than" selector="eqnarray >">
+  <i:this/>
+  <apply> <gt class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="&gt;" selector="eqnarray >">
+  <i:this/>
+  <apply> <gt class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<!-- (leq align) -->
+
+<template name="leq" selector="eqnarray >">
+  <i:this/>
+  <apply> <leq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="less-equal" selector="eqnarray >">
+  <i:this/>
+  <apply> <leq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="&lt;" ctrl="true" selector="eqnarray >">
+  <i:this/>
+  <apply> <leq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<!-- (geq align) -->
+
+<template name="geq" selector="eqnarray >">
+  <i:this/>
+  <apply> <geq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="greater-equal" selector="eqnarray >">
+  <i:this/>
+  <apply> <geq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="&gt;" ctrl="true" selector="eqnarray >">
+  <i:this/>
+  <apply> <geq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<!-- (neq align) -->
+
+<template name="neq" selector="eqnarray >">
+  <i:this/>
+  <apply> <neq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="not-equal" selector="eqnarray >">
+  <i:this/>
+  <apply> <neq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<template name="=" ctrl="true" selector="eqnarray >">
+  <i:this/>
+  <apply> <neq class="align"/> <i:this/> <i:box/> </apply>
+</template>
+
+<!-- (eq hanging) -->
+
+<template name="eq" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="eq" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="eq" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="eq" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <eq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="eq" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="equal" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="equal" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="equal" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="equal" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <eq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="equal" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="=" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="=" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="=" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="=" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <eq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="=" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (lt hanging) -->
+
+<template name="lt" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="lt" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="lt" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="lt" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <lt class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="lt" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="less-than" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="less-than" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="less-than" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="less-than" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <lt class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="less-than" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&lt;" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="&lt;" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="&lt;" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&lt;" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <lt class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="&lt;" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (gt hanging) -->
+
+<template name="gt" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="gt" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="gt" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="gt" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <gt class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="gt" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="greater-than" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="greater-than" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="greater-than" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="greater-than" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <gt class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="greater-than" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&gt;" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="&gt;" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="&gt;" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&gt;" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <gt class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="&gt;" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (leq hanging) -->
+
+<template name="leq" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="leq" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="leq" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="leq" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <leq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="leq" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="less-equal" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="less-equal" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="less-equal" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="less-equal" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <leq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="less-equal" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&lt;" ctrl="true" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="&lt;" ctrl="true" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="&lt;" ctrl="true" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&lt;" ctrl="true" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <leq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="&lt;" ctrl="true" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (geq hanging) -->
+
+<template name="geq" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="geq" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="geq" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="geq" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <geq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="geq" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="greater-equal" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="greater-equal" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="greater-equal" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="greater-equal" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <geq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="greater-equal" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&gt;" ctrl="true" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="&gt;" ctrl="true" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="&gt;" ctrl="true" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="&gt;" ctrl="true" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <geq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="&gt;" ctrl="true" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- (neq hanging) -->
+
+<template name="neq" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="neq" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="neq" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="neq" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <neq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="neq" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="not-equal" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="not-equal" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="not-equal" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="not-equal" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <neq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="not-equal" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="=" ctrl="true" phase="pre" selector="eqnarray .align >">
+  <i:this/>
+  <i:array> <i:cursor/> <i:elt/> </i:array>
+</template>
+
+<template name="=" ctrl="true" selector="eqnarray .align">
+  <i:this/>
+  <i:array> <i:insert/> <i:row/> <i:right/> </i:array>
+</template>
+
+<template name="=" ctrl="true" selector="eqnarray > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="=" ctrl="true" phase="post" selector="eqnarray > %place">
+  <i:this/>
+  <apply>
+    <neq class="align"/>
+    <apply> <csymbol cd="basic">eqnspace</csymbol> </apply>
+    <i:box/>
+  </apply>
+</template>
+
+<template name="=" ctrl="true" phase="post" selector="eqnarray .align > %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- Tweaks for delete and backspace (may still need work) -->
+
+<template name="delete" selector=".align eqnspace + %place">
+  <i:this/>
+  <i:edit> <i:delete/> <i:up/> </i:edit>
+</template>
+
+<template name="bs" selector=".align eqnspace + %place">
+  <i:this/>
+  <i:edit> <i:delete/> <i:up/> </i:edit>
+</template>
+
+</templates>
+
+</equationEditor>

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+		<!--this viewport is required for bootstrap layouts to respond as directed in devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Pearson</title>
+		<!--[if IE 7]>
+		<script type="text/javascript" src="js/json2.min.js"></script>
+		<![endif]-->
+		<!--[if lt IE 9]>
+        <script>document.createElement("dcatmath");</script>
+        <![endif]-->
+        
+        <!-- PSoC vendor.js.  This includes Brunch, backbone, underscore, and chaplin.  PSoC player expects the 
+             Brunh.require function and chaplin.js is loaded. 
+              -->
+        <script type="text/javascript" src="js/psocVendor.min.js"></script>
+        
+	</head>
+	<body>
+		<div class="loading" id="loading-id"></div>
+		<div class="dialog-modal"></div>
+		<div class="sco">
+			<div class="header" id="header-id"></div>
+			<div class="main" id="main-id"></div>
+			<div class="footer" id="footer-id">
+				<span id="pageIndex"></span>
+				<div id="prev" tabindex="1" title="Previous" class="prev-button-default footer-sprite">
+					<span id="prev-icon" data-icon="ic-arrow-left"></span>
+				</div>
+				<div id="next" tabindex="1" title="Next" class="next-button-default footer-sprite">
+					<span id="next-icon" data-icon="ic-arrow-right"></span>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="js/loader.min.js"></script>
+</html>

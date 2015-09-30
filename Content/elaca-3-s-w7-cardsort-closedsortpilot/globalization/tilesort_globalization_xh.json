@@ -1,0 +1,19 @@
+{
+	"tilesort_globalization": {
+		"labelOpts": {
+			"ofLabel"				: "Yophawu / Yo",
+			"closeToolTip"			: "Vala",
+			"selectedText"			: "Itekisi ekhethiweyo",
+			"correctText"			: "impendulo echanekileyo",
+			"incorrectText"			: "impendulo engachanekanga",
+            "yesToolTip"            : "Ewe",
+            "noToolTip"             : "Hayi",
+			"customCheckAnswer"		: "Khangela impendulo",
+			"customSolution"		: "Impendulo",
+			"customRestButton"		: "Phumla",
+			"customTryAgain" 		: "Phinda uzame",
+			"customMyAnswers" 		: "Bonisa iimpendulo zam zonke",
+			"capacityError" 		: "I eriya izele.Phungula uluhlu ukwandisa isithuba"
+		}
+	}
+}

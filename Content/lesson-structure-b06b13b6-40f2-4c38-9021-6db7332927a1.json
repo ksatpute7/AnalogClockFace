@@ -1,0 +1,203 @@
+{
+  "bg_img_url": "",
+  "OriginalFileName": "ELA-5500000000003-AK.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-5500000000003-AK.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "6198",
+    "lesson_number": "11",
+    "lesson_name": "Lesson 11",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 31,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Week 11, Day 1: Spelling Pretest",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "The spelling words for this week all contain digraphs. <em>Digraphs</em> are clusters of two or three consonant sounds that blend together when they are spoken.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson11_task1_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson11_task1_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson11_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "036123a0-299c-4bab-bc3d-132bdfdf3e53",
+          "NaturalKey": "L6198:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8b96bf2f-299c-4c36-b275-9f932bc437ec",
+      "NaturalKey": "L6198:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Week 11, Day 2: Spelling Search",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson11_task2_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson11_task2_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson11_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1e49425e-299c-4adf-ab73-f2e3eef179d0",
+          "NaturalKey": "L6198:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "46f973b3-299c-4c28-bf9f-ff1282d5cef3",
+      "NaturalKey": "L6198:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Week 11, Day 3: Closed Sort",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Review the spelling pattern for this week with your teacher.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson11_task3_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson11_task3_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson11_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6ca6d07b-299c-4e5f-a69d-5db65d406549",
+          "NaturalKey": "L6198:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d38d0145-299c-4679-bba5-8b63b1869778",
+      "NaturalKey": "L6198:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Week 11, Day 4: Spelling Practice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Practice for the spelling test by using the &#8220;See, Say, Cover, Write, Check&#8221; method. Your teacher will review the steps in this method.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson11_task4_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson11_task4_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson11_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "73c3ccec-299c-4458-8dc0-beb3b108b0a6",
+          "NaturalKey": "L6198:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b4f5eb7d-299c-449c-ae51-18a2961fabcd",
+      "NaturalKey": "L6198:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Week 11, Day 5: Spelling Test",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today, you will work with a partner to give and take your spelling test. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson11_task5_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson11_task5_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson11_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "38632323-299c-41d6-a29c-4d28ab1898f9",
+          "NaturalKey": "L6198:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0b2deef2-299c-4260-b842-6ee323034a43",
+      "NaturalKey": "L6198:T5"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "b06b13b6-40f2-4c38-9021-6db7332927a1",
+  "NaturalKey": "L6198"
+}

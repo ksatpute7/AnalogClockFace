@@ -1,0 +1,33 @@
+{
+  "class": "Player",
+  "lang": "en",
+  "spinner": true,
+  "highlightingEnabled": false,
+  "useLocalStorage": false,
+  "dialogType": "noDialog",
+  "authoring": {
+    "HasGadgetSCORM": false,
+    "HasGlossary": false,
+    "HasMathML": false,
+    "masterscos": {
+      "SCORMListDisabled": true,
+      "SCORMMaxScoreDisabled": true,
+      "SCORMCompThresholdDisabled": true
+    },
+    "authoredscos": {
+      "SCORMListDisabled": true,
+      "SCORMMaxScoreDisabled": true,
+      "SCORMCompThresholdDisabled": true
+    }
+  },
+  "layout": [
+    {
+      "id": "p0",
+      "name": "Fluid_Layout"
+    },
+    {
+      "id": "p1",
+      "name": "Fluid_Layout"
+    }
+  ]
+}

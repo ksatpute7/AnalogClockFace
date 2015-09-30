@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245530-ela-9780133245530-ac-studio-images-ip3-ela-3-2-3_bk_hummingbird-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327229-AC.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327229-AC.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4311",
+    "lesson_number": "3",
+    "lesson_name": "Lesson 3",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher discusses two new vocabulary words. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f41b8229-299c-407c-b24a-74b8e5605c1c",
+          "NaturalKey": "L4311:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "4e3ec264-299c-4df7-9183-447b54312d5c",
+      "NaturalKey": "L4311:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Read the Illustrations",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "One way a writer can help you understand a story is by showing you pictures. Let&#8217;s see how the pictures, or illustrations, in <em>Birdsong for Anna</em> help you understand Anna&#8217;s experience. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "642956b8-299c-4a4e-addf-6c260894f02a",
+          "NaturalKey": "L4311:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d94cf301-299c-4feb-81a9-45c9a5c98f2f",
+      "NaturalKey": "L4311:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Finish Birdsong for Anna",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Take part in a class discussion of how <em>Birdsong for Anna</em> might end.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2f231c08-299c-43f5-b623-de016c146f5c",
+          "NaturalKey": "L4311:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "928ff6b3-299c-4a80-84c0-17e61f9b11ad",
+      "NaturalKey": "L4311:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "“What Do We Know About Anna?” Chart",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Work with your teacher to complete the What Do We Know About Anna? chart. Share adjectives you noticed that describe Anna&#8217;s feelings and character traits.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "df14ddfb-299c-4fd4-b637-175394cda81c",
+          "NaturalKey": "L4311:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "322ecaeb-299c-4b17-b7ea-5867ed006ef2",
+      "NaturalKey": "L4311:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Anna’s Feelings: Quick Write",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "da917b9f-299c-4261-ab98-b01c47267fb7",
+          "NaturalKey": "L4311:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6d53cfc3-299c-4d90-ad07-5b9c1bc13595",
+      "NaturalKey": "L4311:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Subject-Verb Agreement",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher explains subject-verb agreement, or how to make a subject and verb in a sentence agree.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ae889565-299c-49fb-8d7f-afc234fee831",
+          "NaturalKey": "L4311:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "fb66a3c9-299c-4b81-9ea6-8cefede13967",
+      "NaturalKey": "L4311:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently. <em></em>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b0845a46-299c-478d-b2c8-539bab0f60f3",
+          "NaturalKey": "L4311:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2b73ec19-299c-48d0-81cd-3407979480d8",
+      "NaturalKey": "L4311:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Community Responsibility",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Write a response to the following question.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e7f2a96d-299c-4b0b-b2f5-c9e132514b2d",
+          "NaturalKey": "L4311:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "99f3bffd-299c-4748-b05b-ef7b8064ff21",
+      "NaturalKey": "L4311:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson3_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson3_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson3_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8cd09180-299c-49bb-89b9-92f861ac3dc6",
+          "NaturalKey": "L4311:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "af21e416-299c-4af8-a046-e6979d07afb6",
+      "NaturalKey": "L4311:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "32166a98-40f2-4a90-af77-f82d8bec2ef7",
+  "NaturalKey": "L4311"
+}

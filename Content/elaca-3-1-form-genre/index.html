@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="format-detection" content="telephone=no">
+        <title>&nbsp;</title>
+
+        <!--
+            WARNING: This file is installed by Core. Any changes will be overwritten.
+            -->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+        <link rel="stylesheet" href="stylesheets/app.css">
+        <script src="javascripts/vendor.js"></script>
+        <script src="javascripts/jquery-autosize.js"></script>
+        <script src="javascripts/app.js"></script>
+        <script>require('initialize');</script>
+        <script>
+            $(document).on('focus', 'textarea', function () {
+                var $this = $(this);
+                if (!$this.data('autosize')) {
+                    var row = $this.parents('tr');
+                    $('textarea', row).autosize();
+                }
+            });
+        </script>
+    </head>
+  <body>
+  </body>
+</html>

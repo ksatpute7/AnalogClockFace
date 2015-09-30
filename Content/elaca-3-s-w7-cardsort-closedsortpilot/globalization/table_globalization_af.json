@@ -1,0 +1,21 @@
+{
+    "table_globalization": {
+        "labelOpts": {
+        	"showSolutionText"      : "Wys my antwoorde",
+        	"resetButtonText"       : "Doen weer",
+        	"chartItButtonText"     : "Tabuleer",
+        	"resetConfirmText"      : "Wil jy van vooraf begin?",
+        	"closeToolTip"          : "Sluit",
+            "yesToolTip"            : "Ja",
+            "noToolTip"             : "Nee",
+            "invalidRange"          : "Waarde is buite perke. Kies 'n waarde tussen {0} en {1}",
+            "numberTooSmall"        : "Verskaf waarde groter as of gelyk aan {0}.",  
+            "numberTooBig"          : "Verskaf waarde kleiner as of gelyk aan {0}.",
+            "exceedMaxLen"          : "Maksimum karakters toegelaat: {0}.",
+            "validDataSample"       : "Formaat ongeldig. Geldige datavoorbeeld: {0}.",
+     		"invalidDateTimeFormat" : "Datum of datum/tyd-formaat ongeldig. Geldige formaat is {0}.",
+            "exceedScormDataLimit"  : "Tabeldata te veel. Kan nie gestoor word nie."
+
+        }
+    }
+}

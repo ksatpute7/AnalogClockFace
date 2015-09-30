@@ -1,0 +1,23 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+			"maxLengthText" 			  : "Udlule kumlinganiselo weempawu",
+			"checkAnswerText"			  : "Khangela impendulo",
+			"closeToolTip"     		      : "Vala ingxoxo",
+			"showCorrectAnswer"			  : "Bonisa iimpendulo ezichanekileyo",
+			"showMyAnswer"				  : "Bonisa iimpendulo zam",
+			"firstIncorrectText"		  : "Zama kwakhona",
+			"firstCorrectText"			  : "Umsebenzi omhle",
+			"finalIncorrectText"		  : "Asiyiyo echanekileyo",
+			"finalCorrectText"			  : "Le ichanekile",
+			"correctResponseText"		  : "impendulo yakho ichanekile" ,
+			"incorrectResponseText"		  : "Uxolo uphazamile",
+			"correctAnswerShown"		  : "Kuboniswa impendulo echanekileyo",
+			"correctAnswer"				  : "Impendulo echanekileyo",
+			"userSelectedCorrectAnswer"	  : "Umfundi ukhethe ngokuchanekileyo",
+			"userSelectedIncorrectAnswer" : "Umfundi ukhethe ngempazamo",
+			"disabledAnswer"			  : "Impendulo evaliweyo",
+            "answerItemAlert" 			  : "Iimpendulo ezichanekileyo ziphawulwe ngo{AA},{BB},{CC},{DD},{EE},{FF},{GG}"
+		}
+	}
+}

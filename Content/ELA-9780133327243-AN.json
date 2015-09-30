@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245554-ela-9780133245554-an-studio-images-ip3-ela-3-4-14_bk_bunny-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327243-AN.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327243-AN.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4366",
+    "lesson_number": "14",
+    "lesson_name": "Lesson 14",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "7",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "\"Wild or Wrangled\"",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Follow along as your teacher reads aloud &quot;Wild or Wrangled.&quot;",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9edfd8e7-299c-4d24-a7a3-dcb24e5d8cda",
+          "NaturalKey": "L4366:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "4a7fb36e-299c-4acb-8fa4-124f1a065cf5",
+      "NaturalKey": "L4366:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Code \"Wild or Wrangled\"",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with a partner and reread <em>Wild or Wrangled</em>. Use the Text Coding chart to mark the text for discussion. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "325a4344-299c-4ead-90ac-3dd02ade956a",
+          "NaturalKey": "L4366:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ffb970ed-299c-41ae-82b9-c97957f842cb",
+      "NaturalKey": "L4366:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Gist Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3ef626c5-299c-4bfa-b4a8-ed2b33783e64",
+          "NaturalKey": "L4366:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b219c7c1-299c-43fe-9b53-ed6d6df9dbb8",
+      "NaturalKey": "L4366:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Poster Work",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Continue to work on your informational poster on the animal of your choice. You should keep working on a draft of your informational poster, identifying text structures that will make your topic clear to your audience.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a9e447e6-299c-4983-a07d-c21801d9b6a0",
+          "NaturalKey": "L4366:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "395ecf86-299c-4bb1-8990-cea5daa96d29",
+      "NaturalKey": "L4366:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "The Tale of Despereaux",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Continue to read <em>The Tale of Despereaux</em> by Kate DiCamillo. You may read this independently or with a partner.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 2,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "520910f2-299c-4465-9053-24550b25b7f2",
+          "NaturalKey": "L4366:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "54345270-299c-4d90-a55f-4ea774195c82",
+      "NaturalKey": "L4366:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Suffixes",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c3dcaaea-299c-4e36-9f3b-5bd71d6fad4e",
+          "NaturalKey": "L4366:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "436eda8b-299c-42e1-95ed-e9ac88941f28",
+      "NaturalKey": "L4366:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Class Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about what you read in <em>The Tale of Despereaux</em> today. Be prepared to share your thinking about the following questions.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 2,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0c479553-299c-4a9d-afa9-20440e1f9ad9",
+          "NaturalKey": "L4366:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "64fbcf8e-299c-4662-bd29-dcea85d2892d",
+      "NaturalKey": "L4366:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Informational Poster",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson14_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson14_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson14_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f5e90f2b-299c-4805-93ff-23c10381a739",
+          "NaturalKey": "L4366:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f797e478-299c-4396-8829-66fc5f6bdb3a",
+      "NaturalKey": "L4366:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "34f3d139-40f2-4657-a4c3-c5baa5d05dd0",
+  "NaturalKey": "L4366"
+}

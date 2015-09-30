@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equationEditor xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:h="http://www.w3.org/1999/xhtml"
+    xmlns:i="http://math.pearson.com/MathEX"
+    editableSelector="body"
+    responseSelector="body"
+    buttonBar="false"
+    quickBar="true"
+    sideBar="auto"
+    moreMenu="auto"
+    height="300"
+    text="&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;>&lt;body>&lt;input/>&lt;/body>&lt;/html>">
+
+<!-- Quick bar for text mode -->
+
+<palettes>
+
+  <quickBar>
+    <button ref="undo"/>
+    <button ref="redo"/>
+    <button ref="clear"/>
+
+    <button ref="text-mode"/>
+    <button ref="math-mode"/>
+
+    <button ref="more"/>
+  </quickBar>
+
+</palettes>
+
+<!-- Fixes for navigation operations -->
+
+<templates>
+
+<template name="up" phase="pre" selector="p %nary">
+  <i:this/>
+  <apply> <h:p/> <i:child/> </apply>
+</template>
+
+<template name="down" phase="pre" selector="p %nary">
+  <i:this/>
+  <apply> <h:p/> <i:child/> </apply>
+</template>
+
+<template name="up" selector="p %nary">
+  <i:this/>
+  <i:text> <i:cursor/> <i:up/> </i:text>
+</template>
+
+<template name="down" selector="p %nary">
+  <i:this/>
+  <i:text> <i:cursor/> <i:down/> </i:text>
+</template>
+
+<template name="up" shift="true" selector="p %nary">
+  <i:this/>
+  <i:text> <i:extend/> <i:up/> </i:text>
+</template>
+
+<template name="down" shift="true" selector="p %nary">
+  <i:this/>
+  <i:text> <i:extend/> <i:down/> </i:text>
+</template>
+
+<template name="up" shift="true">
+  <i:this/>
+  <i:edit> <i:select/> </i:edit>
+</template>
+
+<template name="insert" phase="pre" selector="body > input">
+  <i:this/>
+  <h:p> <i:this/> </h:p>
+</template>
+
+<template name="enter" phase="pre" selector="body > input">
+  <i:this/>
+  <h:p> <i:this/> </h:p>
+</template>
+
+<template name="enter" selector="body > p > input">
+  <i:this/>
+  <h:body> <i:child/> </h:body>
+</template>
+
+<template name="enter" phase="post" selector="body > * %outfix %exist">
+  <i:this/>
+  <h:body> <i:this/> <h:p> <i:next/> </h:p> </h:body>
+</template>
+
+<template name="insert" selector="p %nary">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="paste" phase="pre" selector="body > input">
+  <i:this/>
+  <h:p> <i:this/> </h:p>
+</template>
+
+<template name="v" ctrl="true" phase="pre" selector="body > input">
+  <i:this/>
+  <h:p> <i:this/> </h:p>
+</template>
+
+<!-- Prevent backspace/delete of a placeholder container -->
+
+<template name="bs" selector="body > * %place">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="bs" selector="body > * + * %place">
+  <i:this/>
+  <i:nary> <i:delete/> <i:left/> </i:nary>
+</template>
+
+<template name="bs" phase="post" selector="body > input">
+  <i:this/>
+  <i:nary> <i:delete/> <i:left/> </i:nary>
+</template>
+
+<template name="bs" selector="body">
+  <i:this/>
+  <h:body> <i:next/> </h:body>
+</template>
+
+<template name="delete" selector="body">
+  <i:this/>
+  <h:body> <i:next/> </h:body>
+</template>
+
+<template name="bs" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="delete" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="cut" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="x" ctrl="true" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="left" ctrl="true" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:doc/> <i:left/> </i:cursor>
+</template>
+
+<template name="right" ctrl="true" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:doc/> <i:right/> </i:cursor>
+</template>
+
+<template name="delete" shift="true" phase="post" selector="body >">
+  <i:this/>
+  <h:p> <i:this/> </h:p>
+</template>
+
+<template name="delete" shift="true" phase="post" selector="body p >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<!-- Use "tab" to navigate from one placeholder to the next -->
+<!-- (or to the container) when current is within a container -->
+
+<template name="tab" shift="true" selector="body >">
+  <i:this/>
+  <i:cursor> <i:place/> <i:left/> </i:cursor>
+</template>
+
+<template name="tab" selector="body >">
+  <i:this/>
+  <i:cursor> <i:place/> <i:right/> </i:cursor>
+</template>
+
+<!-- Post-navigate from a container to its contents -->
+
+<template name="tab" shift="true" phase="post" selector="body">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="tab" phase="post" selector="body">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="up" phase="post" selector="body">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="left" phase="post" selector="body >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="left" phase="post" selector="body">
+  <i:this/>
+  <i:cursor> <i:leaf/> </i:cursor>
+</template>
+
+<template name="left" phase="post" selector="p">
+  <i:this/>
+  <i:cursor> <i:leaf/> </i:cursor>
+</template>
+
+<template name="right" phase="post">
+  <i:this/>
+  <i:cursor> <i:present/> <i:left/> </i:cursor>
+</template>
+
+<template name="right" phase="post" selector="body >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="right" phase="post" selector="body">
+  <i:this/>
+  <i:cursor> <i:present/> <i:left/> </i:cursor>
+</template>
+
+<template name="up" ctrl="true" phase="post" selector="body">
+  <i:this/>
+  <i:cursor> <i:in/> </i:cursor>
+</template>
+
+<template name="up" ctrl="true" shift="true" selector="body >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="up" ctrl="true" shift="true" phase="pre" selector="body >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="down" ctrl="true" shift="true" selector="body >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+<template name="down" ctrl="true" shift="true" phase="pre" selector="body >">
+  <i:this/>
+  <i:cursor> <i:none/> </i:cursor>
+</template>
+
+</templates>
+
+</equationEditor>

@@ -1,0 +1,26 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+			"maxLengthText": 			"Has escrito el máximo número de caracteres.",
+			"checkAnswerText": "Inténtalo de nuevo.",
+			"showCorrectAnswer": "Mostrar las respuestas correctas",
+			"showMyAnswer": "Mostrar mis respuestas",
+			"firstIncorrectText": "Inténtalo de nuevo.",
+			"finalIncorrectText": "Casi",
+			"finalCorrectText": "¡Bien hecho!",
+			"correctResponseText": "Tienes razón." ,
+			"incorrectResponseText": "Lo siento, pero es incorrecto.",
+			"correctAnswerShown": "Se muestra la respuesta correcta.",
+			"correctAnswer": "Respuesta correcta",
+			"userSelectedCorrectAnswer": "El estudiante seleccionó Correcto.",
+			"userSelectedIncorrectAnswer": "El estudiante seleccionó Incorrecto.",
+			"disabledAnswer": "No habilitado",
+			"closeToolTip"          : "Cerrar",
+            "yesToolTip"            : "Si",
+            "noToolTip"             : "No",
+            "answerItemAlert" : "The correct answers for this questions have been highlited and are {AA}, {BB}, {CC}, {DD}, {EE}, {FF}, {GG}, {HH}, {II}, {JJ}, {KK}",
+            "playalt" : "Iniciar",
+			"pausealt" : "Pausa"
+		}
+	}
+}

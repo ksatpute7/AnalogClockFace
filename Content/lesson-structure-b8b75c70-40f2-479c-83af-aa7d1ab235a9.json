@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245530-2015-images-ip3-elaca-3-2-14_bk_schoolkids-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327229-AV.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327229-AV.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "5821",
+    "lesson_number": "14",
+    "lesson_name": "Lesson 14",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Compound Words",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Your teacher will assign teams for this task.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ce7ae67f-299c-45ee-ada5-695455513068",
+          "NaturalKey": "L5821:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "bc340d18-299c-4be0-8d54-099770190d3b",
+      "NaturalKey": "L5821:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Vocabulary Review",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "020aa97a-299c-4d7c-8489-3786230f94d4",
+          "NaturalKey": "L5821:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6418a835-299c-4960-9015-221e31b5579c",
+      "NaturalKey": "L5821:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Performance Time!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2083cf1d-299c-42a9-be8e-9a7f0b0c986b",
+          "NaturalKey": "L5821:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "544741bd-299c-4da6-9ca4-9c60838c1865",
+      "NaturalKey": "L5821:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "School Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Work with your group to write a new version of &#8220;If I Were in Charge of the World.&#8221; This time, the poem will be about school!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bd3e1961-299c-44ac-bdb5-65644e917cab",
+          "NaturalKey": "L5821:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "bdbb03f0-299c-4930-83f7-652e5422eeec",
+      "NaturalKey": "L5821:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Recording the Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7e402073-299c-44ec-8e87-3baa321e3ef2",
+          "NaturalKey": "L5821:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f5885862-299c-4674-ab98-7c1e966f7f61",
+      "NaturalKey": "L5821:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Book Club",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with your Book Club. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "77e76e1f-299c-47ed-bce7-8d06187db29a",
+          "NaturalKey": "L5821:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0aad9c1d-299c-4895-9f7a-4082072a3a5d",
+      "NaturalKey": "L5821:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Video Presentation",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Enjoy the presentations your classmates have made of their group poems!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c5fbdffa-299c-438c-a5e5-b005b16cfdeb",
+          "NaturalKey": "L5821:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9c9784cc-299c-45e4-8a70-319ffc4f05a6",
+      "NaturalKey": "L5821:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Homework",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson14_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson14_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson14_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "df0a444e-299c-432b-af0a-b6495f53e016",
+          "NaturalKey": "L5821:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "806eebde-299c-4bf6-af65-e933ee1b26a9",
+      "NaturalKey": "L5821:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "b8b75c70-40f2-479c-83af-aa7d1ab235a9",
+  "NaturalKey": "L5821"
+}

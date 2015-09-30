@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-ak-studio-images-ip3-ela-3-1-11_bk_groupofkids-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AK.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AK.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4289",
+    "lesson_number": "11",
+    "lesson_name": "Lesson 11",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today, you will learn about some of the words you&#8217;ll encounter in the next Common Read. Then you will build on what you already know about communities, which will help you to understand why they are important.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "66054b56-299c-4ec7-a714-b99853b092a6",
+          "NaturalKey": "L4289:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5e12f61c-299c-431e-9552-ac0c5d069947",
+      "NaturalKey": "L4289:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Quick Write: Communities",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You are a member of many different communities. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bcf1244a-299c-4f62-853f-3244cefa1117",
+          "NaturalKey": "L4289:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b6ffa16f-299c-43ba-b697-17ec61da60ed",
+      "NaturalKey": "L4289:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Communities Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now share what you wrote about communities with the whole class. <strong><em></em></strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "250e548f-299c-44ba-bd76-52551f61976f",
+          "NaturalKey": "L4289:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7f01a84b-299c-42c6-aa2e-d0ffe6fdc333",
+      "NaturalKey": "L4289:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "What is a Community?",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Join in as your teacher goes page by page through <em>What is a Community? from A to</em><em>Z</em>.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 2,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ff9657a0-299c-4f79-ae24-9414205a8eba",
+          "NaturalKey": "L4289:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2bdbd530-299c-42e3-8f92-13e6d024c743",
+      "NaturalKey": "L4289:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Writing a Gist",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "A &#8220;Gist&#8221; is a quick summary that is 20 words or fewer. It covers the most important ideas in the reading, such as who it is about, what the problem is, and how the problem is solved.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e25a53e8-299c-4c8a-b9f4-5dc81162cedf",
+          "NaturalKey": "L4289:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5c14d5d9-299c-42e6-8eff-c112b8c324d9",
+      "NaturalKey": "L4289:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Partner and Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read the page for the letter D in <em>What is a Community? from A to Z</em>. You can do this with a partner.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 2,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "beba2aa5-299c-46e5-9880-e72d3aac41a3",
+          "NaturalKey": "L4289:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "71352c9e-299c-4004-a7c9-763073e7cd05",
+      "NaturalKey": "L4289:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Grammar and Language: Concrete vs. Abstract Nouns",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher explains the difference between <em>concrete</em> and <em>abstract</em> nouns.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b2a4a63e-299c-4b3c-a514-63d50a1dccc1",
+          "NaturalKey": "L4289:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "83a21326-299c-46ce-883b-2418cc28231a",
+      "NaturalKey": "L4289:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Whole Group Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about what you are learning about communities. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "52898a60-299c-493a-b552-67fd013914f2",
+          "NaturalKey": "L4289:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0cd7354e-299c-427e-aefc-222ab666bad0",
+      "NaturalKey": "L4289:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson11_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson11_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson11_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-11-9.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f6ea0f8f-299c-415d-b56c-4f1a18286c3e",
+          "NaturalKey": "L4289:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "df58d879-299c-45e2-9fb4-2fd0bccd76a0",
+      "NaturalKey": "L4289:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "f566d59f-40f2-47a4-8ad3-6aca05b7160f",
+  "NaturalKey": "L4289"
+}

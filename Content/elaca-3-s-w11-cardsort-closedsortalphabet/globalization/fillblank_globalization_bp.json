@@ -1,0 +1,23 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+		"maxLengthText"				: "Você digitou o máximo de caracteres permitido.",
+		"checkAnswerText"				: "Verificar resposta",
+		"closeToolTip"				: "Fechar caixa de diálogo.",
+		"showCorrectAnswer"			: "Exibir respostas corretas.",
+		"showMyAnswer"				: "Exibir minhas respostas.",
+		"firstIncorrectText"			: "Por favor, tente novamente.",
+		"firstCorrectText"			: "Bom trabalho!",
+		"finalIncorrectText"			: "Tentar novamente.",
+		"finalCorrectText"			: "A resposta está correta.",
+		"correctResponseText"			: "Sua resposta esta correta!",
+		"incorrectResponseText"		: "A resposta está incorreta.",
+		"correctAnswerShown"			: "Resposta correta visível.",
+		"correctAnswer"				: "Resposta correta.",
+		"userSelectedCorrectAnswer"	: "O aluno selecionou a resposta correta.",
+		"userSelectedIncorrectAnswer"	: "O aluno selecionou a resposta incorreta.",
+		"disabledAnswer"				: "Desabilitar",
+		"answerItemAlert"				: "As respostas corretas para esta questão foram destacadas e são {AA}, {BB}, {CC}, {DD}, {EE}, {FF}, {GG}, {HH}, {II}, {JJ}, {KK}"
+		}
+	}
+}

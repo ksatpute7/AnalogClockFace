@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245554-ela-9780133245554-ac-studio-images-ip3-ela-3-4-3_bk_giraffes-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327243-AC.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327243-AC.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4355",
+    "lesson_number": "3",
+    "lesson_name": "Lesson 3",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "7",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Characteristics Review",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7ea26847-299c-4445-bb08-6311dd581e09",
+          "NaturalKey": "L4355:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "07c6badc-299c-4432-8bab-a52a5e05de65",
+      "NaturalKey": "L4355:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "King Lion Character Profile",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "The characters in fables are usually animals, and the animals display very specific character traits. You learn from the animals based on the traits they display. Today you will identify the character traits of King Lion. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 2,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "10be414e-299c-4a5c-aaaf-1ff99b3e950e",
+          "NaturalKey": "L4355:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ee387fb7-299c-49c9-913d-2c2f5a48f122",
+      "NaturalKey": "L4355:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Partner Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with a partner and discuss the following questions.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 2,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "02e074c1-299c-458e-99a8-bb37c9ea3fab",
+          "NaturalKey": "L4355:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "31a51cf0-299c-4274-8fef-e8cf667050bd",
+      "NaturalKey": "L4355:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Wolf Character Profile",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Follow along as your teacher reads aloud &quot;The Hen and the Apple Tree.&quot;",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5baaad72-299c-489f-8f45-212d0f188dc8",
+          "NaturalKey": "L4355:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "689e6536-299c-44be-9265-992faedf7bf1",
+      "NaturalKey": "L4355:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Fable Plan and Character Profile",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have read fables that teach lessons about pride and trickery. Now think about a lesson you would want to teach someone (your audience). You might think about your own experiences, such as when you saw someone being bullied or heard someone lying and thought they should learn to be kinder or to tell the truth.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "40526b6a-299c-4cd9-b198-72a1bd62ad74",
+          "NaturalKey": "L4355:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ae43664a-299c-4c59-aff0-bc366cbb7cba",
+      "NaturalKey": "L4355:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d14131a9-299c-4afb-ba38-7867c2a99cb3",
+          "NaturalKey": "L4355:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b52fbdfc-299c-4446-a457-ab72053d722a",
+      "NaturalKey": "L4355:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Commas in Quotations",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You will learn how to correctly place commas into your dialogue.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ced684f1-299c-4a9c-a060-9f0501d94c55",
+          "NaturalKey": "L4355:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1afd5313-299c-4e5e-bb3e-1ee4d2e15dac",
+      "NaturalKey": "L4355:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Fable Idea Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share with the class how you planned your fable.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "da3ab8ee-299c-4820-a2f7-9798ae40357b",
+          "NaturalKey": "L4355:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d921af07-299c-4ca0-acc3-a2b5ee5aaacd",
+      "NaturalKey": "L4355:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Fable Homework",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit7_lesson3_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit7_lesson3_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit7_lesson3_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c4c74da6-299c-459e-a4df-84747685c26b",
+          "NaturalKey": "L4355:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "4b2a6b3a-299c-492a-b9b1-23dc7bd0e2d8",
+      "NaturalKey": "L4355:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "ede4f185-40f2-40ce-b233-01660062fe9d",
+  "NaturalKey": "L4355"
+}

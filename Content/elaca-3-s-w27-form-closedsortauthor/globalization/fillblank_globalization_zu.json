@@ -1,0 +1,23 @@
+{
+	"fillblank_globalization": {
+		"labelOpts": {
+			"maxLengthText" 			  : "Usubhale amaletha ayinani elikhulu ngokwanele",
+			"checkAnswerText"			  : "Bheka izimpendulo.",
+			"closeToolTip"     		      : "Vala ingxoxo",
+			"showCorrectAnswer"			  : "Khombisa izimpendulo eziyizo",
+			"showMyAnswer"				  : "Khombisa izimpendulo zami.",
+			"firstIncorrectText"		  : "Phinda uzame",
+			"firstCorrectText"			  : "Wenze kahle!",
+			"finalIncorrectText"		  : "Akukakalungi kahle",
+			"finalCorrectText"			  : "Impendulo eyiyonayona leyo!",
+			"correctResponseText"		  : "Impendulo yakho iyiyonayona!" ,
+			"incorrectResponseText"		  : "Phephisa, akuyona impendulo eyiyo leyo.",
+			"correctAnswerShown"		  : "Impendulo okuyiyo iveziwe",
+			"correctAnswer"				  : "Impendulo okuyiyo",
+			"userSelectedCorrectAnswer"	  : "Umfundi ukhethe okuyikho",
+			"userSelectedIncorrectAnswer" : "Umfundi ukhethe okungeyikho",
+			"disabledAnswer"			  : "Akusasebenzi",
+            "answerItemAlert" 			  : "Izimpendulo eziyizo zale mibuzo zibhalwe ngokugqamile futhi yilezi {AA}, {BB}, {CC}, {DD}, {EE}, {FF}, {GG}."
+		}
+	}
+}

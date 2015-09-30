@@ -1,0 +1,22 @@
+{
+	"tilesort_globalization": {
+		"labelOpts": {
+			"ofLabel"				: "de",
+			"closeToolTip"			: "Cerrar",
+			"selectedText"			: "SELECCIONADO/A",
+			"correctText"			: "Correcto",
+			"incorrectText"			: "Incorrecto",
+			"customCheckAnswer"		: "sp-Check",
+			"customSolution"		: "sp-Solution",
+			"customRestButton"		: "sp-Rest",
+			"customTryAgain" 		: "sp-Try Again",
+			"customMyAnswers" 		: "sp-Show My Answers",
+			"capacityError" 		: "<b>sp-Whoops!</b></br> This area is full. You can remove an item to make room.",
+			"closeToolTip"          : "Cerrar",
+            "yesToolTip"            : "Si",
+            "noToolTip"             : "No",
+            "playalt" 				: "Iniciar",
+			"pausealt" 				: "Pausa"
+		}
+	}
+}

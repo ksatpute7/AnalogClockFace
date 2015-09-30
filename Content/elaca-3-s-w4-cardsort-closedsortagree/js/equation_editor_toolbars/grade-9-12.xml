@@ -1,0 +1,279 @@
+<!-- This File is to customize the Toolbar for grede level 9-12 aka Highscool -->
+<equationEditor
+    buttonBar="false"
+    quickBar="true"
+    sideBar="true"
+    height="300">
+
+<palettes>
+
+  <quickBar>
+    <!-- button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="equal"/>
+    <button ref="approx"/ -->
+    <button ref="undo"/>
+    <button ref="redo"/>
+    <button ref="clear"/>
+    <button ref="bs"/>
+    <button ref="more"/>
+  </quickBar>
+
+  <sideBar>
+    <palette ref="numbers"/>
+    <palette ref="arithmetic"/>
+    <palette ref="relations"/>
+    <palette ref="geometry"/>
+    <palette ref="exponents"/>
+    <palette ref="groups"/>
+	<palette ref="greek"/>
+	<palette ref="trigonometry"/>
+    <palette ref="statistics"/>
+    <palette ref="matrix"/>
+    <palette ref="misc"/>
+  </sideBar>
+  
+  
+  
+  <palette id="matrix">
+    <title>Matrices</title>
+    <button ref="matrix11"/>
+    <button ref="matrix12"/>
+    <button ref="matrix13"/>
+    <button ref="matrix21"/>
+    <button ref="matrix22"/>
+    <button ref="matrix31"/>
+    <button ref="matrix33"/>
+  </palette>
+  
+  
+  <palette id="misc">
+    <title>Misc</title>
+    
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    
+    <button ref="power"/>
+    <button ref="subscript"/>
+    <button ref="sqrt"/>
+    <button ref="cube-root"/>
+    <button ref="equal"/>
+    <button ref="paren"/>
+    <button ref="percent"/>
+    
+    <button ref="plus-minus"/>
+    <button ref="negative"/>
+    <button ref="times-sdot"/>
+    <button ref="divide-slash"/>
+    <button ref="bracket"/>
+    <button ref="abs"/>
+    
+    <button ref="less-than"/>
+    <button ref="greater-than"/>
+    <button ref="less-equal"/>
+    <button ref="greater-equal"/>
+    <button ref="degrees"/>
+    <button ref="constantpi"/>
+    <button ref="compose"/>
+  </palette>
+  
+  <palette id="arithmetic">
+    <title>Operators and Units</title>
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="plus-minus"/>
+    <button ref="negative"/>
+    <button ref="times-sdot"/>
+    <button ref="divide-slash"/>
+    <button ref="dollar"/>
+    <button ref="cent"/>
+    <button ref="degrees"/>
+    <button ref="percent"/>
+  </palette>
+  
+  <palette id="exponents">
+    <title>Exponents</title>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="cube-root"/>
+    <button ref="root"/>
+    <!-- <button ref="exp"/>
+    <button ref="ln"/>
+    <button ref="log"/>
+    <button ref="log-base"/>
+	<button ref="fourth-root"/> -->
+  </palette>
+  
+  <palette id="relations">
+    <title>Relations</title>
+    <button ref="equal"/>
+    <button ref="not-equal"/>
+    <button ref="similar"/>
+    <button ref="not-similar"/>
+    <button ref="less-than"/>
+    <button ref="greater-than"/>
+    <button ref="approx"/>
+    <button ref="not-approx"/>
+    <button ref="less-equal"/>
+    <button ref="greater-equal"/>
+    <button ref="congruent"/>
+    <button ref="not-congruent"/>
+    <button ref="therefore"/>
+  </palette>
+  
+  <palette id="geometry">
+    <title>Geometry</title>
+    <button ref="ray"/>
+    <button ref="line"/>
+    <button ref="segment"/>
+    <button ref="arc"/>
+    <button ref="parallel"/>
+    <button ref="perpendicular"/>
+    <button ref="angle"/>
+    <button ref="anglemeasure"/>
+    <button ref="triangle"/>
+    <button ref="parallelogram"/>
+    <button ref="circle"/>
+  </palette>
+  
+  <palette id="greek">
+    <title>Greek</title>
+    <button ref="alpha"/>
+    <button ref="beta"/>
+    <button ref="gamma"/>
+    <button ref="delta"/>
+    <button ref="theta"/>
+    <button ref="pi"/>
+  </palette>
+
+</palettes>
+
+<buttons>
+  <button id="subscript">
+    <label fontStyle="italic">y&lt;sub>x&lt;/sub></label>
+    <tooltip>subscript</tooltip>
+    <template name="subscript"/>
+  </button>
+  <button id="matrix11">
+    <label>(1x1)</label>
+    <tooltip>1x1 matrix</tooltip>
+    <template name="matrix11"/>
+  </button>
+  <button id="matrix12">
+    <label>(1x2)</label>
+    <tooltip>1x2 matrix</tooltip>
+    <template name="matrix12"/>
+  </button>
+  <button id="matrix13">
+    <label>(1x3)</label>
+    <tooltip>1x3 matrix</tooltip>
+    <template name="matrix13"/>
+  </button>
+  <button id="matrix21">
+    <label>(2x1)</label>
+    <tooltip>2x1 matrix</tooltip>
+    <template name="matrix21"/>
+  </button>
+  <button id="matrix31">
+    <label>(3x1)</label>
+    <tooltip>3x1 matrix</tooltip>
+    <template name="matrix31"/>
+  </button>
+  <button id="matrix22">
+    <label>(2x2)</label>
+    <tooltip>2x2 matrix</tooltip>
+    <template name="matrix22"/>
+  </button>
+  <button id="matrix33">
+    <label>(3x3)</label>
+    <tooltip>3x3 matrix</tooltip>
+    <template name="matrix33"/>
+  </button>
+</buttons>
+
+<templates xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:i="http://math.pearson.com/MathEX">
+
+<!-- START OF MATRIX -->
+<template name="matrix11" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> </apply>
+  </apply>
+</template>
+
+<template name="matrix12" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> <i:box/> </apply>
+  </apply>
+</template>
+
+<template name="matrix13" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> <i:box/> <i:box/> </apply>
+  </apply>
+</template>
+
+<template name="matrix21" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> </apply>
+    <apply> <matrixrow/> <i:box/> </apply>
+  </apply>
+</template>
+
+<template name="matrix31" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> </apply>
+    <apply> <matrixrow/> <i:box/> </apply>
+    <apply> <matrixrow/> <i:box/> </apply>
+  </apply>
+</template>
+
+<template name="matrix22" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> <i:box/> </apply>
+    <apply> <matrixrow/> <i:box/> <i:box/> </apply>
+  </apply>
+</template>
+
+<template name="matrix33" selector="%math">
+  <i:this/>
+  <apply> <matrix/>
+    <apply> <matrixrow/> <i:next/> <i:box/> <i:box/> </apply>
+    <apply> <matrixrow/> <i:box/> <i:box/> <i:box/> </apply>
+    <apply> <matrixrow/> <i:box/> <i:box/> <i:box/> </apply>
+  </apply>
+</template>
+
+<!-- END OF MATRIX -->
+
+<template name="C" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:content/> </i:edit>
+</template>
+
+<template name="P" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:present/> </i:edit>
+</template>
+
+</templates>
+
+</equationEditor>

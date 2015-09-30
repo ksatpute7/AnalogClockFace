@@ -1,0 +1,140 @@
+<!-- This File is to customize the Toolbar -->
+<equationEditor
+    buttonBar="false"
+    quickBar="true"
+    sideBar="true"
+    height="300">
+
+<palettes>
+
+  <quickBar>
+    <!-- button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    <button ref="power"/>
+    <button ref="sqrt"/>
+    <button ref="equal"/>
+    <button ref="approx"/ -->
+    <button ref="undo"/>
+    <button ref="redo"/>
+    <button ref="clear"/>
+    <button ref="bs"/>
+    <button ref="more"/>
+    <button ref="text-mode"/>
+    <button ref="math-mode"/>
+  </quickBar>
+
+  <sideBar>
+    <palette ref="numbers"/>
+    <palette ref="arithmetic"/>
+    <palette ref="relations"/>
+    <palette ref="geometry"/>
+    <palette ref="misc"/>
+  </sideBar>
+  
+  <palette id="numbers">
+    <title>Numbers</title>
+    <button ref="zero"/>
+    <button ref="one"/>
+    <button ref="two"/>
+    <button ref="three"/>
+    <button ref="four"/>
+    <button ref="five"/>
+    <button ref="six"/>
+    <button ref="seven"/>
+    <button ref="eight"/>
+    <button ref="nine"/>
+    <button ref="comma"/>
+    <button ref="decimal"/>
+  </palette>
+  
+  <palette id="misc">
+    <title>Misc</title>
+    
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="divide"/>
+    <button ref="mxf"/>
+    
+    <button ref="power"/>
+    <button ref="equal"/>
+    <button ref="paren"/>
+    <button ref="percent"/>
+    
+    <button ref="negative"/>
+    <button ref="times-sdot"/>
+    <button ref="divide-slash"/>
+    <button ref="bracket"/>
+    <button ref="abs"/>
+    
+    <button ref="less-than"/>
+    <button ref="greater-than"/>
+    <button ref="less-equal"/>
+    <button ref="greater-equal"/>
+    <button ref="degrees"/>
+
+  </palette>
+  
+  <palette id="arithmetic">
+    <title>Operators and Units</title>
+    <button ref="plus"/>
+    <button ref="minus"/>
+    <button ref="times-sign"/>
+    <button ref="divide-sign"/>
+    <button ref="negative"/>
+    <button ref="times-sdot"/>
+    <button ref="divide-slash"/>
+    <button ref="dollar"/>
+    <button ref="cent"/>
+    <button ref="degrees"/>
+    <button ref="percent"/>
+  </palette>
+  
+  <palette id="relations">
+    <title>Relations</title>
+    <button ref="equal"/>
+    <button ref="not-equal"/>
+    <button ref="less-than"/>
+    <button ref="greater-than"/>
+    <button ref="approx"/>
+    <button ref="less-equal"/>
+    <button ref="greater-equal"/>
+  </palette>
+  
+  <palette id="geometry">
+    <title>Geometry</title>
+    <button ref="ray"/>
+    <button ref="line"/>
+    <button ref="segment"/>
+    <button ref="arc"/>
+    <button ref="parallel"/>
+    <button ref="perpendicular"/>
+    <button ref="angle"/>
+    <button ref="anglemeasure"/>
+    <button ref="triangle"/>
+    <button ref="parallelogram"/>
+  </palette>
+
+</palettes>
+
+<templates xmlns="http://www.w3.org/1998/Math/MathML"
+    xmlns:i="http://math.pearson.com/MathEX">
+
+<template name="C" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:content/> </i:edit>
+</template>
+
+<template name="P" ctrl="true" alt="true">
+  <i:this/>
+  <i:edit> <i:present/> </i:edit>
+</template>
+
+</templates>
+
+</equationEditor>

@@ -1,0 +1,21 @@
+{
+	"tilesort_globalization": {
+		"labelOpts": {
+			"ofLabel"			: "van",
+			"closeToolTip"		: "Sluit",
+			"selectedText"		: "GEKOSE",
+			"correctText"		: "Korrek",
+			"incorrectText"		: "Verkeerd",
+			"customCheckAnswer"	: "Sien antwoord na",
+			"customSolution"	: "Oplossing",
+			"customRestButton"	: "Rus",
+			"customTryAgain" 	: "Probeer weer",
+			"customMyAnswers" 	: "Wys my antwoorde",
+			"capacityError" 	: "<b>Oeps!</b></br> Dié plek is vol. Verwyder 'n item om plek te maak.",
+            "yesToolTip"        : "Ja",
+            "noToolTip"         : "Nee",
+            "playalt" 			: "Speel",
+			"pausealt" 			: "Rus"
+		}
+	}
+}

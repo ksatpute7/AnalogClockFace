@@ -1,0 +1,19 @@
+{
+    "draganddrop_globalization": {
+        "labelOpts": {
+            "checkAnswerText"       : "Sien antwoorde na",
+            "showCorrectAnswerText" : "Wys regte antwoorde",
+            "showMyAnswerText"      : "Wys my antwoorde",
+            "resetText"             : "Doen weer",
+            "resetConfirmationText" : "Wil jy van vooraf begin?",
+           	"closeToolTip"          : "Sluit",
+			"yesToolTip"            : "Ja",
+			"noToolTip"             : "Nee",
+			"selectedText"          : "GEKOSE",
+			"correctText"           : "Reg",
+			"incorrectText"         : "Verkeerd",
+			"turnoffaudio"          : "Teks-na-spraakgebruikers, skakel sleepblokkies af",
+			"turnonaudio"           : "Teks-na-spraakgebruikers, skakel sleepblokkies aan"
+        }
+    }
+}

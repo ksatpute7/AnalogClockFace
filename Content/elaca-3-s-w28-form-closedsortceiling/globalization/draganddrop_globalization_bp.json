@@ -1,0 +1,19 @@
+{
+    "draganddrop_globalization": {
+        "labelOpts": {
+            "checkAnswerText"       : "Verificar respostas",
+            "showCorrectAnswerText" : "Exibir respostas corretas",
+            "showMyAnswerText"      : "Exibir minhas respostas",
+            "resetText"             : "Reiniciar",
+            "resetConfirmationText" : "Você gostaria de reiniciar?",
+           	"closeToolTip"          : "Fechar",
+			"yesToolTip"            : "Sim",
+			"noToolTip"             : "Não",
+			"selectedText"          : "Selecionado",
+			"correctText"           : "Correto",
+			"incorrectText"         : "Incorreto",
+			"turnoffaudio"          : "Desabilitar som em painéis arrastáveis para usuários de leitor de tela.",
+			"turnonaudio"           : "Habilitar som em painéis arrastáveis para usuários de leitor de tela."
+        }
+    }
+}
