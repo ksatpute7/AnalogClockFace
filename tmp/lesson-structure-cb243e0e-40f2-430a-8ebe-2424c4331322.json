@@ -1,0 +1,273 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-18_bk_indianpainting-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AR.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AR.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4346",
+    "lesson_number": "18",
+    "lesson_name": "Lesson 18",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Clues About Culture",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "As you read today, you will look for clues about culture. You can learn about culture through the characters and setting in a book. The author does not just tell you about the culture; you need to look for clues. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "09665f8c-299c-4a25-92cd-43b054dc3a03",
+          "NaturalKey": "L4346:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1af72802-299c-4b24-9691-4901815fe50e",
+      "NaturalKey": "L4346:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Exploring Community Books",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Look through a book from the Exploring Community book collection.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1b4fedf4-299c-48f8-bf96-334d7cfca377",
+          "NaturalKey": "L4346:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0448b78f-299c-46e2-9147-d645b70e2fb0",
+      "NaturalKey": "L4346:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently and then log your reading.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "84ef6528-299c-4f8f-b5a3-23ef4f3a25b5",
+          "NaturalKey": "L4346:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "13b670f7-299c-4723-8ddf-ad3caf805d91",
+      "NaturalKey": "L4346:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Prepare to Edit",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher reviews the Editing Strategies Checklist.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "caf6580c-299c-4366-a8d6-e9350db39d31",
+          "NaturalKey": "L4346:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ab6d0dde-299c-41ba-abed-05446c23bdc1",
+      "NaturalKey": "L4346:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Edit Your Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Edit your Cinderella story. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fd9551b2-299c-4d85-a7a8-eda782685a2a",
+          "NaturalKey": "L4346:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "39d3e1d6-299c-4863-a4f4-76ba48531b34",
+      "NaturalKey": "L4346:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Partner Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5cf6cb85-299c-4195-aefb-cdfe4839c44c",
+          "NaturalKey": "L4346:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9bc5a62f-299c-4ccd-be06-02485687c151",
+      "NaturalKey": "L4346:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson18_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson18_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson18_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d22f4d40-299c-48c1-840b-149b1a737dce",
+          "NaturalKey": "L4346:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "dcbdb5f1-299c-4369-b654-369e8fbde02b",
+      "NaturalKey": "L4346:T7"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "cb243e0e-40f2-430a-8ebe-2424c4331322",
+  "NaturalKey": "L4346"
+}

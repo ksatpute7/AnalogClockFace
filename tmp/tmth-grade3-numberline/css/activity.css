@@ -1,0 +1,544 @@
+@font-face{font-family:'mclarenregular'; src:url(../fonts/mclarenregular-webfont.ttf)}
+@font-face{font-family:'gilsbbd'; src:url(../fonts/gilsbbd.ttf)}
+
+
+html{background: -webkit-radial-gradient(center,circle farthest-side,#9ECE61 0,#669D40 100%);background:-moz-radial-gradient(center,circle farthest-side,#9ECE61 0,#669D40 100%); background:-o-radial-gradient(center,circle farthest-side,#9ECE61 0,#669D40 100%);background:-ms-radial-gradient(center,circle farthest-side,#9ECE61 0,#669D40 100%); background: #9ECE61;} 
+body{
+    -webkit-user-select: none;
+    background: #9ECE61;
+}
+input[type="text"]{
+    text-align: center;
+    -webkit-user-select: auto;
+}
+
+div, body, html{padding: 0px; margin: 0px; -webkit-user-select: none;}
+.rightPad{margin-right: 30px;}
+#activityHolder{
+    position: absolute;
+    width: 1024px;
+    height: 550px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    top: 35px;
+    background: #daf7b5;
+    box-shadow: rgba(0, 0, 30, 0.51) 1px 1px 1px 0px;
+}
+
+#numlineHolder{
+    position: absolute;
+    width: 974px;
+    height: 325px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    top: 80px;
+}
+#equationHolder{
+    position: absolute;
+    top:445px;
+    width: 100%;
+    height: 80px;
+    background: #e5fbc9;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 3px solid #74a13b;
+    font-size: 26px;
+}
+#eqcontent
+{
+    position: absolute;
+    margin-left:10px;
+    top:415px;
+}
+#input_startNumber, #input_end{
+    display: inline-block;
+    padding: 0px;
+    min-width: 65px;
+    width: auto;
+    min-height: 25px;
+    height: auto;
+    color: #000;
+    text-align: center;
+    line-height: 39px;
+}
+#input_end{
+    margin-left: 15px;
+}
+.numEqBox{
+    display: inline-block;
+}
+.ruler{
+    margin-left: 
+}
+#controlPanel{
+    display: none;
+    position: absolute;
+    top: 117px;
+    left: 200px;
+    width: 584px;
+    height: 470px;
+    background: rgba(55, 73, 56, 1);
+    color:  #fff;
+    padding: 20px;
+    z-index: 50;
+    border: 4px solid #9ed656;
+    border-radius: 18px;
+}
+
+#container{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 0px;
+    margin: auto;
+    width: 1024px;
+    height: 704px;
+    border: 0px solid #000;
+    font-family:'gilsbbd';
+    font-size: 18px;
+    background: #9ECE61;
+    overflow: hidden;
+}
+
+#messageBox{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+}
+
+#messageBox_blocker, #generalBlocker{
+    position: absolute;
+    width: 150%;
+    height: 150%;
+    top: -25%;
+    left: -25%;
+    background: rgba(0,0,0,0.5);
+}
+
+#messageBox_box{
+    position: absolute;
+    width: 567px;
+    height: 180px;
+    top:130px;
+    bottom:0px;
+    left:7px;
+    right:0px;
+    margin: auto;
+    border: 1px solid #395E35;
+    background: -webkit-radial-gradient(center,circle farthest-side,#517A4D 0,#3A6B35 100%);
+    /*background: -webkit-gradient(radial,center center,0,center center,100%,color-stop(0%,#597CA5),color-stop(65%,#82BC54),color-stop(100%,#45638D));*/
+    color: #fff; padding: 45px 28px 5px; font-size: 20px; text-align: left; text-shadow: 0px 1px #000;
+}
+
+#messageBox_btnOk{
+    position: absolute;
+    width: 80px;
+    bottom:20px;
+    left:0px;
+    right:0px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.checkBox{
+    font-size: 22px;
+    line-height: 44px;
+}
+
+/*input[type="text"]{
+    width: 150px;
+    height: 15px;
+    border: 2px solid #B2D893;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: mclarenregular;
+    font-size: 24px;
+}*/
+
+.inputDiv{
+    width: 110px;
+    height: 15px;
+    border: 2px solid #B2D893;
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: mclarenregular;
+    font-size: 24px;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+
+.valuesHolder{
+    line-height: 50px;
+    font-size: 22px;
+    
+}
+
+.btnDesing{
+	position: absolute;
+	width: auto;
+	height: 30px;
+	font-size: 20px;
+	color: #fff;
+	padding: 8px 15px 7px 15px;
+	margin-left: -102px;
+	margin-top: 40px;
+	text-align: center;
+	-webkit-border-radius: 17px;
+	border-radius: 17px;
+	background: -webkit-linear-gradient(top,#fd8902 0,#ab520c 100%);
+	-webkit-background-clip: padding!important;
+	background-clip: padding-box!important;
+	text-shadow: 0 2px 3px rgba(0,0,0,.4);
+	border: 4px solid #ffffff;
+	cursor: pointer;
+	display: block;
+	z-index: 200;
+}
+
+#btn_generate{
+	left: 350px;
+	top: 326px;
+}
+
+#add_btn{
+	right: 50px;
+	top: 50px;
+        width: 110px;
+}
+#sub_btn{
+        width: 110px;
+	right: 50px;
+	top: 130px;
+        opacity: 0.5;
+        cursor: default;
+}
+
+/*"#0000fe", "#8110d2", "#ff7f00", "#f00", "#236e85", "#3a1a1b"*/
+
+.blue{color: #0000fe;}
+.pink{color: #8110d2;}
+.orange{color: #ff7f00;}
+.copy{color: #b1b327;}
+.lgreen{color: #236e85;}
+.copy{color: #3a1a1b;}
+
+.mathAnswer{
+    position: absolute;
+    width: 900px;
+    height: 64px;
+    border: 0px solid #000;
+    top: 320px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    text-align: center;
+    font-family: mclarenregular;
+    font-size: 24px;
+}
+/*Nav*/
+
+.contentFeedback{
+	width: 500px;
+	height: 68px;
+	position: absolute;
+	bottom:5px;
+	right: 25px;
+	overflow: hidden;
+        border: 0px solid #000;
+}
+
+.btInfo{
+	float: right;
+	width: 34px;
+	height: 34px;
+	cursor: pointer;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+	-webkit-tap-highlight-background:<background>;
+}
+.btFeedback,.btReset{
+    float: right;
+    width: 34px;
+    height: 34px;
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    -webkit-tap-highlight-background:<background>;
+}
+
+
+.btReset{margin-right: 50px;}
+.icoReset{
+    background-image: url('../images/btResetOn.png');
+    opacity:1;
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+
+.icoResetMove{
+	-webkit-animation: reset 1s;
+}
+
+@-webkit-keyframes reset {
+	0%{
+		-webkit-transform: rotate(0deg);
+		background-image: url('../images/btResetOn@2x.png');
+	}
+	50%{
+		
+		background-image: url('../images/btResetOff@2x.png');
+		
+	}
+	100%{
+		-webkit-transform: rotate(-360deg);
+		background-image: url('../images/btResetOn@2x.png');
+	}
+}
+
+.btInfo,.btFeedback{margin-right: 17px; opacity: 1;}
+
+.icoReset,.icoFeed{
+	background-position: center center;
+	background-size: 100%;
+	width: 34px;
+	height: 34px;
+}
+.icoInfo{
+	width: 29px;
+	height: 31px;
+	background-position: center center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	 
+}
+
+.icoInfo{background-image: url('../images/btInfoOff@2x.png');background-repeat:no-repeat; background-size: contain;}
+.icoInfoMove{background-image: url('../images/btInfoOff	@2x.png');background-repeat:no-repeat; background-size: contain;}
+
+.icoFeed{background-image: url('../images/btFeedOff@2x.png');background-repeat:no-repeat; background-size: contain;}
+.icoFeedMove{background-image: url('../images/btFeedOn@2x.png');background-repeat:no-repeat; background-size: contain; }
+
+
+.score{
+	float: right;
+	height: 34px;
+	width: 130px;
+	border-radius: 20px;
+	background-color: rgba(27,27,27,0.2);
+	overflow: hidden;
+	margin-right: 12px;
+	display: none;
+}
+
+#contCorrect,#contIncorrect{
+	width: 49%;
+	height: 100%;
+	/*background-color: yellow;*/
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	font-family: 'GillSans-Light';
+	font-size: 18px;
+	padding-top: 7px;
+}
+
+/*in case you have a lighter background you need to use this color : #177100; for #contCorrect and color: #923e3e; for #contIncorrect*/
+#contCorrect{
+	border-right: 1px solid rgba(0,0,0,0.3);
+	color: #33ff00;	
+}
+#contIncorrect{
+	color: #ffcbcb;
+}
+
+#contCorrect img{
+	width: 17px;
+	height: 18px;
+}
+#contIncorrect img{
+	width: 15px;
+	height: 17px;
+}
+
+.score div img{
+	vertical-align: middle;
+	margin-left: 5px;
+	margin-top: -5px;
+}
+#settingBtn{
+    position: absolute;
+    width: 84px;
+    height: 54px;
+    background: url(../images/setting.png) no-repeat center;
+    background-size: contain;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+    z-index: 27;
+}
+#fraction_interval, #decimal_interval{
+    display: inline-block;
+    /*position: absolute;*/
+    /*margin-top: 35px;*/
+    /*margin-left: -390px;*/
+}
+#LockBtn{
+    position: absolute;
+    width: 84px;
+    height: 54px;
+    right: 123px;
+    top: 20px;
+    cursor: pointer;
+}
+.unlocked.selected{
+    background: url(../images/lockOpened.png) no-repeat center;
+    background-size: contain;
+}
+.unlocked{
+    background: url(../images/lockClosed.png) no-repeat center;
+    background-size: contain;
+}
+
+.addRemoveBtns{
+    position: absolute;
+    width: 84px;
+    height: 54px;
+    top: 20px;
+    cursor: pointer;
+}
+
+#btn_addPoint{
+    left: 20px;
+    background: url(../images/addPoint_inactive.png) no-repeat center;
+}
+
+#btn_addPoint.selected{
+    left: 20px;
+    background: url(../images/addPoint_active.png) no-repeat center;
+}
+#btn_addForward{
+    left: 123px;
+    background: url(../images/arrowForward_inactive.png) no-repeat center;
+    background-size: contain;
+}
+#btn_addForward.selected{
+    left: 123px;
+    background: url(../images/arrowForward_active.png) no-repeat center;
+    background-size: contain;
+}
+#btn_addBackward{
+    left: 226px;
+    background: url(../images/arrowBackward_inactive.png) no-repeat center;
+    background-size: contain;
+}
+#btn_addBackward.selected{
+    left: 226px;
+    background: url(../images/arrowBackward_active.png) no-repeat center;
+    background-size: contain;
+}
+#btn_addDifference{
+    left: 329px;
+    background: url(../images/difference_inactive.png) no-repeat center;
+    background-size: contain;
+}
+
+#btn_addDifference.selected{
+    left: 329px;
+    background: url(../images/difference_active.png) no-repeat center;
+    background-size: contain;
+}
+#btn_eraser{
+    left: 432px;
+    background: url(../images/eraser_inactive.png) no-repeat center;
+    background-size: contain;
+}
+#btn_eraser.selected{
+    left: 432px;
+    background: url(../images/eraser_active.png) no-repeat center;
+    background-size: contain;
+}
+
+.numDistDisp{
+    background: #e1f9c3;
+    border: dashed rgba(0,0,0, 0.25) 1px;
+    min-width: 30px;
+    min-height: 26px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.eqInterSymbols{
+    color:#000;
+}
+.closeBtn{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: -12px;
+    right: -10px;
+    background: url(../images/close_btn.png) no-repeat;
+    background-size: contain;
+}
+
+#QBlocker
+{
+    display: none;
+    position: absolute;    
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    top: 0px;
+    bottom: 0px;
+    width: 700px;
+    height: 220px;
+    background: rgba(55, 73, 56, 1);
+    color:  #fff;
+    padding: 20px;
+    border: 4px solid #9ed656;
+    border-radius: 18px;    
+}
+    
+.qcloseBtn{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: -12px;
+    right: -12px;
+    background: url(../images/close_btn.png) no-repeat;
+    background-size: contain;
+}
+
+.settingInst
+{
+    position: absolute;
+    bottom: 22px;
+    line-height: 22px;
+    font-size: 18px;
+}
+
+#input_interval {
+    display: inline-block;
+    padding: 0px;
+    min-width: 65px;
+    width: auto;
+    min-height: 25px;
+    height: auto;
+    color: #000;
+    text-align: center;
+    line-height: 39px;
+}

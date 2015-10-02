@@ -1,0 +1,364 @@
+{
+  "bg_img_url": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-images-ip3-mth-3-0-4_bk_wall5-ip3.jpg",
+  "OriginalFileName": "MATH-9780328760886-AD.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "MATH-9780328760886-AD.json",
+  "MathMissionHeader": "Explain the patterns when skip-counting by 5s and 10s.",
+  "header": {
+    "lesson_id": "386",
+    "lesson_number": "4",
+    "lesson_name": "Skip-Counting to 1,000",
+    "lesson_types": null,
+    "subject": 1,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "0",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "math"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Participate in Mathematical Discussions",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listening actively and asking questions during discussions are as important as the presentation.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Here are ideas for questions you can ask presenters: </p><p><ul><li>“I did not understand. What do you mean by …?”</li></ul></p><p><ul><li>“How do you know that …?”</li></ul></p><p><ul><li>“What you said is like … .”</li></ul></p><p><ul><li>“Is that different from …?”</li></ul></p><p><ul><li>“Is your conclusion always true for …?”</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "cfbf6828-299c-4dde-ae89-c33b16ba891b",
+          "NaturalKey": "L386:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "815cf27e-299c-44f1-9ddb-0b7b147dadff",
+      "NaturalKey": "L386:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "What Numbers Are Missing?",
+      "routines": {
+        "routine": {
+          "routine_id": 2,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Use the chart to help your class chant.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9a5f73a1-299c-4ed0-967f-356495435dae",
+          "NaturalKey": "L386:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a6fb8aca-299c-42f1-9e82-ca8633d3f8fe",
+      "NaturalKey": "L386:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Math Mission",
+      "routines": {
+        "routine": {
+          "routine_id": 3,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Explain the patterns when skip-counting by 5s and 10s.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 12,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3d0b3174-299c-485e-817b-f18647465f85",
+          "NaturalKey": "L386:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5a4e53e4-299c-42c5-84cc-11ff7552e0e8",
+      "NaturalKey": "L386:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Patterns in Skip-Counting by 5s and 10s",
+      "routines": {
+        "routine": {
+          "routine_id": 4,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p><ul><li>If you picked skip-counting by 5s and are finding it difficult, try skip-counting by 10s instead.</li></ul></p><p><ul><li>How does shading help you see the skip-counting patterns?</li></ul></p><p><ul><li>Do the rows or columns help you see the skip-counting pattern?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "62cc72af-299c-4696-95fc-70f922d90e5a",
+          "NaturalKey": "L386:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2ee95a88-299c-4579-8767-8f632136d1a8",
+      "NaturalKey": "L386:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Prepare a Presentation",
+      "routines": {
+        "routine": {
+          "routine_id": 5,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task5_step1.png",
+          "challenge_problem_step": true,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "eed20aa7-299c-4662-a07a-964dc210caff",
+          "NaturalKey": "L386:T5:S1"
+        },
+        {
+          "step_id": 2,
+          "description": null,
+          "toc_description": "<strong></strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task5_step2.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task5_step2.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task5_step2.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "47488f64-299c-49c9-bda5-e17acce680d1",
+          "NaturalKey": "L386:T5:S2"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b9d8fd14-299c-4ee1-871a-be436d9903c7",
+      "NaturalKey": "L386:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Make Connections",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "ways of thinking"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>As your classmates present, ask questions such as:</p><p><ul><li>How are the patterns the same when skip-counting by 5s and 10s?</li></ul></p><p><ul><li>How are the patterns different when skip-counting by 5s and 10s?</li></ul></p><p><ul><li>How would the hundred chart look different if you started skip-counting at a different number, such as 13?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3f48c613-299c-4d23-a697-8bd10171b7d8",
+          "NaturalKey": "L386:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "00f92fc9-299c-48ab-9c4c-ad941ada3b2a",
+      "NaturalKey": "L386:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Skip-Counting Patterns",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "summary of the math"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Check your summary.</p><p><ul><li>Do you describe the skip-counting patterns for 10s?</li></ul></p><p><ul><li>Do you describe the skip-counting patterns for 5s?</li></ul></p><p><ul><li>Do you compare the patterns to explain how they are the same and different?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "14f348a4-299c-420b-8e8a-06fdcf9fd070",
+          "NaturalKey": "L386:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b4ae7ebc-299c-49dc-a168-c9ffafbfaf73",
+      "NaturalKey": "L386:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Reflect On Your Work",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "reflection"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Write a reflection about the ideas discussed in class today. Use the sentence starter below if you find it to be helpful.<strong></strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson4_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson4_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson4_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ad-studio-articles-teacherguide-te-math-3-0-0-4-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1affe7de-299c-493f-9a3c-cfcd1c6e4193",
+          "NaturalKey": "L386:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "430246b5-299c-4306-a344-bd6ca93c37a1",
+      "NaturalKey": "L386:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "18a1d819-40f2-4d11-877c-52b0b9e002b1",
+  "NaturalKey": "L386"
+}

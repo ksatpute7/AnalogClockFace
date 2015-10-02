@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-13_bk_animals-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AM.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AM.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4341",
+    "lesson_number": "13",
+    "lesson_name": "Lesson 13",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Read Cinderella",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0c1f0188-299c-4771-a96e-c6315b1b71f2",
+          "NaturalKey": "L4341:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "59c4ad0c-299c-458d-8abb-71c1306e84c7",
+      "NaturalKey": "L4341:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Return to the Text",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Respond to the following questions, using highlighting and annotation.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d661a63c-299c-4561-a459-0effb642cff6",
+          "NaturalKey": "L4341:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "43c35f88-299c-4a16-a1a7-0403ac8bebd4",
+      "NaturalKey": "L4341:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "<em>Cinderella</em> was rich in great words. Listen as your teacher explains the meaning of the following vocabulary words.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bd5fa9b5-299c-4e24-a09e-8c4b0fcab4f9",
+          "NaturalKey": "L4341:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1fef90e7-299c-4024-b635-bba3f2730639",
+      "NaturalKey": "L4341:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "The Big Idea in Cinderella",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "What is the big idea in <em>Cinderella</em>?",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7327b349-299c-4408-8731-51eb4f0d9a62",
+          "NaturalKey": "L4341:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f73793b6-299c-4091-b04e-4f1a73142f6b",
+      "NaturalKey": "L4341:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Whole Group Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share your Gist with the class. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5dff002c-299c-45f4-90b3-dac0bac20f80",
+          "NaturalKey": "L4341:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f8806f4c-299c-4ec9-95ac-09afec8157f9",
+      "NaturalKey": "L4341:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Sentence Deconstruction",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher discusses the meaning of this sentence from <em>Cinderella.</em>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2e0936a6-299c-4bf1-b22e-115a7a5caba2",
+          "NaturalKey": "L4341:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a2b09d9d-299c-4d0d-92f7-97ae0d543c95",
+      "NaturalKey": "L4341:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "add8e324-299c-449b-b3f0-fd061d5a442c",
+          "NaturalKey": "L4341:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b14d8b62-299c-417d-a973-3775719fc18b",
+      "NaturalKey": "L4341:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Reflection and Quick Write",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Talk with a partner about your response to the following questions, and then write down your thoughts.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "d69207e3-299c-4720-8fc3-d368b4b3ce88",
+          "NaturalKey": "L4341:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "07e764e1-299c-4f93-a5c7-606f114dbf9f",
+      "NaturalKey": "L4341:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson13_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson13_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson13_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0a4568e6-299c-499d-ac69-1b479e430f2c",
+          "NaturalKey": "L4341:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a806155f-299c-405f-9959-245cb5df5f05",
+      "NaturalKey": "L4341:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "b8e8fb5a-40f2-4e15-ab4b-99d9ae299de0",
+  "NaturalKey": "L4341"
+}

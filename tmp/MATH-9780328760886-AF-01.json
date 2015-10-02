@@ -1,0 +1,88 @@
+{
+  "bg_img_url": "SubLessonBackground/math_gallery_bg.png",
+  "OriginalFileName": "MATH-9780328760886-AF-01.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "MATH-9780328760886-AF-01.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "3347-01",
+    "lesson_number": "6",
+    "lesson_name": "Represent a Math Problem",
+    "lesson_types": null,
+    "subject": 1,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "0",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "math"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Represent a Math Problem",
+      "routines": null,
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Explore each of these math representations: a Number Line, a Tape Diagram, and a Hundred Chart. These can be found by selecting the tool button in your Notebook.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson6-01_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson6-01_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson6-01_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-studio-articles-teacherguide-te-math-3-0-0-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "56a17cc3-299c-452c-899b-54f87ad016c7",
+          "NaturalKey": "L3347-01:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1e4079b4-299c-4656-96dd-f995fd36d9a7",
+      "NaturalKey": "L3347-01:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Represent a Math Problem",
+      "routines": null,
+      "steps": [
+        {
+          "step_id": 2,
+          "description": null,
+          "toc_description": "Solve this problem. Use a Number Line, a Tape Diagram, or a Hundred Chart to help you solve it.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson6-01_task2_step2.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson6-01_task2_step2.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson6-01_task2_step2.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-studio-articles-teacherguide-te-math-3-0-0-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "63f6ac86-299c-4531-ad2f-07fc43535243",
+          "NaturalKey": "L3347-01:T2:S2"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2b3547fe-299c-4a16-a4c6-857b796ac32f",
+      "NaturalKey": "L3347-01:T2"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "25db9bd0-40f2-4311-a458-f1b7f92a6542",
+  "NaturalKey": "L3347-01"
+}

@@ -1,0 +1,413 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245530-ela-9780133245530-ap-studio-images-ip3-ela-3-2-16_bk_planting-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327229-AP.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327229-AP.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4324",
+    "lesson_number": "18",
+    "lesson_name": "Lesson 18",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Adjectives",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5a3c59ae-299c-4e03-94e1-d990a7116c07",
+          "NaturalKey": "L4324:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d541ecb2-299c-499d-8cca-12beb6b56232",
+      "NaturalKey": "L4324:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Homework Share",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "For homework you previewed <em>Kids Helping Kids. </em><em></em>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fca20765-299c-424c-9fb4-1187670ebcd3",
+          "NaturalKey": "L4324:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8c6cf15a-299c-47a2-941f-32baf21713d5",
+      "NaturalKey": "L4324:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher introduces three new vocabulary words from <em>Kids Helping Kids</em>. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e11bb914-299c-48fe-8d9a-15481b9bda9a",
+          "NaturalKey": "L4324:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5b3c79d5-299c-4552-baa2-0cc357809e3c",
+      "NaturalKey": "L4324:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "We Are the World",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss what you know about earthquakes with your class.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f5864ffb-299c-4b40-8203-7b2db42ac839",
+          "NaturalKey": "L4324:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "074b023a-299c-41c3-9f18-cf5cff03c324",
+      "NaturalKey": "L4324:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Kids Helping Kids",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read about what happened after a hurricane, called Hurricane Katrina, hit the United States.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e421e84d-299c-42c2-b064-e78a4cff5508",
+          "NaturalKey": "L4324:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "328245f2-299c-408d-aba7-aa85d3975835",
+      "NaturalKey": "L4324:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Important Events Discussion",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "The authors of <em>Serving Your Community</em> and <em>Kids Helping Kids</em> both begin with an important event that prompted people to help others. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "77ec1bcb-299c-401a-9d60-b3a21049d3c2",
+          "NaturalKey": "L4324:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "fbf695b9-299c-4fe0-86c1-fb24dfaebbe5",
+      "NaturalKey": "L4324:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "The Five Ws",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "When reporting information, authors of nonfiction texts organize information so that readers can locate it quickly and learn it easily. They make sure they report the five <strong>W</strong>s&#8212;who, what, where, when, and why. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "391aed16-299c-4710-aa06-d7861cf4ddcf",
+          "NaturalKey": "L4324:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b2b863e7-299c-4ea9-8a94-03c1a99754c2",
+      "NaturalKey": "L4324:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "The Five Ws in Kids Helping Kids",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Work with your teacher to find the five <strong>W</strong>s on the first page of <em>Kids Helping Kids</em>. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "747f2a21-299c-45f1-b671-b29988416ce9",
+          "NaturalKey": "L4324:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c4f92616-299c-490c-b046-7bd323ee203a",
+      "NaturalKey": "L4324:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Independent Reading   ",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c58da2eb-299c-4b9f-898f-49c626585141",
+          "NaturalKey": "L4324:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2daa8190-299c-4698-b243-e20a434a5639",
+      "NaturalKey": "L4324:T9"
+    },
+    {
+      "task_id": 10,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task10_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task10_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task10_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2ac48c62-299c-4269-a926-12fe2c45fe55",
+          "NaturalKey": "L4324:T10:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f735c502-299c-476b-8532-29f7e1f46415",
+      "NaturalKey": "L4324:T10"
+    },
+    {
+      "task_id": 11,
+      "description": "We Are the World",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about the song you heard today, &#8220;We Are the World 25 for Haiti.&#8221; ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson18_task11_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson18_task11_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson18_task11_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5ed1cb87-299c-4d21-bf92-33a61c228de7",
+          "NaturalKey": "L4324:T11:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "49a1f85e-299c-43f5-a1fe-9aa98a6ec5f8",
+      "NaturalKey": "L4324:T11"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "add9c086-40f2-4d79-892a-1e3546871bc0",
+  "NaturalKey": "L4324"
+}

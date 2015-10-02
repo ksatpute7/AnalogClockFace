@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133269314-studio-images-ip3-ela-3-a-1_bk_dolphins-ip3.jpg",
+  "OriginalFileName": "ELA-9780133334425-AA.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133334425-AA.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4394",
+    "lesson_number": "1",
+    "lesson_name": "Lesson 1",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "3",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Introduction",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In this unit, you will learn about the physical and behavioral adaptations of animals. You will also learn how these adaptations allow animals to live in a particular environment. In this assessment unit, you will demonstrate your ability to do the following.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "418efcef-299c-4edc-879c-0449d51d6fc1",
+          "NaturalKey": "L4394:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3c60bc6f-299c-4636-9dab-37d8b0d2387c",
+      "NaturalKey": "L4394:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Animal Adaptations Anticipation",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Animals look and act a certain way in order to live in their habitats. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3d5a567f-299c-4db7-81d9-a810dd264a5e",
+          "NaturalKey": "L4394:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3bfacedf-299c-477e-ad23-945b8f490bd7",
+      "NaturalKey": "L4394:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "How do Animals Adapt?",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Watch and listen as your teacher models how to think about and annotate the information in <em>How do Animals Adapt?</em>&nbsp;",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b982784c-299c-4117-b437-2dbbc64db83f",
+          "NaturalKey": "L4394:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d8ba533a-299c-4785-83c4-8b75532cbfa0",
+      "NaturalKey": "L4394:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "The Book’s Meaning",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss the following questions with your class.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c56d415e-299c-4a89-8e5b-cc30441f51ba",
+          "NaturalKey": "L4394:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a3c0c41f-299c-4928-a3ba-5ca288a1b4c9",
+      "NaturalKey": "L4394:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Adaptation Matrix",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In <em>How do Animals Adapt?,</em> reread the sections &#8220;Why do animals adapt?,&#8221; &#8220;Adapting to the seasons,&#8221; &#8220;Taking a long trip,&#8221; &#8220;Staying warm,&#8221; and &#8220;Keeping cool.&#8221; ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "29e8358d-299c-4ca9-ae0c-c3cbfe6bb4cb",
+          "NaturalKey": "L4394:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b2372d86-299c-4832-a9ad-2027851d4b18",
+      "NaturalKey": "L4394:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Animals Adapt to Survive",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In <em>How do Animals Adapt?</em>, the author states, <em>&#8220;</em>Animals adapt to stay alive.&#8221;",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ff5f5f32-299c-452a-a2fa-8df3457e3b08",
+          "NaturalKey": "L4394:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6d3a50da-299c-4c18-b5b8-13d0da9402fd",
+      "NaturalKey": "L4394:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about what you have learned about adaptations. Be ready to share your ideas. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "0534f08c-299c-4f2b-82ed-bdfab7de3875",
+          "NaturalKey": "L4394:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "185aaf4b-299c-488d-a436-cfaf1f3918b2",
+      "NaturalKey": "L4394:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Frayer Model for Adaptation",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit3_lesson1_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit3_lesson1_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit3_lesson1_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "188da14c-299c-49db-aad7-35628724d379",
+          "NaturalKey": "L4394:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5bcf47c2-299c-4e56-bc68-64f9de59aeb3",
+      "NaturalKey": "L4394:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "857f502d-40f2-4abe-8250-1108325c5116",
+  "NaturalKey": "L4394"
+}

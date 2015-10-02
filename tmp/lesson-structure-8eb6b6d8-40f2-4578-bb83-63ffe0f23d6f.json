@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-aq-studio-images-ip3-ela-3-1-17_bk_girlsincostume-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AQ.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AQ.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4295",
+    "lesson_number": "17",
+    "lesson_name": "Lesson 17",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Spelling Strategies Review",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "OPENING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about the last time you were writing and did not know how to spell a word you wanted to use. What did you do to spell the word? ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4b3015f9-299c-42e0-b527-4bc82bb50c28",
+          "NaturalKey": "L4295:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "01c90492-299c-477a-971d-810d5766a64b",
+      "NaturalKey": "L4295:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Teacher Model",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "29d5ff04-299c-4b44-a3e4-224fbe9ecde2",
+          "NaturalKey": "L4295:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "dfa6be9b-299c-4399-97c1-00b46e4adc81",
+      "NaturalKey": "L4295:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Interview Report Spell Check",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "It is now time to check your spelling in your interview report. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "441b64d6-299c-404d-b455-93a7b67622ea",
+          "NaturalKey": "L4295:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b333af21-299c-49e2-b511-09f6afd984b2",
+      "NaturalKey": "L4295:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Spelling Strategies Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "762cb5bd-299c-4b4f-b57c-c7771d2345e7",
+          "NaturalKey": "L4295:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0cac10db-299c-41f6-896b-459b4ff629fb",
+      "NaturalKey": "L4295:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have learned a lot of vocabulary words about community. Here are a few more words from <em>What is a Community? from A to Z.</em> Listen and respond as your teacher talks about them. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "eb8cfad2-299c-45a8-ac02-2c5867343dcf",
+          "NaturalKey": "L4295:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e7010d44-299c-4faa-b364-649326b6b251",
+      "NaturalKey": "L4295:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "These are your tasks for Independent Reading.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "05243671-299c-4e43-b671-b6d57ea1de3e",
+          "NaturalKey": "L4295:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1c73e3c0-299c-4f47-821c-a3bcd3586425",
+      "NaturalKey": "L4295:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Book Talks",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet in a small group and give a brief Book Talk about your Independent Reading book. Remember to discuss the following.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b8f98a47-299c-4c52-91a2-ed695b0f5565",
+          "NaturalKey": "L4295:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7db1b66d-299c-486e-b9f7-e1856423ffea",
+      "NaturalKey": "L4295:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson17_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson17_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson17_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-2-17-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "af579474-299c-4be7-8987-4bb3faa30219",
+          "NaturalKey": "L4295:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0aa3b1b3-299c-4203-ab10-d556636990de",
+      "NaturalKey": "L4295:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "8eb6b6d8-40f2-4578-bb83-63ffe0f23d6f",
+  "NaturalKey": "L4295"
+}

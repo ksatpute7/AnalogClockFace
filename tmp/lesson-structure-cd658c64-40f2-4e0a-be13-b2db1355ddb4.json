@@ -1,0 +1,273 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133269321-studio-images-ip3-ela-3-b-2_bk_childrenplayingwithfood-ip3.jpg",
+  "OriginalFileName": "ELA-9780133334449-AB.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133334449-AB.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4400",
+    "lesson_number": "2",
+    "lesson_name": "Lesson 2",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "8",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Everyday Things",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "The poet Robert Louis Stevenson wrote about everyday things that children experience.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3f353b38-299c-4aad-8b0f-c7493ba98ae7",
+          "NaturalKey": "L4400:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d994d977-299c-4f2f-a2b3-e888ae93cbdb",
+      "NaturalKey": "L4400:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Paint a Picture in Your Head",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "A stanza in a poem is like a paragraph in a story. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "596b8d19-299c-4be4-8ecc-4b5b0ef889b7",
+          "NaturalKey": "L4400:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ef813919-299c-4207-ae4c-541f3c700c5c",
+      "NaturalKey": "L4400:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "“The Land of Counterpane”",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Sit with a partner and read the remaining three stanzas of &#8220;The Land of Counterpane&#8221; aloud, one stanza at a time. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "cefa90d5-299c-4a31-a701-49d3b1a08d46",
+          "NaturalKey": "L4400:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "930210b1-299c-4f9c-b131-452862a43803",
+      "NaturalKey": "L4400:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "“Bed in Summer”",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In the poem &#8220;Bed in Summer&#8221; by Robert Louis Stevenson, a child complains that he doesn&#8217;t like going to bed when it is still light out. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ce39c1dc-299c-4a80-ad04-c61598ef0dd6",
+          "NaturalKey": "L4400:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "78b2d51c-299c-43d0-940c-4ddec087ab3f",
+      "NaturalKey": "L4400:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "“Bed in Summer” Annotation",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will reread &#8220;Bed in Summer,&#8221; but this time you will annotate it.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7e6f414c-299c-4cab-8614-45df4b9ae7dc",
+          "NaturalKey": "L4400:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "78bc2993-299c-45f3-b7d3-c402b0c32ab0",
+      "NaturalKey": "L4400:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Pick Your Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have now read four poems by Robert Louis Stevenson: &quot;The Land of Nod,&quot; &quot;My Bed Is a Boat,&quot; &quot;The Land of Counterpane,&quot; and &quot;Bed in Summer.&quot;",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 7,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "82aae05f-299c-4b6b-a803-da1d4d5d51fb",
+          "NaturalKey": "L4400:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e961a43e-299c-41fc-a467-7c51e7bf7406",
+      "NaturalKey": "L4400:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Memorize Your Poem",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 7,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit8_lesson2_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit8_lesson2_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit8_lesson2_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bbcd3a15-299c-483c-984c-4129c66706e5",
+          "NaturalKey": "L4400:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "89af7b04-299c-4578-9799-c72fb8b5544f",
+      "NaturalKey": "L4400:T7"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "cd658c64-40f2-4e0a-be13-b2db1355ddb4",
+  "NaturalKey": "L4400"
+}

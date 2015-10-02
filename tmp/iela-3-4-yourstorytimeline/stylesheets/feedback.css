@@ -1,0 +1,122 @@
+
+
+.contentFeedback{
+	width: 250px;
+	height: 44px;
+	/*background-color: rgba(47,47,47,0.5);*/
+	position: absolute;
+	
+	top: 5px;
+	left: 9px;
+	overflow: hidden;
+
+}
+
+.btReset,.btInfo,.btFeedback{
+	float: left;
+	
+	width: 34px;
+	height: 34px;
+	cursor: pointer;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+	-webkit-tap-highlight-background:<background>;
+}
+
+.btReset{left: 10px;}
+.icoReset{background-image: url('../images/btResetOn@2x.png');background-repeat:no-repeat;}
+
+.icoResetMove{
+	-webkit-animation: reset 1s;
+}
+
+@-webkit-keyframes reset {
+	0%{
+		-webkit-transform: rotate(0deg);
+		background-image: url('../images/btResetOn@2x.png');
+	}
+	50%{
+		
+		background-image: url('../images/btResetOff@2x.png');
+		
+	}
+	100%{
+		-webkit-transform: rotate(-360deg);
+		background-image: url('../images/btResetOn@2x.png');
+	}
+}
+
+.btInfo,.btFeedback{left:0px;}
+
+.btFeedback{
+	cursor: pointer;
+}
+
+.icoReset,.icoFeed{
+	position:absolute;
+	left:40px;
+	background-position: center center;
+	background-size: 100%;
+	width:29px;
+	height: 29px;
+}
+.icoResetoff{background-image: url('../images/btResetOff@2x.png');background-repeat:no-repeat;background-position: center center;
+	background-size: 100%;	width:29px;	height: 29px;}
+.icoInfo{
+	width: 29px;
+	height: 31px;
+	background-position: center center;
+	background-size: 100%;
+}
+
+.icoInfo{background-image: url('../images/btInfoOff@2x.png');background-repeat:no-repeat;}
+.icoInfoMove{background-image: url('../images/btInfoOn@2x.png');background-repeat:no-repeat;}
+
+.icoFeed{background-image: url('../images/btFeedOff@2x.png');}
+.icoFeedMove{background-image: url('../images/btFeedOn@2x.png');}
+
+.score{
+	float: right;
+	height: 34px;
+	width: 130px;
+	border-radius: 20px;
+	background-color: rgba(27,27,27,0.2);
+	overflow: hidden;
+	margin-right: 12px;
+	display: none;
+}
+
+#contCorrect,#contIncorrect{
+	width: 49%;
+	height: 100%;
+	/*background-color: yellow;*/
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	font-family: 'GillSans-Light';
+	font-size: 18px;
+	padding-top: 7px;
+}
+
+/*in case you have a lighter background you need to use this color : #177100; for #contCorrect and color: #923e3e; for #contIncorrect*/
+#contCorrect{
+	border-right: 1px solid rgba(0,0,0,0.3);
+	color: #33ff00;	
+}
+#contIncorrect{
+	color: #ffcbcb;
+}
+
+#contCorrect img{
+	width: 17px;
+	height: 18px;
+}
+#contIncorrect img{
+	width: 15px;
+	height: 17px;
+}
+
+.score div img{
+	vertical-align: middle;
+	margin-left: 5px;
+	margin-top: -5px;
+}

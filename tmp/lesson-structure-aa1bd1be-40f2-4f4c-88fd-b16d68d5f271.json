@@ -1,0 +1,168 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133335804-2015-images-ip3-elaca-3-i-5_bk_feetocean-ip3.jpg",
+  "OriginalFileName": "ELA-9780133335804-AE.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133335804-AE.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "5951",
+    "lesson_number": "5",
+    "lesson_name": "Lesson 5",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "6",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Prepare to Share",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson5_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson5_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson5_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f97491e6-299c-445e-bf70-6d493b5bfe72",
+          "NaturalKey": "L5951:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "458af715-299c-4c7b-b6ba-031913973ef8",
+      "NaturalKey": "L5951:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Response Groups",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Meet with your Response Group.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson5_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson5_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson5_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9d69dea9-299c-4aba-83df-4a7716e2e4d0",
+          "NaturalKey": "L5951:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "526ce03e-299c-4d84-9202-55bf3e1e814b",
+      "NaturalKey": "L5951:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Considering Feedback",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Look at your report after your group has completed its work.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson5_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson5_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson5_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e27910a0-299c-4cf5-a321-a5f546269bad",
+          "NaturalKey": "L5951:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "51aa43a3-299c-4928-bcf2-51b171373107",
+      "NaturalKey": "L5951:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Reflection on Informational Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "What have you learned about informational writing? Why is this type of writing so important?",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit6_lesson5_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit6_lesson5_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit6_lesson5_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "98a24ed8-299c-4570-8c00-fbe742f947dc",
+          "NaturalKey": "L5951:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9d9a215c-299c-4953-989d-b1d2de531d2d",
+      "NaturalKey": "L5951:T4"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "aa1bd1be-40f2-4f4c-88fd-b16d68d5f271",
+  "NaturalKey": "L5951"
+}

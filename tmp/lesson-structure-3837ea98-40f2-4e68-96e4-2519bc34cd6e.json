@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245530-ela-9780133245530-ae-studio-images-ip3-ela-3-2-5_bk_pigeon-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327229-AE.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327229-AE.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4313",
+    "lesson_number": "6",
+    "lesson_name": "Lesson 6",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Homework Review",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "For homework, you wrote about how Anna&#8217;s school life changed after she met Mr. Wilson. Share your reflection with two other classmates.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "79cc8a66-299c-47da-9c53-5779252cb838",
+          "NaturalKey": "L4313:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e5a9ca0f-299c-4e55-bbf0-b4421eb2fc0f",
+      "NaturalKey": "L4313:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Retell the Story Orally",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Work with a partner to retell <em>Birdsong for Anna</em> aloud. If you need help, look at the story.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "230de7f5-299c-46d8-9d66-34a56a9586b3",
+          "NaturalKey": "L4313:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3cb8f085-299c-4d3d-b125-100ea039d6d9",
+      "NaturalKey": "L4313:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "What Is a Memoir?",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Can you think of a word that sounds like <em>memoir</em>? ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "263c98f1-299c-4632-a8fc-a8cf10ea24f5",
+          "NaturalKey": "L4313:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "08eb1b37-299c-432c-9792-d5fa8313dddc",
+      "NaturalKey": "L4313:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Two of your new vocabulary words are <em>torrent</em> and <em>cascade</em>. Listen and respond as your teacher introduces these words from <em>Birdsong for Anna.</em>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "aed5ca91-299c-41b0-ba55-42046065286f",
+          "NaturalKey": "L4313:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f364665c-299c-4eec-8743-41f8a5530710",
+      "NaturalKey": "L4313:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read independently.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2edadde3-299c-494c-aec9-3e9207ade311",
+          "NaturalKey": "L4313:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c122d62a-299c-41ba-b6a9-de050b685ead",
+      "NaturalKey": "L4313:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Fluency Practice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read the following sentences.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ee6878bb-299c-4c7b-b001-b9b14d2d68b3",
+          "NaturalKey": "L4313:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6675bea9-299c-4eec-9502-b2331ccc0864",
+      "NaturalKey": "L4313:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Respond to the following question in your Notebook.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6070e3ac-299c-45ff-a659-e9de375f4ca7",
+          "NaturalKey": "L4313:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "85da95fb-299c-4c6d-afa9-39afd18639b2",
+      "NaturalKey": "L4313:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson6_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson6_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson6_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "530c1a90-299c-4ca3-8620-470cd48b53be",
+          "NaturalKey": "L4313:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b438fee0-299c-42ef-8b7c-e4762253ea9b",
+      "NaturalKey": "L4313:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "3837ea98-40f2-4e68-96e4-2519bc34cd6e",
+  "NaturalKey": "L4313"
+}

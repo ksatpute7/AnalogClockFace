@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-10_bk_japanesecanvas-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AJ.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AJ.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4338",
+    "lesson_number": "10",
+    "lesson_name": "Lesson 10",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Hidden Clues Review",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Talk to your partner about why you think authors do not just tell the reader what the message is in their stories. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "53ae34b5-299c-4a58-b91a-59d867091ac8",
+          "NaturalKey": "L4338:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b00996de-299c-439f-9681-1d7defc53248",
+      "NaturalKey": "L4338:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "723cfbbe-299c-4a82-90ff-721769268e49",
+          "NaturalKey": "L4338:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "91a61c6e-299c-4edf-800c-7d86fb8952d4",
+      "NaturalKey": "L4338:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Whole Group Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share what you learned about the community in your text. What clues led you to infer what you did? ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1f2b2e4a-299c-4860-9db6-7a7f1554ad4e",
+          "NaturalKey": "L4338:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d228242f-299c-441c-a275-b53187ced175",
+      "NaturalKey": "L4338:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Record Your Story",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You and a partner will record each other telling your stories. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7bbc53da-299c-4e5a-a329-573685aef1e7",
+          "NaturalKey": "L4338:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d6eac294-299c-4333-a94a-ebf5f6841753",
+      "NaturalKey": "L4338:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Edit Your Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will edit your opinion piece so that it&#8217;s as polished as it can be. You&#8217;ll have a chance to share your writing during Author&#8217;s Chair.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1f4f3d7f-299c-41e9-9de6-e989622f6f2c",
+          "NaturalKey": "L4338:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "26659e27-299c-4ca1-b706-d5e69a8f29bc",
+      "NaturalKey": "L4338:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Vocabulary Game Time",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Play either Blob Busters or What&#8217;s the Word? to practice your vocabulary words.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ea494971-299c-43e3-8146-83abf66262fb",
+          "NaturalKey": "L4338:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b1ee497b-299c-4c8b-ab2d-7f4ccec08952",
+      "NaturalKey": "L4338:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Author's Chair",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4936663f-299c-41a8-b85d-0594f66b235e",
+          "NaturalKey": "L4338:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f130f69c-299c-4180-97ac-e8e875cafea4",
+      "NaturalKey": "L4338:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Reading Goals",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson10_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson10_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson10_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6f4bcc05-299c-406b-a16d-08344fb92e36",
+          "NaturalKey": "L4338:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6ee09211-299c-47eb-a18e-5ce852c96b15",
+      "NaturalKey": "L4338:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "8152b5a9-40f2-4705-80d5-e2344b8e41f7",
+  "NaturalKey": "L4338"
+}

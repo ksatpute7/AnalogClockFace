@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133335798-2015-images-ip3-elaca-3-n-4_bk_girlpainting-ip3.jpg",
+  "OriginalFileName": "ELA-9780133335798-AD.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133335798-AD.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "5912",
+    "lesson_number": "4",
+    "lesson_name": "Lesson 4",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "4",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Grade 3 Narrative Rubric: Development",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You used your rubric to help you organize your piece into a logical sequence. Now, you will look at the section in the rubric on development. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "70a5cf60-299c-440a-8412-ce3c55d8e554",
+          "NaturalKey": "L5912:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1fc12d62-299c-44f1-b10f-96963836f3f4",
+      "NaturalKey": "L5912:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Characters’ Actions, Thoughts, and Feelings",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now, you are going to study <em>Gram&#8217;s Angel Food Cake</em> to see how an author develops the plot and reveals information about the characters by describing a character&#8217;s actions, thoughts, and feelings.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 11,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e0f1ef3d-299c-4a13-bf2b-3e58b665f8de",
+          "NaturalKey": "L5912:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c797ddaf-299c-4f35-99dd-24980ea33886",
+      "NaturalKey": "L5912:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Actions, Thoughts, and Feelings",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You will now fill out a chart like the one you did with your class, but this time, you will focus on the main character in your Cold Write narrative.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "af650a0c-299c-48f5-bcdd-00db377b6439",
+          "NaturalKey": "L5912:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "84556f63-299c-44f1-a69f-5aac8fe40840",
+      "NaturalKey": "L5912:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Purposeful Dialogue",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you are going to learn another strategy for developing narratives. Writers use <em>purposeful dialogue</em> to develop events or show how characters respond to different situations. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "766fd41f-299c-4b42-8664-c90e3b7a1f4f",
+          "NaturalKey": "L5912:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d65df4c6-299c-413e-8656-e41f8f28a206",
+      "NaturalKey": "L5912:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Punctuating Dialogue",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Authors use punctuation to let readers know that they are reading dialogue. Quotation marks let the reader know that a character is speaking.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "678aca26-299c-43a4-878b-0411489caac1",
+          "NaturalKey": "L5912:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "36f81198-299c-41b7-b9c0-e5a7d0189ef3",
+      "NaturalKey": "L5912:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Revising Your Cold Write",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "So far in this lesson, you have learned two important strategies for developing your narratives:",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8a4738ec-299c-4920-b76f-bdbe012e65e0",
+          "NaturalKey": "L5912:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "529d0f36-299c-4104-a0af-7921f751d9b3",
+      "NaturalKey": "L5912:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Revision Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share your revisions with your partner. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9d2ea025-299c-4fb9-a83b-e2199bd8aa22",
+          "NaturalKey": "L5912:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d3e33952-299c-436a-b8a7-050d8e1fe17c",
+      "NaturalKey": "L5912:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson4_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson4_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson4_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "67d5bf89-299c-48e2-adee-8dc4813e5b34",
+          "NaturalKey": "L5912:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "4cf276d7-299c-47e4-aa60-e7ccdb9c627e",
+      "NaturalKey": "L5912:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "24389647-40f2-4944-b779-aac1f03b4bb5",
+  "NaturalKey": "L5912"
+}

@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245523-ela-9780133245523-ai-studio-images-ip3-ela-3-1-9_bk_littleleagueteam-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327212-AI.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327212-AI.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4287",
+    "lesson_number": "9",
+    "lesson_name": "Lesson 9",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "1",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": "1.0",
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Homework Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share with a partner the book you read for homework. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9a5f02ca-299c-4b17-8e21-932055eeea07",
+          "NaturalKey": "L4287:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "eeb17127-299c-45a5-a310-e3c1d71a316e",
+      "NaturalKey": "L4287:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Sentence Deconstruction",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will take apart a long sentence to get at its meaning.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "1b4929e3-299c-4ce1-80c0-8bd253ee8b43",
+          "NaturalKey": "L4287:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "255a50ae-299c-46ed-bcc7-4eb800d76ac4",
+      "NaturalKey": "L4287:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Word Choice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Authors choose each word carefully to help the reader understand the meaning they intend. If you change a word, you might change the meaning of the sentence. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "13914c02-299c-4265-96d7-6c8a78b81f3d",
+          "NaturalKey": "L4287:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "02aff35c-299c-4aa5-b7db-433e34ceab69",
+      "NaturalKey": "L4287:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Grammar and Language: Plural Nouns",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "To make regular nouns plural, you add an <strong>-s </strong>or an<strong> -es </strong>to the end of the word.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "143f37f8-299c-4b88-a7d2-2f9c8271134c",
+          "NaturalKey": "L4287:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "8178694e-299c-4f36-9a8b-c4c56c593e7f",
+      "NaturalKey": "L4287:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Reading Conference",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your teacher describes the special meetings you will have during Independent Reading. They are called Reading Conferences. These meetings with your teacher will really help you grow as a reader!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7862da07-299c-400f-a3c4-67bf743d5ec6",
+          "NaturalKey": "L4287:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "34cbcfce-299c-4d63-b9c7-c5225afe11fa",
+      "NaturalKey": "L4287:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Respond to the following question. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "fe3fae85-299c-42c5-8760-8722d3c5c9ea",
+          "NaturalKey": "L4287:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3dfae325-299c-4786-9549-35e2900dd2e3",
+      "NaturalKey": "L4287:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Reading Conference Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your classmates describe what the conferring process was like.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "87a691fd-299c-438d-bb1d-4cf260504fe6",
+          "NaturalKey": "L4287:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ef2b9ef8-299c-49e8-a8e0-511182b140f1",
+      "NaturalKey": "L4287:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Reflection",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now it is time to reflect on, or think about, your own work. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e515fc6c-299c-43fb-a9c3-aa1df3771c9c",
+          "NaturalKey": "L4287:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6396dd54-299c-4f14-9aa3-75678ed61ad9",
+      "NaturalKey": "L4287:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit1_lesson9_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit1_lesson9_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit1_lesson9_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-ela-ela-03-9780133245523-2015-articles-teacher-te-elaca-3-1-1-9-9.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3e9b37c1-299c-4d98-996f-384cf14e64f2",
+          "NaturalKey": "L4287:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0d948bbc-299c-4a65-a2bc-61b6ff320a05",
+      "NaturalKey": "L4287:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "a5bb67a3-40f2-4b19-855e-e75414af9691",
+  "NaturalKey": "L4287"
+}

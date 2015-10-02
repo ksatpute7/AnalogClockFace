@@ -1,0 +1,88 @@
+{
+  "bg_img_url": "SubLessonBackground/math_gallery_bg.png",
+  "OriginalFileName": "MATH-9780328760886-AF-02.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "MATH-9780328760886-AF-02.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "3347-02",
+    "lesson_number": "6",
+    "lesson_name": "Explore Numbers",
+    "lesson_types": null,
+    "subject": 1,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "0",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "math"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Explore Numbers",
+      "routines": null,
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Explore how to solve this problem.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson6-02_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson6-02_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson6-02_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-studio-articles-teacherguide-te-math-3-0-0-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "f4d48d37-299c-446f-83c4-0d4161f80a4f",
+          "NaturalKey": "L3347-02:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "325f1f11-299c-4fe2-911f-297bf815ccd6",
+      "NaturalKey": "L3347-02:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Explore Numbers",
+      "routines": null,
+      "steps": [
+        {
+          "step_id": 2,
+          "description": null,
+          "toc_description": "In your Notebook, write your answers to the following questions:",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson6-02_task2_step2.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson6-02_task2_step2.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson6-02_task2_step2.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-studio-articles-teacherguide-te-math-3-0-0-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "930e8659-299c-42a6-bdac-1270c2c13d63",
+          "NaturalKey": "L3347-02:T2:S2"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5b9ddb92-299c-4527-a549-00be107c49fe",
+      "NaturalKey": "L3347-02:T2"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "6b9e75fa-40f2-4e3a-88a0-99bfe285e895",
+  "NaturalKey": "L3347-02"
+}

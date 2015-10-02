@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Add_Subtract_tool</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" >
+	<link rel="stylesheet" href="stylesheets/normalize-min.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/feedback.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+	<!-- tested in jquery 1.7.2 and 1.10.2->
+	<!--<script src="js/jquery-1.7.2.min.js"></script>-->
+	
+	<script src="javascripts/jquery-1.10.2.min.js"></script>
+	<script src="javascripts/jquery-ui.js"></script>
+	<script src="javascripts/jquery.ui.touch-punch.js"></script>
+	<script src="javascripts/vendor-nojquery-min.js"></script>
+
+	<script src="javascripts/activity.js"></script>
+	<script src="javascripts/feedback.js"></script>
+	
+	
+
+	
+
+</head>
+
+<body style="background:#222;">
+	<div class="contentHolder" style="width:1024px; height:768px; position:relative; margin:auto; background-color:#bdd84f; background-size:100% 100%;">
+	
+	<div class="container" style="border:0px solid red; position:relative; width:100%; height:768px; margin-left:auto; margin-right:auto;">
+		<div id="mainContent" style="border:0px solid blue; height:680px;">
+			<br><br>
+			<div id="act1" style="display:block;">
+				<br/>
+				<div style="width:100%; height:600px; border:0px solid red;">
+				<div id="opt_symbl" style="width: 25px; height: 25px; position: absolute; top: 301px; left: 356px; line-height: 25px; text-align: center; font-size: 60px; display: block;"></div>
+				   
+				   <div id="carry_box_0" style="width: 57px; border:0px solid blue; position:absolute; top:43px; left:410px;">
+				   <div id="drop_7" class="drop_7 drop" style="border:0px dashed #88ab19; width:80px; height:87px;line-height:70px; text-align:center; left:0px; font-size:32px; position:absolute; top:-15px; display:none;"></div>
+				   
+						<div id="drop_7_0" class="drop_7_0" style="border:1.5px dashed #88ab19; width:60px; height:70px;line-height:70px; text-align:center; left:0px; background-color:#daf470; font-size:32px; display:none;"></div> 
+						<div id="drop_0_7" class="drop_drag_7 drop_drag" style="border:1.5px dashed #88ab19; width:60px; height:70px;line-height:70px; text-align:center; left:0px; background-color:#daf470; font-size:32px; display:none; top:0px; position:absolute;"></div>
+				   </div>
+				   <div id="carry_box_1" style="width: 57px; border:0px solid blue; position:absolute; top:43px; left:548px;">
+				   
+				   <div id="drop_8" class="drop_8 drop" style="border:0px dashed #88ab19; width:80px; height:85px;line-height:70px; text-align:center; left:0px; font-size:32px; position:absolute; top:-15px; display:none;"></div>
+						<div id="drop_8_0" class="drop_8_0" style="border:1.5px dashed #88ab19; width:60px; height:70px;line-height:70px; text-align:center; left:0px; background-color:#daf470; font-size:32px; display:none;"></div> 
+						<div id="drop_0_8" class="drop_drag_8 drop_drag" style="border:1.5px dashed #88ab19; width:60px; height:70px;line-height:70px; text-align:center; left:0px; background-color:#daf470; font-size:32px; top:0px; display:none; position:absolute;"></div>
+				   </div>
+				   <div id="carry_box_2" style="width: 57px; border:0px solid blue; position:absolute; top:43px; left:617px;">
+						
+					<div id="drop_9" class="drop_9 drop" style="border:0px dashed #88ab19; width:80px; height:85px;line-height:70px; text-align:center; left:19px; font-size:32px; position:absolute; top:-15px; display:none;"></div>
+					
+						<div id="drop_9_0" class="drop_9_0" style="border:1.5px dashed #88ab19; width:60px; height:70px;line-height:70px; text-align:center; left:0px; background-color:#daf470; font-size:32px; display:none;"></div> 
+						<div id="drop_0_9" class="drop_drag_9 drop_drag" style="border:1.5px dashed #88ab19; width:60px; height:70px;line-height:70px; text-align:center; left:0px; background-color:#daf470; font-size:32px; top:0px; display:none; position:absolute;"></div>
+				   </div>
+				   
+				   <div id="drop_box_0" style="border:0px solid #D3EFEA; position:absolute; left:410px; width:132px; height:132px; top:120px;">
+						<div id="drop_0" class="drop_0 drop" style="border:1.5px dashed #808080;width:130px;height:130px;position:absolute;"></div>
+						<div id="drop_0_0" class="drop_drag_0 drop_drag" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; text-align:center; line-height:130px; font-size:80px; text-shadow:0 -1px 0 #888; display:none; z-index:5;"></div>
+						
+						<div id="diagonal_0" style="width: 130px; height: 130px; position: absolute; -webkit-transform: rotate(45deg); left: 50px; top: 43px; border-left-width: 3px; border-left-style: solid; border-left-color: black; display: none; z-index: 10;"></div>
+						
+				   </div>
+				   
+				   <div id="drop_box_1" style="border:0px solid #D3EFEA; position:absolute; left:410px; width:132px; height:132px; top:256px;">
+				   
+						<div id="drop_2" class="drop_2 drop" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute;  top:0px;"></div>
+						<div id="drop_0_2" class="drop_drag_2 drop_drag" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; text-align:center; line-height:130px; font-size:80px; text-shadow:0 -1px 0 #888; display:none; top:0px;"></div>
+					</div>
+				   
+				   <div id="drop_box_2" style="border:0px solid #D3EFEA; position:absolute; left:546px; width:132px; height:132px; top:120px;">
+						<div id="drop_1" class="drop_1 drop" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute ;"></div>
+						<div id="drop_0_1" class="drop_drag_1 drop_drag" style="border: 1.5px dashed rgb(128, 128, 128); width: 130px; height: 130px; position: absolute; text-align: center; line-height: 130px; font-size: 80px; text-shadow: 0px -1px 0px rgb(136, 136, 136); display:none; z-index:5;"></div>
+						<div id="diagonal_1" style="width: 130px; height: 130px; position: absolute; -webkit-transform: rotate(45deg); left: 50px; top: 46px; border-left-width: 3px; border-left-style: solid; border-left-color: black; display: none; z-index: 10;"></div>
+						
+				   </div>
+				   <div id="drop_box_3" style="border:0px solid #D3EFEA; position:absolute; left:546px; width:132px; height:132px; top:256px;">
+						<div id="drop_3" class="drop_3 drop" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; top:0px;"></div>
+						<div id="drop_0_3" class="drop_drag_3 drop_drag" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; text-align:center; line-height:130px; font-size:80px; text-shadow:0 -1px 0 #888; display:none; top:0px;"></div>
+					</div>
+				   
+				   <div id="separator" style="width: 279px; border:0px solid red; position:absolute; top: 388px; right: 340px;">
+						<hr style="border:2px solid black;">
+					</div>
+					
+					<div id="drop_box_4" style="border:0px solid #D3EFEA; position:absolute; left:410px; top:408px; width:132px; height:132px;">
+						
+						<div id="drop_4" class="drop_4 drop" style="border:1.5px dashed #808080; width:130px; height:130px; line-height:130px; text-align:center; color:#FFFFFF; font-weight:bold; position:absolute; top:0px;"></div>
+						<div id="drop_0_4" class="drop_drag_4 drop_drag" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; text-align:center; line-height:130px;  font-size:80px; text-shadow:0 -1px 0 #888; display:none; top:0px; "></div>
+					
+					</div>
+					
+					<div id="drop_box_5" style="border:0px solid #D3EFEA; position:absolute; left:546px; top:408px; width:132px; height:132px;">
+						
+						<div id="drop_5" class="drop_5 drop" style="border: 1.5px dashed rgb(128, 128, 128); width: 130px; height: 130px; line-height: 130px; left: 0px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; top: 0px; position:absolute;"></div>
+						<div id="drop_0_5" class="drop_drag_5 drop_drag" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; left:0px; top: 0px; text-align:center; line-height:130px; font-size:80px; text-shadow:0 -1px 0 #888; display:none;"></div>
+					
+					</div>
+					
+					<div id="drop_box_6" style="border:0px solid #D3EFEA; position:absolute; left:273px; top:408px; width:132px; height:132px;">
+						
+						<div id="drop_6" class="drop_6 drop" style="border: 1.5px dashed rgb(128, 128, 128); width: 130px; height: 130px; line-height: 130px; left: 0px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; top: 0px; position:absolute; display:none;"></div>
+						<div id="drop_0_6" class="drop_drag_6 drop_drag" style="border:1.5px dashed #808080; width:130px; height:130px; position:absolute; left:0px; top: 0px; text-align:center; line-height:130px; font-size:80px; text-shadow:0 -1px 0 #888; display:none;"></div>
+					
+					</div>
+					
+				   <div id="my_div" class="drop_drop" style="width:90%; height:60px; left:30px; top:570px;  position: absolute; border:0px solid blue; text-align:center;"></div>
+				   <div id="mydiv" style="width:90%; height:60px; left:30px; top:570px; position:absolute; border:0px solid yellow; text-align:center;"></div>
+				   
+				   
+				   <div style="width:200px; border:0px solid red; position:absolute; top:570px; left:770px;text-align:center;">
+						<div id="opt_0" class="operand" style="border: 2px solid rgb(89, 131, 0); width: 65px; height: 65px; position: absolute; left: 0px; cursor: pointer; line-height: 65px; background-color: rgb(97, 198, 52); border-radius: 5px; font-weight: bold; font-size: 60px;">+</div>
+						
+						<div id="opt_1" class="operand" style="border: 2px solid #ca33be; width: 65px; height: 65px; position: absolute; left: 75px; cursor: pointer; line-height: 60px; background-color: #f95f92; border-radius: 5px; font-weight: bold; font-size:60px;">&ndash;</div>
+						
+						<div id="opt_2" class="operand" style="border: 2px solid #808080; width: 65px; height: 65px; position: absolute; left: 150px; cursor: pointer; line-height: 65px; background-color: #daf470; border-radius: 5px; font-size: 60px; display:none;"></div>
+				   </div>
+			</div>
+			
+			
+						
+			
+		</div>
+	
+		<div class="contentFeedback">
+				<div class="btReset">
+					<div class="icoReset"></div>
+				</div>
+				<div class="btInfo">
+					<div class="icoInfo"></div>
+				</div>
+				<div class="btFeedback">
+					<div class="icoFeed"></div>
+				</div>
+				<div class="score">
+					<div id="contCorrect">0 <img src="images/IconCorrect.png"></div>
+					<div id="contIncorrect">0 <img src="images/IconIncorrect.png"></div>
+				</div>
+			</div>
+	</div>	
+	</div>
+</body>
+<!--<script src="javascripts/test-harness.js"></script>-->
+</html>

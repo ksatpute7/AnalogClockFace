@@ -1,0 +1,434 @@
+{
+  "bg_img_url": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-images-ip3-mth-3-0-2_bk_maze-ip3.jpg",
+  "OriginalFileName": "MATH-9780328760886-AB.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "MATH-9780328760886-AB.json",
+  "MathMissionHeader": "Match a riddle to its number.",
+  "header": {
+    "lesson_id": "384",
+    "lesson_number": "2",
+    "lesson_name": "What Number Am I?",
+    "lesson_types": null,
+    "subject": 1,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "0",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "math"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Lesson Routines",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "In each lesson, you have the same routines.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-1.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "bc9d2f5f-299c-4908-90ba-76edc3abc5f1",
+          "NaturalKey": "L384:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5d2e6c78-299c-4f7b-b310-6edae35655a4",
+      "NaturalKey": "L384:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Classroom Expectations",
+      "routines": {
+        "routine": {
+          "routine_id": 2,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "These are our classroom expectations.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-2.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "9ac6a538-299c-404f-888e-996e5b630fda",
+          "NaturalKey": "L384:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f89cb061-299c-4927-93c5-14cea4df57ab",
+      "NaturalKey": "L384:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Qualities of Effective Presentations",
+      "routines": {
+        "routine": {
+          "routine_id": 3,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "During Work Time, you often prepare a presentation.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Here are ideas about how to prepare clear presentations: </p><p><ul><li>Understand your own work.</li></ul></p><p><ul><li>Show your work in ways that help others know what you are talking about.</li></ul></p><p><ul><li>Say fewer words and choose them carefully.</li></ul></p><p><ul><li>Include pictures and graphs when it is helpful.</li></ul></p><p><ul><li>Speak clearly and slowly.</li></ul></p><p><ul><li>Stay calm. Remember to breathe.</li></ul></p><p><ul><li>Listen carefully to comments and questions.</li></ul></p><p><ul><li>Pause to think about what you want to say before speaking.</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-3.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2fe5220e-299c-4cf2-adaa-a64041c04318",
+          "NaturalKey": "L384:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "11edb327-299c-408e-a44d-6f3ccc84f380",
+      "NaturalKey": "L384:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Model Partner Work",
+      "routines": {
+        "routine": {
+          "routine_id": 5,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Watch your teacher demonstrate how to complete this task with a partner.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-4.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "96d75828-299c-4d55-be79-aa79d1607cf6",
+          "NaturalKey": "L384:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b54967f1-299c-4a04-9e3c-8bebe99d6984",
+      "NaturalKey": "L384:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Math Mission",
+      "routines": {
+        "routine": {
+          "routine_id": 4,
+          "routine_name": "opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Match a riddle to its number.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 12,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-5.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e88fcf4d-299c-44f2-8cf3-5732a8cea19c",
+          "NaturalKey": "L384:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "093ec0c9-299c-4c6c-acf5-8839ec78f40b",
+      "NaturalKey": "L384:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Match Riddles With Solutions",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p><ul><li>Would drawing a picture help?</li></ul></p><p><ul><li>Is there another way to describe the same number?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-6.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e095a246-299c-4899-a12b-e6856d39d3a0",
+          "NaturalKey": "L384:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "0101bc04-299c-4ab6-b0ff-280614caf981",
+      "NaturalKey": "L384:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Prepare a Presentation",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "<strong></strong>Focus on the most difficult riddle.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task7_step1.png",
+          "challenge_problem_step": true,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4733cb69-299c-460a-9e3b-fb3320866085",
+          "NaturalKey": "L384:T7:S1"
+        },
+        {
+          "step_id": 2,
+          "description": null,
+          "toc_description": "<strong></strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task7_step2.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task7_step2.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task7_step2.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-7.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "58e9de7f-299c-4e91-8350-6f53cf9c5879",
+          "NaturalKey": "L384:T7:S2"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9bfacb78-299c-4bcc-b0cf-55aed247808b",
+      "NaturalKey": "L384:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Make Connections",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "ways of thinking"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>As your classmates present, ask questions such as:</p><p><ul><li>How do you explain your thinking clearly?</li></ul></p><p><ul><li>What pictures are helpful in your presentation?</li></ul></p><p><ul><li>How do you know that the riddle matches that number?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-8.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e7229af7-299c-4d9e-880d-0b1b96f9dc55",
+          "NaturalKey": "L384:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "bc0e99d2-299c-4bfc-916d-61150c15215c",
+      "NaturalKey": "L384:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Describe Expanded Form",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "summary of the math"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "<strong>Read and Discuss</strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": {
+            "hint": [
+              {
+                "hint_type": 0,
+                "hint_label": null,
+                "hint_description": "<p>Can you:</p><p><ul><li>Write a number from its riddle?</li></ul></p><p><ul><li>Explain why the riddle and the number match?</li></ul></p><p><ul><li>Write a different riddle that has the same number?</li></ul></p>"
+              }
+            ],
+            "comments": null
+          },
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-9.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "45ef132d-299c-41a4-9faf-763b7148d23d",
+          "NaturalKey": "L384:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c0490508-299c-4a7d-8fc9-e84764958069",
+      "NaturalKey": "L384:T9"
+    },
+    {
+      "task_id": 10,
+      "description": "Reflect On Your Work",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "reflection"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Write a reflection about the ideas discussed in class today. Use the sentence starter below if you find it to be helpful.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_mth_unit0_lesson2_task10_step1.html",
+          "screenshot_url": "screenshot_grade3_mth_unit0_lesson2_task10_step1.png",
+          "thumbnail_url": "thumbnail_grade3_mth_unit0_lesson2_task10_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "03-math-math-03-9780328760886-math-9780328760886-ab-studio-articles-teacherguide-te-math-3-0-0-2-10.xhtml",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7f126886-299c-4830-9c14-7240bc5cd7b7",
+          "NaturalKey": "L384:T10:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "88d2a538-299c-49bb-993d-8d15a6308e08",
+      "NaturalKey": "L384:T10"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "2ed6c1db-40f2-4435-bdd2-f0274db75068",
+  "NaturalKey": "L384"
+}

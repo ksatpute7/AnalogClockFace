@@ -1,0 +1,273 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133335798-2015-images-ip3-elaca-3-n-1_bk_kidsreadlinglist-ip3.jpg",
+  "OriginalFileName": "ELA-9780133335798-AA.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133335798-AA.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "5909",
+    "lesson_number": "1",
+    "lesson_name": "Lesson 1",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "4",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "What Is a Narrative? ",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have been reading and writing stories. These stories are called &#8220;narratives.&#8221; A <em>narrative</em> is a type of writing about events that happen during a period of time. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b0d6fd49-299c-4584-976d-2296b00460b8",
+          "NaturalKey": "L5909:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "d36fcae5-299c-4646-bdc2-f4d192ccc575",
+      "NaturalKey": "L5909:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Narrative Features",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "A <em>feature</em> is a key part or element of a genre. Add this term to your Vocabulary form.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "07ad8cde-299c-4b33-b333-ab3f982a3a57",
+          "NaturalKey": "L5909:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "3181709c-299c-4114-ba15-20cd62b9e2de",
+      "NaturalKey": "L5909:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Read and Annotate Gram’s Angel Food Cake",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Follow along as your teacher reads the narrative <em>Gram&#8217;s Angel Food Cake</em> aloud. As your teacher reads, look for examples of the narrative features listed on the chart in your classroom. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "784d55ac-299c-4714-953c-d9532439617b",
+          "NaturalKey": "L5909:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "00b0b0c9-299c-40fc-9407-68f0a7156747",
+      "NaturalKey": "L5909:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Identify Narrative Features",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share specific examples of the features that you found in the text. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ea334fb9-299c-4778-8c8a-aee4cdfb280e",
+          "NaturalKey": "L5909:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "5f1c1f5c-299c-4746-9d79-7371d79553f3",
+      "NaturalKey": "L5909:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Identify Narrative Features in Your Own Narrative",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now, you are going to look for narrative features in the Narrative Cold Writes that you wrote earlier this year. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ad2a0ad9-299c-4bbd-942c-21e9d8cfbee7",
+          "NaturalKey": "L5909:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "fee2c6f5-299c-43da-bcf2-6fde87070ba4",
+      "NaturalKey": "L5909:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Personal Graphic Organizer Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen as your classmates share their graphic organizers. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ab2a7add-299c-4b5c-a4b5-9cd27684e2c6",
+          "NaturalKey": "L5909:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "db2cf5d6-299c-4fea-960a-b3595055efe4",
+      "NaturalKey": "L5909:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Read",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson1_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson1_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson1_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "4fa711c1-299c-4b16-bd7c-085a9f6b545d",
+          "NaturalKey": "L5909:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "6f26dd4f-299c-4684-b17b-bfa10724036b",
+      "NaturalKey": "L5909:T7"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "74cdea5d-40f2-4d26-a0f1-2aa1822eea7a",
+  "NaturalKey": "L5909"
+}

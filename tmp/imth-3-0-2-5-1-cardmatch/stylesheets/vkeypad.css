@@ -1,0 +1,14 @@
+ @font-face{font-family:'GillSansInfant'; src:url(../fonts/gilsbbd.ttf)}
+ @font-face{font-family:'FontAwesome'; src:url(../fonts/fontspringicons-webfont.woff)}
+
+/*.keypadHolder{font-family:'GillSansInfant'; font-weight:bold; background: #F6F6F6; z-index: 1000; border-spacing: 5px; left:584px; top: 421px; border-radius:5px; }*/
+.keypadHolder{font-family:'GillSansInfant'; font-weight:bold; background: #F6F6F6; z-index: 1000; border-spacing: 5px; left:385px; top: 175px; border-radius:5px; }
+.vkBtn{vertical-align:middle; text-align:center; display:table-cell; background:#fff; border:1px solid #ccc; border-radius:5px; box-shadow:1px 1px 1px 1px #fff;}
+.vkBtn:active{background:#ffcc66;}
+.vkBtnBS{vertical-align:middle; width: auto;height: 50px; text-align:center; display:table-cell; /*background-color:#fff;*/ border:1px solid #ccc; border-radius:5px; box-shadow:1px 1px 1px 1px #fff; font-family:GillSansInfant; font-size: 18px; background:#fff url(../images/del.png) no-repeat center; }
+.NumPadClose{z-index: 10000;}
+/*.vkBtnBS{vertical-align:middle; width:30px; height: 24px;text-align:center; display:table-cell; background: #F6F6F6; font-family:GillSansInfant; }*/
+
+.vkBtnEmp{vertical-align:middle; text-align:center; display:table-cell; background:#F6F6F6;}
+/*.vkBtnCls { text-align:center; font-size: 14px; width: 20px; height: 20px; background:#000; border:1px solid #ccc; border-radius:20px; color: #fff; }*/
+.vkBtnCls { text-align:center; font-size: 14px; width: 40px; height: 40px; background:url(../images/close_btn.png) no-repeat; background-size: 25px 25px;cursor: pointer;}

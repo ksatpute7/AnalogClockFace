@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	
+    <meta charset="UTF-8">
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" >
+	<meta name = "format-detection" content = "telephone=no" />
+	<link rel="stylesheet" type="text/css" href="stylesheets/feedback.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+	<link rel="stylesheet" href="stylesheets/jquery-ui.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/aKeypad.css" />
+	
+	
+</head>
+
+<body>
+<div class="mainContainerHidden" id="mainContainerHidden"></div>
+	
+		<div class="container">
+			
+			<div class="mainContent" >
+
+			<!--put content below this-->
+			
+			<!-- grade 3-5 menu -->
+	<div id="Wrapper_1" style="position:absolute; overflow:hidden; width:1024px; height:700px; border:#F00 0px solid; display:block;">		<div id="icon_i" style="position:absolute; text-align:center; width:800px; height:580px;top:50px; left:90px; border:#0F0 0px solid; "></div>	</div>
+			<!--end of grade 3-5 menu-->
+			
+		<!--Act First-->
+	<div id="mainDiv_1" class="maindivcls" style="display:none;  ">
+          <div id="stage" class="stagecls" style="display:block;"> 
+           
+           <!--Tool container-->
+            <div id="container_addition" style="position: absolute;border: 0px solid green;width: 739px;top: 137px;left: 98px;height: 500px;">
+              <!--total answer box-->
+              <div id="Total_cont" style="position:absolute; border:0px solid #000; width:700px; top:13px; left:85px; height:40px;">
+                <input id="num_1" maxlength="4" readonly class="questmarkbox"  style="left: 79px;top: 0px; " ></input>
+                <input id="ans_0" class="questtext" maxlength="30" style="top:0px;;left: 173px; "> </input>
+              </div>
+              <!--Line and answer box-->
+              <div id="line_cont" style="position: absolute;left: 0px;top: 75px;width: 100%;height: 188px;border: 0px solid #00f;">
+                <div id="line" style="position: absolute;border-top: 2px solid #000;border-left: 2px solid #000;border-right: 2px solid #000;width: 731px;height: 15px;top: 23px;left: 0px; border-radius:10px 10px 0px 0px;"></div>
+                <div id="tap_cont" style="position: absolute;width: 739px;height: 85px;border: 0px solid #000;top: 47px;left: 0px;">
+                  <div id="tap_0" style="position: relative;border: 0px solid #FFF;width: 367px;height:85px;text-align: center;line-height: 65px;background-color:rgb(251, 175, 92);float: left;">
+                    
+                    <div id="line_1" style="position: absolute;border-bottom: 2px solid #000;border-left: 2px solid #000;border-right:2px solid #000;width: 362px;height: 15px;top: 92px;left: 1px; border-radius:0px 0px 15px 15px;"></div> 
+                  </div>
+				  <input id="num_2" maxlength="3" readonly class="questmarkbox" style="left: 146px;top: 21px;"></input>
+				  
+                  <div id="tap_1" style="position: relative;border: 0px solid #FFF;width: 368px;height: 85px;text-align: center;line-height: 65px;background-color:rgb(0, 191, 243);float: left;">
+                   
+                    <div id="line_2" style="position: absolute;border-bottom: 2px solid #000;border-left: 2px solid #000;border-right: 2px solid #000;width: 362px;height: 15px;top:92px;left: 0px; border-radius:0px 0px 15px 15px;"></div>
+                     
+                  </div>
+				   <input id="num_3" maxlength="3" readonly  class="questmarkbox" style="right: 146px;top: 21px;"></input>
+				   
+                      <div id="line_cut"   style="position: absolute;border:0px solid #000;width: 9px;height: 85px;top:0px;left: 362px; background-position: -1055px -186px;"></div>
+               	<input id="line_1_val"  type="hidden" value="363px" >
+				<input id="line_2_val"  type="hidden" value="362px" >
+				
+				<input id="tap_0_val"  type="hidden" value="367px" >
+				<input id="tap_1_val"  type="hidden" value="368px" >
+				
+				<input id="num_2_val"  type="hidden" value="146px" >
+				<input id="num_3_val"  type="hidden" value="146px" >
+				
+				<input id="line_cut_val"  type="hidden" value="362px" >
+				
+				
+				
+				<input id="tap_0_color"  type="hidden" value="rgb(251, 175, 92)" >
+				<input id="tap_1_color"  type="hidden" value="rgb(0, 191, 243)" >
+				
+				<input id="ans_1_val"  type="hidden" value="30px" >
+				<input id="ans_2_val"  type="hidden" value="392px" >
+                </div>
+               
+                
+              </div>
+              
+              <!--Answer containter-->
+              <div id="ans_cont" style="position: absolute;border: 0px solid #fff;width: 100%;height: 40px;left: 0px;top: 253px;">
+                <input id="ans_1" class="questtext" maxlength="30"  style=" left:30px; top:0px;"></input>
+                <input id="ans_2" class="questtext" maxlength="30"  style="left:392px;top: 0px; "></input>
+              </div>
+              
+              
+             
+             
+                 <input id="BackBtn" type="button" value="BACK" style="position: absolute;left: 334px;top: 407px;width: 65px;height: 30px;display: block; font-weight:bold;"></input>
+    
+         
+            </div>
+          </div>
+    </div>
+			
+			<!--End of Act First-->
+
+			<!--Second Act-->
+	<div id="act1" style="display:none;">
+
+                <div style="width:100%; height: 480px; top:120px; border: 0px solid red; position:absolute;">
+				   
+                    
+				<div id="container_form" style="position:absolute; border:0px solid green; width:100%;  height:auto; ">
+					
+
+					<div style="position:relative;border:0px solid red;top:100px;">
+					
+						<input id="txt_area_0" class="questtext" style="left:15px; top:20px;" maxlength="30">
+							
+						<div id="num_div_par_0" class="num_div_par_0" style="position:relative; border:0px solid #8a8a8a; vertical-align:middle; width: 651px; height:87px;  text-align:center; line-height:70px; left:350px; font-size:large; overflow:hidden;">
+						
+							<div id="num_input_par_0" class="num_input_par_0" style="position:absolute; border:1px solid #8a8a8a; vertical-align:middle; width: 651px; height:85px;  text-align:center; line-height:50px; background-color:rgb(251, 175, 92); top: 0px;left: 0px;"></div>
+							
+							<input type="text" readonly id="mun_1" maxlength="4" class="questmarkbox" style=" left:294px; top:24px; line-height:40px; overflow:hidden;">
+							
+						</div>
+					
+					</div>
+					<div style="position:relative;border:0px solid blue;top:150px;">
+						<input id="txt_area_1" class="questtext" style="left:15px; top:20px;"  maxlength="30">
+						
+						<div id="num_div_par_1" class="num_div_par_1" style="position:relative; border:0px solid #8a8a8a; vertical-align:middle; width: 651px; height:87px;  text-align:center; line-height:70px; left:350px; font-size:large; overflow:hidden;">_____________________________________________________________________________
+						
+							<div id="num_input_par_1" class="num_input_par_1" style="position:absolute; border:1px solid #8a8a8a; vertical-align:middle; width: 325px; height:85px; background-color:rgb(0, 191, 243); text-align:center; line-height:50px; top: 0px;left: 0px;"></div>
+							
+							<input type="text" readonly id="mun_2" maxlength="3" class="questmarkbox" style="left:124.5px; top:24px; text-align:center; line-height:40px; overflow:hidden; ">
+							
+							<div id="num_input_par_2" class="num_input_par_2" style="position:absolute; border:1px solid black; vertical-align:middle; width: 323px; height:85px; text-align:center; line-height:50px; top: 0px;right: 0px; border-left:none; border-bottom:none; border-top:none;"></div>
+							<input type="text" readonly id="mun_3" maxlength="3" class="questmarkbox" style=" right:122.5px; top:24px; text-align:center; line-height:40px; overflow:hidden;">
+							
+							<div id="line_cut_second"  class="spritee1" style="position: absolute;border:0px solid #000;width: 9px;height: 85px;top:0px;left: 321px; background-position: -1055px -186px;"></div>
+						</div>
+					</div>
+					
+				
+				<input id="mun_2_val"  type="hidden" value="124.5px" >
+				<input id="mun_3_val"  type="hidden" value="122.5px" >
+				
+				<input id="line_cut_second_val"  type="hidden" value="321px" >
+				
+				<input id="num_input_par_1_val"  type="hidden" value="325px" >
+				<input id="num_input_par_2_val"  type="hidden" value="321px" >
+				
+				<input id="num_input_par_0_color"  type="hidden" value="rgb(251, 175, 92)" >
+				<input id="num_input_par_1_color"  type="hidden" value="rgb(0, 191, 243)" >
+					
+				</div>
+				
+	
+			</div>
+				
+		<input id="BackBtn_2" type="button" value="BACK" style="position: absolute;left: 505px;top: 565px;width: 65px;height: 30px;display: block; font-weight:bold;"></input>
+						
+	</div>
+					
+			
+			<!--End of Second Act-->
+            <!--Third Act-->
+           
+    <div id="Wrapper" unselectable='on' style="position:absolute; -webkit-user-select:none; left:0px; top:0px; width:1024px; height:680px;display:none; border:#000 0px solid;">
+            <!--Question Part-->
+		
+		<input id="subclass_1_color" type="hidden" value="rgb(172, 211, 114)" >
+		<input id="greyBox_color" type="hidden" value="rgb(220, 220, 220)" >
+            
+        <div id="totalValueLine" style="position:absolute; border-radius:15px 15px 0px 0px; width:898px; height:15px; border-left:#000 2px solid; border-right:#000 2px solid; border-top:#000 2px solid; left:60px; top:267px;"></div>
+        <div id="greyBox" style="position:absolute; left:60px; top:292px; width:900px; height:80px; border:1px solid black; background:#DCDCDC;"></div>
+		
+		<div id="partValue" style="position:absolute; width:80px; height:15px; border-left:#000 2px solid; border-radius:0px 0px 15px 15px; border-right:#000 2px solid; border-bottom:#000 2px solid; left:60px; top:381px;"></div>
+		
+		<div id="errorcondition" style="position:absolute; width:300px; height:50px; color:red; top:140px; left:210px; border:0px solid red;"></div>
+           
+
+		 <input id="thridnum_1" maxlength="4" readonly class="questmarkbox" style="left:306px; top:183px;">
+		 <input id="thridnum_2" maxlength="2" readonly class="questmarkbox" style="left:60px;top:421px;">
+		 <input id="thridnum_3" maxlength="2" readonly class="questmarkbox"  style="right: 17px; width:45px;top: 548px;  z-index: 10; color: rgb(0, 0, 0);">
+		
+		 
+		<div id="numberLine" style="position:absolute; width:900px; height:20px; border-top:#000 2px solid; left:60px; top:530px;"></div>
+		
+		<div id="startPoint" style="position:absolute;text-align:center; font-size:30px; width:76px;height:40px;line-height:40px; left:22px; top:549px; border:0px solid black;"></div>
+		
+		<div id="intervals_f" style="top:530px;left:60px;" class="commonLine3"></div>
+		<div id="intervals_l" style="top:530px;left:960px;" class="commonLine3"></div>
+		
+		<input type="text" id="firstValue" class="questtext" value="" maxlength="30" style="top:183px; left:398px;"> 
+		<input type="text" id="secondValue" class="questtext" value="" maxlength="30" style="top:421px; left:152px;"> 
+
+
+		<input id="thirdBackBtn" type="button" value="BACK" style="position: absolute;left:480px;bottom:10px;width: 65px;height: 30px;display: block; font-weight:bold;"></input>
+
+		
+	</div>
+          
+	 
+	 <!--End of Third Act -->
+			
+			
+			 
+			<!--fourth Act-->
+    <div id="Wrapper_four" style="position:absolute; left:0px; top:0px; width:1024px; height:680px;display:none; border:#000 0px solid;">
+		<!--Question Part-->
+
+				
+		<div id="totalValueLine" style="position:absolute; border-radius:10px 10px 0px 0px; width:660px; height:15px; border-left:#000 2px solid; border-right:#000 2px solid; border-top:#000 2px solid; left:272px; top:230px;"></div>
+		<div id="greyBox_fourth" style="position:absolute; left:272px; top:255px; width:663px; height:80px; border:1.5px dashed black;background:#DCDCDC;"></div>
+		<div id="greyBox_one" style="position:absolute; left:272px; top:359px; width:66px; height:80px; border:1.5px dashed black;background:#DCDCDC;"></div>
+
+
+		<div id="partValuefourth" style="position:absolute; width:66px; height:15px; border-left:#000 2px solid; border-radius:0px 0px 10px 10px; border-right:#000 2px solid; border-bottom:#000 2px solid; left:272px; top:448px;"></div> 
+	 
+		<input id="fourthdnum_1" type="text" class="questmarkbox" readonly maxlength="5" style="left:360px; top:135px;">
+		<input id="fourthdnum_2" type="text" class="questmarkbox" readonly maxlength="4" style="left:272px; top:488px;">
+		<input id="fourthdnum_3" type="text" class="questmarkbox" readonly maxlength="2" style="left:75px; top:328px; ">
+	 
+		<input type="text" id="firstValue_fourth" class="questtext" value="" maxlength="30" style="top:135px; left:475px; "> 
+		<input type="text" id="secondValue_fourth" class="questtext" value="" maxlength="30" style="top:488px; left:390px;"> 
+
+
+		<input id="BackBtn_4" type="button" value="BACK" style="position: absolute;left: 505px;top:630px;width: 65px;height: 30px;display: block; font-weight:bold;"></input>
+    </div>      
+	
+	<!--End of fourth Act -->
+		 
+			<!-- put content above this-->
+
+	</div>
+			<div class="contentFeedback">
+				<div class="btReset">
+					<div class="icoReset"></div>
+				</div>
+				<div class="btInfo">
+					<div class="icoInfo"></div>
+				</div>
+				<!--<div class="btFeedback">
+					<div class="icoFeed"></div>
+				</div>-->
+				<div class="score">
+					<div id="contCorrect">0 <img src="images/IconCorrect.png"></div>
+					<div id="contIncorrect">0 <img src="images/IconIncorrect.png"></div>
+				</div>
+			</div>
+</div>
+
+	
+	<div class="infoContainer" id="errorContainer">
+	<div id='errHead' class="errHead"></div>
+		<div id='errclose' class="close_Button"></div>
+		<div id="errtxt" class="txtDiv"></div>
+	</div>
+	<!--<div class="infoContainer" id="infoContainer">
+		<div id='close_Button' class="close_Button">x</div>
+		<div id="txtDiv" class="txtDiv"></div>
+	</div>-->
+	
+			 
+	<div id="colorpallate" style="position:absolute; width:120px; height:120px; top:200px; left:200px; border:solid 2px #7D7D7D; border-radius:5px; display:none; background-color:#E1E1E1;"></div>
+		
+	
+	<script src="javascripts/jquery-1.10.2.min.js"></script>
+	<script src="javascripts/jquery-ui.js"></script>
+	<script type="text/javascript" src="javascripts/jquery.ui.touch-punch.js"></script>
+	<script src="javascripts/aKeypad.js"></script>
+
+	
+	<script type="text/javascript" src="javascripts/activity.js"></script>
+	<script type="text/javascript" src="javascripts/act1.js"></script>
+	<script type="text/javascript" src="javascripts/act2.js"></script>
+	<script type="text/javascript" src="javascripts/act3.js"></script>
+	<script type="text/javascript" src="javascripts/act4.js"></script>
+	
+	<script type='text/javascript' src='javascripts/script.js'></script>
+
+
+	<script type='text/javascript' src='javascripts/vendor-nojquery-min.js'></script>
+	<script type='text/javascript' src='javascripts/app_event.js'></script>
+
+    <!-- Uncomment the next line to test saving on browser  
+    <script type='text/javascript' src='javascripts/test-harness.js'></script> -->
+</body>
+</html>

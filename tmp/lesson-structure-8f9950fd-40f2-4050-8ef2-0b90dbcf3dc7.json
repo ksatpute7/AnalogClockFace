@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245530-ela-9780133245530-ag-studio-images-ip3-ela-3-2-7_bk_babybird-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327229-AG.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327229-AG.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4315",
+    "lesson_number": "8",
+    "lesson_name": "Lesson 8",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Pronouns",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Pronouns are useful parts of the English language. <em>Pronouns</em> &#8220;stand in&#8221; for nouns. The pronouns <em>his</em>, <em>hers</em>, and <em>their</em> show possession.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6595ec37-299c-456f-a264-1a479125d4d9",
+          "NaturalKey": "L4315:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a5cd38c7-299c-4a63-8c46-d569dff4faad",
+      "NaturalKey": "L4315:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Vocabulary",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and respond as your teacher introduces two new vocabulary words. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "448c7b54-299c-4bab-9284-efe14e43c77c",
+          "NaturalKey": "L4315:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b1518a78-299c-42eb-bc72-bb8c7e0ffac0",
+      "NaturalKey": "L4315:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Narrative Rubric Review",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Before you put the finishing touches on your memoir, review the rubric with your class.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a683318a-299c-423f-a08b-b31d70b64701",
+          "NaturalKey": "L4315:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "38f9488d-299c-4c4e-8489-936bbbfafaee",
+      "NaturalKey": "L4315:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Independent Writing",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b07e2f6d-299c-474b-8881-c2a1178cf8ed",
+          "NaturalKey": "L4315:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7633017b-299c-4277-974d-6a6891a127e6",
+      "NaturalKey": "L4315:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Response Groups",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Review the Response Group Checklist with your class.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "7162124f-299c-46f2-9aa7-fd55b1cd0e4d",
+          "NaturalKey": "L4315:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "c09feb81-299c-40d5-9a88-975eaa3ada36",
+      "NaturalKey": "L4315:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Sentence Deconstruction",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Work with your class to fully understand the meaning of the following sentence from <em>Birdsong for Anna</em>.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ef796ae1-299c-45ba-8209-3771baf01282",
+          "NaturalKey": "L4315:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "09e57fba-299c-4e87-a501-698449cbd5e3",
+      "NaturalKey": "L4315:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "6520cd42-299c-4733-8fa2-bc284131fd9b",
+          "NaturalKey": "L4315:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "01895689-299c-4c57-9954-17206ad16da5",
+      "NaturalKey": "L4315:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Whole Group Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "eae6c660-299c-4730-9bac-a65586195176",
+          "NaturalKey": "L4315:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2c7b130a-299c-408a-945d-a9a848f20d36",
+      "NaturalKey": "L4315:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Homework",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit2_lesson8_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit2_lesson8_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit2_lesson8_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3df23e1e-299c-46c0-8343-72697dc0919b",
+          "NaturalKey": "L4315:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "7b9fee4d-299c-49ce-8133-c11516603248",
+      "NaturalKey": "L4315:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "8f9950fd-40f2-4050-8ef2-0b90dbcf3dc7",
+  "NaturalKey": "L4315"
+}

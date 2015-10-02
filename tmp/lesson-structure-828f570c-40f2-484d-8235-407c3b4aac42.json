@@ -1,0 +1,203 @@
+{
+  "bg_img_url": "",
+  "OriginalFileName": "ELA-5500000000003-AX.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-5500000000003-AX.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "6223",
+    "lesson_number": "24",
+    "lesson_name": "Lesson 24",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 31,
+    "gradeSpecified": true,
+    "unit": "2",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Week 24, Day 1: Spelling Pretest",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson24_task1_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson24_task1_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson24_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "dc2dd7c1-299c-418c-ba35-0119ee816d6a",
+          "NaturalKey": "L6223:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "188aee3e-299c-451c-8c3e-8da9a4fa6c93",
+      "NaturalKey": "L6223:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Week 24, Day 2: Open Sort",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Today, you will continue to work with the spelling words of the week. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson24_task2_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson24_task2_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson24_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "33ef0a46-299c-45cc-853c-bdb25621ef9d",
+          "NaturalKey": "L6223:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "659924e6-299c-4c59-8cf5-f13ee100e9c2",
+      "NaturalKey": "L6223:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Week 24, Day 3: Present Spelling Words",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Work with your group to introduce two of your spelling words to the class. Here are the things you will need to share about your words: ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson24_task3_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson24_task3_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson24_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "210fa309-299c-4793-920c-887c77597de5",
+          "NaturalKey": "L6223:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9f38842f-299c-4681-b56d-6c4ed5c9d0a2",
+      "NaturalKey": "L6223:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Week 24, Day 4: Spelling Practice",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Practice for the spelling test by using the &#8220;See, Say, Cover, Write, Check&#8221; method. Your teacher will review the steps in this method.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson24_task4_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson24_task4_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson24_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c9513251-299c-440c-9a31-12c5f4059982",
+          "NaturalKey": "L6223:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "aa2b38d2-299c-4b48-b548-2b3e6b29d687",
+      "NaturalKey": "L6223:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Week 24, Day 5: Spelling Test",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "gradev2015_sg_ela_unit2_lesson24_task5_step1.html",
+          "screenshot_url": "screenshot_gradev2015_sg_ela_unit2_lesson24_task5_step1.png",
+          "thumbnail_url": "thumbnail_gradev2015_sg_ela_unit2_lesson24_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "495f9101-299c-41e8-aa7e-d03b988c5e6c",
+          "NaturalKey": "L6223:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e377c891-299c-4c66-8844-5fd8cf57a22d",
+      "NaturalKey": "L6223:T5"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "828f570c-40f2-484d-8235-407c3b4aac42",
+  "NaturalKey": "L6223"
+}

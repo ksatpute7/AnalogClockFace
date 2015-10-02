@@ -1,0 +1,308 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133245547-studio-images-ip3-ela-3-3-11_bk_japanesecanvas-ip3.jpg",
+  "OriginalFileName": "ELA-9780133327236-AK.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133327236-AK.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "4339",
+    "lesson_number": "11",
+    "lesson_name": "Lesson 11",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "5",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Communities and Culture",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Think about what you learned about the community and culture in <em>Crow Boy</em> and in <em>Chicken Sunday</em>.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8625ce54-299c-4683-83fa-2bd6981c3967",
+          "NaturalKey": "L4339:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "2128a3a0-299c-432e-ae4f-d81c2f7435bf",
+      "NaturalKey": "L4339:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "Compare Communities and Culture",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "36d7d8d7-299c-4a1d-be45-89c032ed331b",
+          "NaturalKey": "L4339:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "1456e1b0-299c-4a61-8bf5-336fa314dde2",
+      "NaturalKey": "L4339:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "Comparison Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work TIme"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Share what you learned about the community in your book.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "582d97f5-299c-4abb-9791-24dca740ca54",
+          "NaturalKey": "L4339:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "00072a71-299c-440a-8583-183c7396d781",
+      "NaturalKey": "L4339:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Independent Reading",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "08ed3b50-299c-413e-a66f-ecbad4bfbdf1",
+          "NaturalKey": "L4339:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "b8fca11d-299c-44c8-978b-ae06ea568487",
+      "NaturalKey": "L4339:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Reflect on Your Storytelling",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Work Time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "You have worked hard to become a great storyteller. Today you will have the chance to see how much you have improved. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "51aa08ec-299c-461f-9d04-b99ef8c73b97",
+          "NaturalKey": "L4339:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f3b38eb1-299c-4ac7-8ac3-212bf6f614c7",
+      "NaturalKey": "L4339:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Suffixes",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "work time"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you'll review suffixes that you've learned so far and work on a new, very useful one.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "ef38e178-299c-4ad6-b371-fcb1e5bf2c34",
+          "NaturalKey": "L4339:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ba147fc2-299c-4110-a373-adf73f1fc218",
+      "NaturalKey": "L4339:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Reflection Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "Closing"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Discuss with the rest of the class how your storytelling has changed.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "5f999ad0-299c-4bce-a055-5f013bcb08f9",
+          "NaturalKey": "L4339:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "afafe0bf-299c-4e1f-8224-1e1855f8b8fe",
+      "NaturalKey": "L4339:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "homework"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit5_lesson11_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit5_lesson11_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit5_lesson11_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": "",
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "2f387676-299c-43c8-8e72-a9340ac58d22",
+          "NaturalKey": "L4339:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "e6956551-299c-4c8a-a25c-4803e64782ad",
+      "NaturalKey": "L4339:T8"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "6be0d71a-40f2-4c3e-9612-455d69b18234",
+  "NaturalKey": "L4339"
+}

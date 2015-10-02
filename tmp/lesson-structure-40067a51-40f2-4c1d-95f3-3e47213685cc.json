@@ -1,0 +1,343 @@
+{
+  "bg_img_url": "03-ela-ela-03-9780133335798-2015-images-ip3-elaca-3-n-5_bk_boysunderwater-ip3.jpg",
+  "OriginalFileName": "ELA-9780133335798-AE.xml",
+  "OriginalRelativeFileDirectory": null,
+  "FlattenedJsonFileName": "ELA-9780133335798-AE.json",
+  "MathMissionHeader": null,
+  "header": {
+    "lesson_id": "5913",
+    "lesson_number": "5",
+    "lesson_name": "Lesson 5",
+    "lesson_types": null,
+    "subject": 0,
+    "subject_classificationSpecified": false,
+    "grade": 3,
+    "gradeSpecified": true,
+    "unit": "4",
+    "episode_number": null,
+    "episode_name": null,
+    "time_required": null,
+    "version_number": null,
+    "SubjectString": "ela"
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "description": "Grade 3 Narrative Writing Rubric: Closure",
+      "routines": {
+        "routine": {
+          "routine_id": 1,
+          "routine_name": "Opening"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Look at the section on Closure in your rubric. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 4,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task1_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task1_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task1_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "3353277d-299c-46db-9319-247ccbbb44c2",
+          "NaturalKey": "L5913:T1:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "4b1014d8-299c-4b5d-9ae3-8339ab1c6b45",
+      "NaturalKey": "L5913:T1"
+    },
+    {
+      "task_id": 2,
+      "description": "A Closure Exemplar",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Listen and follow along as your teacher reads the closure of <em>Gram&#8217;s Angel Food Cake</em>.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task2_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task2_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task2_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "a31596ba-299c-4faa-8c3e-0c9b4e46a2f0",
+          "NaturalKey": "L5913:T2:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "fc94218c-299c-42b9-8d35-0abf65130ade",
+      "NaturalKey": "L5913:T2"
+    },
+    {
+      "task_id": 3,
+      "description": "A New Closure",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will put into practice what you learned about writing a closure.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task3_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task3_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task3_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "8d7f6677-299c-42d8-85e4-9d61fbe02b32",
+          "NaturalKey": "L5913:T3:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "bf600f91-299c-4615-9727-4fcf5ce0e6f8",
+      "NaturalKey": "L5913:T3"
+    },
+    {
+      "task_id": 4,
+      "description": "Polish Your Narrative",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now you will have time to make some additional revisions and edits to your narrative. You are polishing your piece and getting it ready to share!",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task4_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task4_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task4_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "31041b45-299c-453d-a570-f09b251abc23",
+          "NaturalKey": "L5913:T4:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "f47a9506-299c-49d1-bbc7-15233a815a1f",
+      "NaturalKey": "L5913:T4"
+    },
+    {
+      "task_id": 5,
+      "description": "Prepare to Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Take turns reading aloud your revised narrative with your partner. You will share with a small group in the next task. ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task5_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task5_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task5_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "743b6ad2-299c-4bf9-8d4f-2b3767d0d145",
+          "NaturalKey": "L5913:T5:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "ed82e8d9-299c-41d6-8d33-ac6c5d2e4f69",
+      "NaturalKey": "L5913:T5"
+    },
+    {
+      "task_id": 6,
+      "description": "Feedback Share",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Now it&#8217;s time to share your hard work! ",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 3,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task6_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task6_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task6_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "615ecbdb-299c-4431-aae4-6130d878a985",
+          "NaturalKey": "L5913:T6:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "643bd92f-299c-4692-9831-0a0a7fcf61fc",
+      "NaturalKey": "L5913:T6"
+    },
+    {
+      "task_id": 7,
+      "description": "Reviewing the Feedback",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "WORK TIME"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Review the feedback you&#8217;ve received.",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task7_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task7_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task7_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "c5ad6a07-299c-485f-9ea9-2b43af314154",
+          "NaturalKey": "L5913:T7:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "9c3d04fe-299c-464e-891e-d2e31d9dc542",
+      "NaturalKey": "L5913:T7"
+    },
+    {
+      "task_id": 8,
+      "description": "Reflection on New Learning",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "CLOSING"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "Read over your original Cold Write piece and compare it to your revised one.<strong></strong>",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task8_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task8_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task8_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "e2ec847b-299c-48f5-b6e9-ad35c6f582dc",
+          "NaturalKey": "L5913:T8:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "a8beac4a-299c-40fb-b312-96cad28dab95",
+      "NaturalKey": "L5913:T8"
+    },
+    {
+      "task_id": 9,
+      "description": "Read!",
+      "routines": {
+        "routine": {
+          "routine_id": 0,
+          "routine_name": "HOMEWORK"
+        }
+      },
+      "steps": [
+        {
+          "step_id": 1,
+          "description": null,
+          "toc_description": "",
+          "intended_end_user_roleSpecified": false,
+          "interactivity_type": null,
+          "layout": 0,
+          "completedSpecified": false,
+          "hints": null,
+          "professional_development": null,
+          "content_url": "grade3_ela_unit4_lesson5_task9_step1.html",
+          "screenshot_url": "screenshot_grade3_ela_unit4_lesson5_task9_step1.png",
+          "thumbnail_url": "thumbnail_grade3_ela_unit4_lesson5_task9_step1.png",
+          "challenge_problem_step": false,
+          "teacher_mode_content": null,
+          "scrollable": false,
+          "ResourceType": "Step",
+          "LearningResourceId": "b65879ed-299c-484a-93d3-7983c0875321",
+          "NaturalKey": "L5913:T9:S1"
+        }
+      ],
+      "ResourceType": "Task",
+      "LearningResourceId": "74e5e5cb-299c-4903-982c-6f9cb405e2c7",
+      "NaturalKey": "L5913:T9"
+    }
+  ],
+  "ResourceType": "Lesson",
+  "LearningResourceId": "40067a51-40f2-4c1d-95f3-3e47213685cc",
+  "NaturalKey": "L5913"
+}
